@@ -1,0 +1,23 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = democratic
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 90
+	communism = 6
+	neutrality = 0
+	fascism = 4
+}
+
+create_country_leader = {
+	name = "Liche Kochtcheï"
+	desc = "POLITICS_OSIA_TRENAL_DESC"
+	picture = "Portrait_ROU_Ossia_Trenal.dds"
+	expire = "1947.1.1"
+	ideology = liberalism
+	traits = {
+		
+	}
+}
