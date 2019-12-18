@@ -1,0 +1,22 @@
+state={
+	id=5
+	name="STATE_5" # Nimes 
+	manpower = 322900
+	
+	state_category = town
+
+	history={
+		owner = ROU
+		victory_points = { 55 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = ROU
+	}
+
+	provinces={
+		55 54
+	}
+}
