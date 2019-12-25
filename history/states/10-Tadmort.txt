@@ -1,0 +1,22 @@
+state={
+	id=11
+	name="STATE_11" #  
+	manpower = 322900
+	
+	state_category = town
+
+	history={
+		owner = PAR
+		victory_points = { 65 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = PAR
+	}
+
+	provinces={
+		65 66 67 68
+	}
+}

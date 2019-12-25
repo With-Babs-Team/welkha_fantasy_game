@@ -14,7 +14,10 @@
 
  ROU_democratic:0 "Principality of Roubigo"
  ROU_democratic_DEF:0 "Principality of Roubigo"
-
+ PAR_democratic:0 "Principality of Parail"
+ PAR_democratic_DEF:0 "Principality of Parail"
+ 
  democratic:0 "Radiant Guard"
  democratic_noun:0 "Radiant Guard"
  democratic_desc:0 "Millenarist Regime"
+ POLITICS_YRIS_ARCUARD_DESC:0 "§WWitch of Parail\n\n§YTitle:§! §WPrincess of Parail§!\n\n§YBirth Date:§! §W11 Necysios 532 §!"

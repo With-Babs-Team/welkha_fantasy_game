@@ -1,4 +1,4 @@
-﻿capital = 1
+﻿capital = 12
 
 set_politics = {
 	ruling_party = democratic
@@ -12,9 +12,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Iris Arcuard"
-	desc = "POLITICS_OSIA_TRENAL_DESC"
-	picture = "Portrait_ROU_Ossia_Trenal.dds"
+	name = "Yris Arcuard"
+	desc = "POLITICS_YRIS_ARCUARD_DESC"
+	picture = "Portrait_PAL_Yris_Arcuard.dds"
 	expire = "1947.1.1"
 	ideology = liberalism
 	traits = {
