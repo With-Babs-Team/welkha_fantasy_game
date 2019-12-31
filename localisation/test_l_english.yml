@@ -16,6 +16,8 @@
  ROU_democratic_DEF:0 "Principality of Roubigo"
  PAR_democratic:0 "Principality of Parail"
  PAR_democratic_DEF:0 "Principality of Parail"
+ YNG_neutrality:0 "Sacred Kingdom of Yngalong"
+ YNG_neutrality_DEF:0 "Sacred Kingdom of Yngalong"
  
  democratic:0 "Radiant Guard"
  democratic_noun:0 "Radiant Guard"

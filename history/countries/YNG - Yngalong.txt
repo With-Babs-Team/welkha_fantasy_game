@@ -1,0 +1,23 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 90
+	communism = 6
+	neutrality = 0
+	fascism = 4
+}
+
+create_country_leader = {
+	name = "Zerrin Sonau"
+	desc = "POLITICS_ZERRIN_DESC"
+	picture = "Portrait_YNG_Zerrin.dds"
+	expire = "1947.1.1"
+	ideology = despotism
+	traits = {
+		
+	}
+}
