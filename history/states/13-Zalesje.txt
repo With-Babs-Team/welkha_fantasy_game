@@ -1,0 +1,22 @@
+state={
+	id=14
+	name="STATE_14" #  
+	manpower = 322900
+	
+	state_category = town
+
+	history={
+		owner = YNG
+		victory_points = { 97 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = YNG
+	}
+
+	provinces={
+		83 84 85 87 88 89 90 91 92 93 97 98
+	}
+}

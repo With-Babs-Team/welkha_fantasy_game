@@ -19,8 +19,14 @@
  YNG_neutrality:0 "Sacred Kingdom of Yngalong"
  YNG_neutrality_DEF:0 "Sacred Kingdom of Yngalong"
  
+ IRJ_democratic:0 "Tcardom of Irij"
+ IRJ_democratic_DEF:0 "Tcardom of Irij"
+ 
  democratic:0 "Radiant Guard"
  democratic_noun:0 "Radiant Guard"
  democratic_desc:0 "Millenarist Regime"
  POLITICS_YRIS_ARCUARD_DESC:0 "§WWitch of Parail\n\n§YTitle:§! §WPrincess of Parail§!\n\n§YBirth Date:§! §W11 Necysios 532 §!"
  POLITICS_ZERRIN_DESC:0 "§WPower-Hungry Demagogue\n\n§YTitle:§! §WPriestess-Queen of Yngalong!\n\n§YBirth Date:§! §W28 Hermaios 585 §!"
+ POLITICS_Dragomir_ii_DESC:0 "§WPacifist Tcar\n\n§YTitle:§! §WBy the Grace of God, Tcar and Autarch of Irij, Tcar of Pomor'je, Grand Prince of Voguls and so forth, and so forth, and so forth\n\n§YBirth Date:§! §W17 Basilios 579 §!"
+ POLITICS_ANDRE_SMIRNOV_DESC:0 "§WPacifist Tcar\n\n§YTitle:§! §WSupreme Daduch\n\n§YBirth Date:§! §W7 Agyios 580 §!"
+ POLITICS_BORISLAV_CHERNETSKIJ_DESC:0 "§WGreat Bull\n\n§YTitle:§! §WVozhd of all Stravens\n\n§YBirth Date:§! §W12 Hermaios  579 §!"
