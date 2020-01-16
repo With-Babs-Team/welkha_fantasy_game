@@ -7,6 +7,7 @@ PAR = "countries/Parail.txt"
 ZYR = "countries/Zyrjane.txt"
 YNG = "countries/Yngalong.txt"
 IRJ = "countries/Irij.txt"
+NIK = "countries/Nikan.txt"
 
 
 GER	= "countries/Germany.txt"

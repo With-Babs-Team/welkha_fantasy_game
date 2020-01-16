@@ -1,0 +1,21 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = idolatry
+	elections_allowed = no
+}
+set_popularities = {
+	eosphorism = 10
+	theriatheism = 10
+	idolatry = 70
+	moon_worshipers = 10
+}
+
+create_country_leader = {
+	name = "Ialamitu"
+	desc = "POLITICS_IALAMITU_DESC"
+	picture = "Portrait_NIK_IALAMITU.dds"
+	ideology = cult_of_godking
+	traits = {
+		}
+}

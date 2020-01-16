@@ -1,0 +1,30 @@
+ideologies = {
+	moon_worshipers = {
+		types = {
+			moon_worshipers_1 = {
+			}
+			cult_of_moongoddes = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_MOON_WORSHIPERS_1"
+			"FACTION_NAME_MOON_WORSHIPERS_2"
+			"FACTION_NAME_MOON_WORSHIPERS_3"
+			"FACTION_NAME_MOON_WORSHIPERS_4"
+			"FACTION_NAME_MOON_WORSHIPERS_5"
+		}
+		color = { 26 17 16 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.25
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+}

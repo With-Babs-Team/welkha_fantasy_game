@@ -1,22 +1,18 @@
 ﻿capital = 12
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = eosphorism
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 90
-	communism = 6
-	neutrality = 0
-	fascism = 4
+	eosphorism = 100	
 }
 
 create_country_leader = {
 	name = "Yris Arcuard"
 	desc = "POLITICS_YRIS_ARCUARD_DESC"
 	picture = "Portrait_PAL_Yris_Arcuard.dds"
-	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = veltiantism
 	traits = {
 		
 	}

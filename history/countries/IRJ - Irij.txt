@@ -1,35 +1,27 @@
 ﻿capital = 14
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = eosphorism
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 90
-	communism = 6
-	neutrality = 0
-	fascism = 4
+	eosphorism = 100
 }
-
 create_country_leader = {
 	name = "Dragomir II"
 	desc = "POLITICS_Dragomir_ii_DESC"
 	picture = "Portrait_IRJ_Dragomir_ii.dds"
-	expire = "1947.1.1"
-	ideology = liberalism
+	ideology = veltiantism
 	traits = {
-		
 	}
 }
 
 create_country_leader = {
 	name = "Andre Smirnov"
 	desc = "POLITICS_ANDRE_SMIRNOV_DESC"
-	picture = "Portrait_IRJ_ANDRE_SMIRNOV.dds"
-	expire = "1947.1.1"
-	ideology = anti_revisionism
-	traits = {
-		
+	picture = "Portrait_IRJ_ANDRE_SMIRNOV.dds"	
+	ideology = moon_worshipers_1
+	traits = {	
 	}
 }
 
@@ -37,9 +29,7 @@ create_country_leader = {
 	name = "Borislav Chernetskij"
 	desc = "POLITICS_BORISLAV_CHERNETSKIJ_DESC"
 	picture = "Portrait_IRJ_BORISLAV_CHERNETSKIJ.dds"
-	expire = "1947.1.1"
-	ideology = rexism
+	ideology = cult_of_exhilarating_god
 	traits = {
-		
 	}
 }

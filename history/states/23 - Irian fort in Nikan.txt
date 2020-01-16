@@ -1,0 +1,23 @@
+state={
+	id=24
+	name="STATE_24" #  
+	manpower = 322900
+	
+	state_category = town
+
+	history={
+		owner = IRJ
+		victory_points = { 384 20 }
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = IRJ
+	}
+
+	provinces={
+		384
+	}
+}

@@ -1,0 +1,23 @@
+state={
+	id=21
+	name="STATE_21" #  
+	manpower = 322900
+	
+	state_category = town
+
+	history={
+		owner = NIK
+		victory_points = { 359 5 }
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = NIK
+	}
+
+	provinces={
+		355 356 357 358 359 360 362 363 382
+	}
+}

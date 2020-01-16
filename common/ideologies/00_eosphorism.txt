@@ -1,0 +1,28 @@
+ideologies = {
+	eosphorism = {
+		types = {
+			veltiantism = {
+			}
+		}
+		dynamic_faction_names = {
+			"FACTION_NAME_EOSPHORISM_1"
+			"FACTION_NAME_EOSPHORISM_2"
+			"FACTION_NAME_EOSPHORISM_3"
+			"FACTION_NAME_EOSPHORISM_4"
+			"FACTION_NAME_EOSPHORISM_5"
+		}
+		color = { 200  200  145 }
+		rules = {
+			can_force_government = no
+			can_puppet = no
+			can_join_factions = no
+			can_send_volunteers = yes
+		}
+		modifiers = {
+			join_faction_tension = 0.80
+			generate_wargoal_tension = 0.25
+		}
+		ai_neutral = yes
+		can_be_boosted = no
+	}
+}

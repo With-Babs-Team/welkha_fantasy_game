@@ -1,23 +1,21 @@
 ﻿capital = 1
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = idolatry
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 0
-	communism = 6
-	neutrality = 90
-	fascism = 4
+	eosphorism = 8
+	theriatheism = 2
+	idolatry = 86
+	moon_worshipers = 4
 }
 
 create_country_leader = {
 	name = "Zerrin Sonau"
 	desc = "POLITICS_ZERRIN_DESC"
 	picture = "Portrait_YNG_Zerrin.dds"
-	expire = "1947.1.1"
-	ideology = despotism
+	ideology = cult_of_godking
 	traits = {
-		
 	}
 }

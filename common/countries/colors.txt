@@ -2,3 +2,8 @@ TST = {
 	color = rgb { 50 50 50 }
 	color_ui = rgb { 50 50 50 }
 }
+
+NIK = {
+	color = rgb { 200  200  145 }
+	color_ui = rgb { 200  200  145 }
+}

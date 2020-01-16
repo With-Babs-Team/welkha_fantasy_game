@@ -7,3 +7,18 @@
  STATE_7:0 "Perpiginne"
  STATE_8:0 "Portmara"
  STATE_11:0 "Parail"
+ 
+ 
+ STATE_17:0 "Garluc"
+ STATE_16:0 "Skogrona"
+ STATE_18:0 "Elekda"
+ STATE_23:0 "Kralva"
+ STATE_22:0 "Fula"
+ STATE_21:0 "Wailing Plateau"
+ STATE_19:0 "Radiant Pass"
+ STATE_20:0 "Khil'dekha"
+ 
+ STATE_24:0 "Noch-Kiela"
+ STATE_25:0 "Godking's Mountains"
+ STATE_26:0 "Kossil's Glacier"
+ STATE_27:0 "Tcesa Mountains"
