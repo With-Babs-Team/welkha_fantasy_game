@@ -4,6 +4,6 @@ TST = {
 }
 
 NIK = {
-	color = rgb { 200  200  145 }
-	color_ui = rgb { 200  200  145 }
+	color = rgb { 124 124 124 }
+	color_ui = rgb { 124 124 124 }
 }

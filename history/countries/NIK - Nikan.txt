@@ -5,10 +5,10 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	eosphorism = 10
-	theriatheism = 10
-	idolatry = 70
-	moon_worshipers = 10
+	eosphorism = 6
+	theriotheism = 2
+	idolatry = 88
+	moon_worshipers = 4
 }
 
 create_country_leader = {

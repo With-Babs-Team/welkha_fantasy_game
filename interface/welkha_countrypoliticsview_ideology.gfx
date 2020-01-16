@@ -1,0 +1,21 @@
+spriteTypes = {	
+	spriteType = {
+	name = "GFX_ideology_eosphorism_group"
+		texturefile = "gfx/interface/ideologies/eosphorism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_theriotheism_group"
+		texturefile = "gfx/interface/ideologies/theriotheism_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_moon_worshipers_group"
+		texturefile = "gfx/interface/ideologies/moon_worshipers_group.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_idolatry_group"
+		texturefile = "gfx/interface/ideologies/idolatry_group.dds"
+	}
+}

@@ -1,15 +1,15 @@
 ideologies = {
-	theriatheism = {
+	theriotheism = {
 		types = {
 			cult_of_exhilarating_god = {
 			}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_THERIATHEISM_1"
-			"FACTION_NAME_THERIATHEISM_2"
-			"FACTION_NAME_THERIATHEISM_3"
-			"FACTION_NAME_THERIATHEISM_4"
-			"FACTION_NAME_THERIATHEISM_5"
+			"FACTION_NAME_THERIOTHEISM_1"
+			"FACTION_NAME_THERIOTHEISM_2"
+			"FACTION_NAME_THERIOTHEISM_3"
+			"FACTION_NAME_THERIOTHEISM_4"
+			"FACTION_NAME_THERIOTHEISM_5"
 		}
 		color = { 33 66 30 }
 		rules = {

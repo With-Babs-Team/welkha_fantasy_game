@@ -1,0 +1,10 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_slot_government_type"
+		textureFile = "gfx/interface/idea_slot_government_type.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_direct_theocracy"
+		textureFile = "gfx/interface/idea_direct_theocracy.dds"
+	}
+}

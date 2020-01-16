@@ -1,20 +1,27 @@
 ﻿l_english:
- eosphorism:0 "Radiant Guard"
- eosphorism_noun:0 "Radiant Guard"
- eosphorism_desc:0 "Authoritarian Regime"
+ eosphorism:0 "Eosphorism"
+ eosphorism_noun:0 "Eosphorism"
+ eosphorism_desc:0 "Eosphorist Regime"
  moon_worshipers:0 "Moon Worshippers"
  moon_worshipers_noun:0 "Moon Worshippers"
- moon_worshipers_desc:0 "Authoritarian Regime"
- theriatheism:0 "theriatheism"
- theriatheism_noun:0 "theriatheism"
- theriatheism_desc:0 "theriatheism"
+ moon_worshipers_desc:0 "Selenist Regime"
+ theriotheism:0 "Theriotheism"
+ theriotheism_noun:0 "Theriotheism"
+ theriotheism_desc:0 "Theriotheist Regime"
  idolatry:0 "Idolatry"
  idolatry_noun:0 "Idolatry"
- idolatry_desc:0 "Authoritarian Regime"
+ idolatry_desc:0 "Idolatric Regime"
+ 
+ ###ROUBIGO###
  ROU_eosphorism_party:0 "Trenal Dynasty"
+ ###PARAIL###
  PAR_eosphorism_party:0 "Arcuard Dynasty"
+ ###YNGALONG$$$
  YNG_idolatry_party:0 "Fehervar Kostnice"
+ ###IRIJ###
  IRJ_eosphorism_party:0 "House of Niklotovich"
  IRJ_theriatheism_party:0 "All-Stravenian Union"
- IRJ_ moon_worshipers_party:0 "Black Repartition"
+ IRJ_moon_worshipers_party:0 "Black Repartition"
  IRJ_idolatry_party:0 "Old-Belivers"
+ ###NIKAN###
+ NIK_idolatry_party:0 "Shadow Eunuchs"

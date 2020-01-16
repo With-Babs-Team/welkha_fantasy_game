@@ -22,5 +22,16 @@ ideas = {
 				factor = 0
 			}
 		}
+		direct_theocracy = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}	
 	}
 }
