@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_idea_slot_government_type"
+		textureFile = "gfx/interface/idea_slot_government_type.dds"
+	}
+}
