@@ -5,6 +5,6 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_idea_direct_theocracy"
-		textureFile = "gfx/interface/idea_direct_theocracy.dds"
+		textureFile = "gfx/ideas/idea_direct_theocracy.dds"
 	}
 }
