@@ -7,4 +7,8 @@ spriteTypes = {
 		name = "GFX_idea_direct_theocracy"
 		textureFile = "gfx/ideas/idea_direct_theocracy.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_winterborns"
+		textureFile = "gfx/ideas/idea_winterborns.dds"
+	}
 }

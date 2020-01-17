@@ -11,11 +11,22 @@ set_popularities = {
 	moon_worshipers = 4
 }
 
+add_ideas = {
+	limited_exports
+	limited_conscription
+	partial_economic_mobilisation
+	direct_theocracy
+	
+	winterborns
+	king_and_court_bureaucracy
+	rampant_militarism
+}
+
 create_country_leader = {
 	name = "Ialamitu"
 	desc = "POLITICS_IALAMITU_DESC"
 	picture = "Portrait_NIK_IALAMITU.dds"
 	ideology = cult_of_godking
-	traits = {
+	traits = { powerless_god
 		}
 }

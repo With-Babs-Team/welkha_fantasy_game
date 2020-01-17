@@ -1,0 +1,11 @@
+leader_traits = {
+
+	powerless_god = {
+		random = no
+		political_power_factor = -0.1
+
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

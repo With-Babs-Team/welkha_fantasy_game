@@ -1,0 +1,55 @@
+ideas = {
+	
+	country = {
+	
+		winterborns = {
+			
+			picture = winterborns
+
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				acclimatization_cold_climate_gain_factor = 0.40
+				attrition = -0.1
+				non_core_manpower = -0.90
+			}
+		}
+		
+		king_and_court_bureaucracy = {
+			
+			picture = generic_king_handled
+
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {	
+				production_factory_max_efficiency_factor = -0.1
+				stability_factor = -0.10
+			}
+		}
+		
+		rampant_militarism = {
+			
+			picture = chi_war_of_resistance3
+
+			allowed = {
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = 0.20
+			army_core_attack_factor = 0.1
+			army_core_defence_factor = 0.1
+			}
+		}
+	}
+}
