@@ -1,3 +1,26 @@
+###Yngalong###
+YNG = "countries/Yngalong.txt"
+LAX = "countries/Lax.txt"
+ARA = "countries/Aranika.txt"
+WUN = "countries/Wundeng.txt"
+DUN = "countries/Dunatra.txt"
+TAN = "countries/Tanra.txt"
+AMA = "countries/Amara.txt"
+LEU = "countries/Leukrata.txt"
+TEU = "countries/Teuderong.txt"
+
+
+
+
+
+
+
+
+
+
+
+
+
 TST = "countries/Test.txt"
 ROU = "countries/Roubigo.txt"
 OVL = "countries/Old Velta.txt"
@@ -5,7 +28,6 @@ MUL = "countries/Mulkhids.txt"
 ARE = "countries/Arethids.txt"
 PAR = "countries/Parail.txt"
 ZYR = "countries/Zyrjane.txt"
-YNG = "countries/Yngalong.txt"
 IRJ = "countries/Irij.txt"
 NIK = "countries/Nikan.txt"
 

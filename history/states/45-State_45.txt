@@ -2,8 +2,11 @@ state={
 	id=45
 	name="STATE_45"
 	provinces={
-		7157 7158 
+		367 4086 4184 7140 7144 7153 7157 7158 
 	}
+	history={
+		owner = YNG
+		add_core_of = YNG
 	manpower=0
 	buildings_max_level_factor=1.000
 }

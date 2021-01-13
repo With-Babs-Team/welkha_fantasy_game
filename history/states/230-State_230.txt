@@ -1,8 +1,12 @@
 state={
 	id=230
 	name="STATE_230"
+	history={
+		owner = TAN
+		add_core_of = TAN
+	}		
 	provinces={
-		235 1831 2705 4046 4047 4077 4117 4136 
+		235 1127 1795 1831 2705 4014 4046 4047 4048 4077 4117 4136 4137 4152 4171 7162 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -18,6 +18,14 @@ bookmarks = {
 		"YNG"={
 			history = "OTHER_GATHERING_STORM_DESC"
 		}
+
+		"TAN"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}
+
+		"WUN"={
+			history = "OTHER_GATHERING_STORM_DESC"
+		}		
 		
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !

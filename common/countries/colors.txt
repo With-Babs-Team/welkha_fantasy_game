@@ -7,3 +7,48 @@ NIK = {
 	color = rgb { 124 124 124 }
 	color_ui = rgb { 124 124 124 }
 }
+
+LAX = {
+	color = rgb { 94 103 104 }
+	color_ui = rgb { 94 103 104 }
+}
+
+TAN = {
+	color = rgb { 88 51 62 }
+	color_ui = rgb { 88 51 62 }
+}
+
+ARA = {
+	color = rgb { 132 155 166 }
+	color_ui = rgb { 132 155 166 }
+}
+
+WUN = {
+	color = rgb { 77 93 83 }
+	color_ui = rgb { 77 93 83 }
+}
+
+TEU = {
+	color = rgb { 148 145 142 }
+	color_ui = rgb { 148 145 142 }
+}
+
+AMA = {
+	color = rgb { 128 114 99 }
+	color_ui = rgb { 128 114 99 }
+}
+
+DUN = {
+	color = rgb { 53 137 97 }
+	color_ui = rgb { 53 137 97 }
+}
+
+LEU = {
+	color = rgb { 115 138 152 }
+	color_ui = rgb { 115 138 152 }
+}
+
+YNG = {
+	color = rgb { 207 196 130 }
+	color_ui = rgb { 115 138 152 }
+}

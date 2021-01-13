@@ -1,8 +1,13 @@
+
 state={
 	id=6
 	name="STATE_6"
+	history={
+		owner = ARA
+		add_core_of = ARA
+	}
 	provinces={
-		5 188 489 1155 2121 2184 3197 3249 3399 3408 3414 3425 3438 3446 3454 3467 
+		225 991 1028 2179 4012 4043 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

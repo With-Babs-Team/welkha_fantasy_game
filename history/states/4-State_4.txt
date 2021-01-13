@@ -1,8 +1,13 @@
+
 state={
 	id=4
 	name="STATE_4"
+	history={
+		owner = DUN
+		add_core_of = DUN
+	}	
 	provinces={
-		74 593 1913 1925 2001 2300 3366 3371 3388 
+		664 794 846 912 1053 3055 3196 3782 3805 3889 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

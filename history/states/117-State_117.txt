@@ -1,8 +1,13 @@
+
 state={
 	id=117
 	name="STATE_117"
+	history={
+		owner = LEU
+		add_core_of = LEU
+	}	
 	provinces={
-		7194 
+		1907 2717 3582 3628 3677 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

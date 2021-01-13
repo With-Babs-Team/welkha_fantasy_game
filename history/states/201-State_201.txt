@@ -1,8 +1,12 @@
 state={
 	id=201
 	name="STATE_201"
+	history={
+		owner = WUN
+		add_core_of = WUN
+	}		
 	provinces={
-		1478 3547 3563 3622 3643 
+		734 1876 3600 3607 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

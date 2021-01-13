@@ -1,0 +1,15 @@
+
+state={
+	id=478
+	name="STATE_478"
+	provinces={
+		134 693 901 1206 1303 3022 3888 3937 3956 3973 3974 3996 7141 7154 
+	}
+	history={
+		owner = YNG
+		add_core_of = YNG
+
+	}	
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,14 @@
+
+state={
+	id=480
+	name="STATE_480"
+	history={
+		owner = TAN
+		add_core_of = TAN
+	}		
+	provinces={
+		113 3134 4097 4101 4148 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

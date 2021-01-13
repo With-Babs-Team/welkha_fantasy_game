@@ -1,1 +1,22 @@
-﻿
+﻿l_russian:
+###Yngalong###
+ YNG_idolatry:0 "Фехерва"
+ YNG_idolatry_DEF:0 "Фехерская Амфиктиония"
+ TAN_idolatry:0 "Танра"
+ TAN_idolatry_DEF:0 "Танрийская Амфиктиония" 
+ TEU_idolatry:0 "Теудероны"
+ TEU_idolatry_DEF:0 "Союз Теудеронов"  
+ WUN_idolatry:0 "Ксантент"
+ WUN_idolatry_DEF:0 "Ксантенский Вирд" 
+ AMA_idolatry:0 "Амариды"
+ AMA_idolatry_DEF:0 "Вирд Амаридов"  
+ LAX_idolatry:0 "Эрулы"
+ LAX_idolatry_DEF:0 "Союз Эрулов"  
+ DUN_idolatry:0 "Верника"
+ DUN_idolatry_DEF:0 "Вернический Випд"  
+ LEU_idolatry:0 "Левкраты"
+ DUN_idolatry_DEF:0 "Союз Левкратов"  
+ PAR_eosphorism:0 "Парайл"
+ PAR_eosphorism_DEF:0 "Княжество Парайл"
+ ARA_idolatry:0 "Араника"
+ ARA_idolatry_DEF:0 "Княжество Араника"

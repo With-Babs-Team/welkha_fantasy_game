@@ -1,8 +1,12 @@
 state={
 	id=169
 	name="STATE_169"
+	history={
+		owner = TEU
+		add_core_of = TEU
+	}		
 	provinces={
-		7222 
+		56 533 1443 1940 3627 3641 3707 3731 7204 7216 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,0 +1,13 @@
+state={
+	id=465
+	name="STATE_465"
+	history={
+		owner = LAX
+		add_core_of = LAX
+	}	
+	provinces={
+		1435 1476 2281 2430 2541 2547 2670 2830 3231 4173 4204 4206 4226 4260 4302 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

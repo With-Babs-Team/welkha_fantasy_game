@@ -1,6 +1,10 @@
 state={
 	id=27
 	name="STATE_27"
+	history={
+		owner = TAN
+		add_core_of = TAN
+	}		
 	provinces={
 		2924 
 	}

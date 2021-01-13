@@ -1,0 +1,13 @@
+state={
+	id=475
+	name="STATE_475"
+	history={
+		owner = ARA
+		add_core_of = ARA
+	}		
+	provinces={
+		340 419 1271 2956 4400 4416 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

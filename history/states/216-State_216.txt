@@ -1,8 +1,12 @@
 state={
 	id=216
 	name="STATE_216"
+	history={
+		owner = TEU
+		add_core_of = TEU
+	}		
 	provinces={
-		122 134 642 673 1039 1123 1303 1708 1852 2286 2498 2902 3022 3780 3798 3826 3853 3858 3888 3937 3956 3973 
+		403 673 1123 2498 3780 3798 3818 3853 3858 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,8 +1,13 @@
+
 state={
 	id=132
 	name="STATE_132"
+	history={
+		owner = TAN
+		add_core_of = TAN
+	}
 	provinces={
-		7204 
+		350 460 2078 2397 3324 3842 3884 3887 3899 3908 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
