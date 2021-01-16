@@ -1,13 +1,17 @@
 state={
 	id=205
 	name="STATE_205"
-	history={
-		owner = WUN
-		add_core_of = WUN
-	}	
 	provinces={
 		361 486 813 1966 2230 3617 3638 3642 3657 3667 
 	}
-	manpower=0
+	history={
+		owner = WUN
+		add_core_of = WUN
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=450280
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

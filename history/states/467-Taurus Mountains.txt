@@ -1,14 +1,18 @@
-
 state={
 	id=467
 	name="STATE_467"
-	history={
-		owner = LEU
-		add_core_of = LEU
-	}		
 	provinces={
 		1550 2055 3583 3608 3682 3718 
 	}
-	manpower=0
+	history={
+		owner = LEU
+		add_core_of = LEU
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=6850
 	buildings_max_level_factor=1.000
+	state_category=wasteland
+	impassable = yes	
 }

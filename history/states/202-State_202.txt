@@ -2,16 +2,17 @@
 state={
 	id=202
 	name="STATE_202"
-
-	history={
-		owner = LEU
-		add_core_of = LEU
-
-	}
-
 	provinces={
 		251 1367 1674 1939 1944 2478 2660 2748 2936 3174 3179 3531 3537 3560 3568 3572 3581 3594 3603 3662 3669 3699 
 	}
-	manpower=0
+	history={
+		owner = LEU
+		add_core_of = LEU
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=850478
 	buildings_max_level_factor=1.000
+	state_category=town
 }

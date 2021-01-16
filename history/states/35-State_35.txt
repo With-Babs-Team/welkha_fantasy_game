@@ -1,13 +1,17 @@
 state={
 	id=35
 	name="STATE_35"
+	provinces={
+		43 824 1264 1618 2569 2969 3019 3090 3698 3724 3725 3729 3752 3756 3764 3794 3802 3817 3832 3849 
+	}
 	history={
 		owner = TAN
 		add_core_of = TAN
-	}		
-	provinces={
-		43 824 1264 3019 3090 3752 3794 3817 3832 3849 
-	}	
-	manpower=0
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=230470
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

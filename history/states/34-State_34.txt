@@ -1,22 +1,16 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 4baa16c7c040a198d7050b08f5ea6421364ea3f1
 state={
 	id=34
 	name="STATE_34"
-	provinces={
-<<<<<<< HEAD
-		1094 1169 4008 4053 4087 
-	}
+
 	history={
-		owner = YNG
-		add_core_of = YNG
-	}	
-=======
-		7148 
+		owner = PAR
+		add_core_of = PAR
 	}
->>>>>>> 4baa16c7c040a198d7050b08f5ea6421364ea3f1
+
+	provinces={
+		30 838 1344 2456 2617 4506 4512 4527 
+	}
 	manpower=0
 	buildings_max_level_factor=1.000
 }

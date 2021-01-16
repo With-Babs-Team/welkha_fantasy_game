@@ -1,17 +1,17 @@
-
 state={
 	id=479
 	name="STATE_479"
-
-	history={
-		owner = YNG
-		add_core_of = YNG
-
-	}
-
 	provinces={
 		642 1708 1968 3895 
 	}
-	manpower=0
+	history={
+		owner = YNG
+		add_core_of = YNG
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=480000
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

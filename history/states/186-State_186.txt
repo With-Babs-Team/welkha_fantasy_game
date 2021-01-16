@@ -1,17 +1,17 @@
-
 state={
 	id=186
 	name="STATE_186"
-
+	provinces={
+		493 974 1002 1104 1141 1560 1854 2071 3770 3795 3827 3863 3896 3901 3909 
+	}
 	history={
 		owner = AMA
 		add_core_of = AMA
-
+			buildings = {
+				infrastructure = 1
+		}
 	}
-
-	provinces={
-		493 1104 1560 3896 3901 3909 
-	}
-	manpower=0
+	manpower=320145
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

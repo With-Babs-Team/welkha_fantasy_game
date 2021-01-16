@@ -1,13 +1,17 @@
 state={
 	id=191
-	name="STATE_191"
-	history={
-		owner = LEU
-		add_core_of = LEU
-	}		
+	name="STATE_191"	
 	provinces={
 		327 1050 1116 1216 2654 2896 2906 3413 3445 3480 3485 3506 3507 
 	}
-	manpower=0
+	history={
+		owner = LEU
+		add_core_of = LEU
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=230545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

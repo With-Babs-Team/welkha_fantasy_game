@@ -1,12 +1,8 @@
 state={
 	id=211
 	name="STATE_211"
-	history={
-		owner = AMA
-		add_core_of = AMA
-	}		
 	provinces={
-		974 1002 1141 1854 2071 3770 3795 3827 3863 7160 
+		1218 1889 3368 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

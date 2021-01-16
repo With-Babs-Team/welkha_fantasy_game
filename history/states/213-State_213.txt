@@ -1,17 +1,17 @@
-
 state={
 	id=213
 	name="STATE_213"
-
-	history={
-		owner = DUN
-		add_core_of = DUN
-
-	}
-
 	provinces={
 		19 404 753 1335 1531 1885 1950 2864 2888 2917 2975 3833 3850 3864 3879 3885 3912 3918 3923 3926 3967 3975 3990 4005 4009 4013 4026 
 	}
-	manpower=0
+	history={
+		owner = DUN
+		add_core_of = DUN
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=875000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

@@ -1,17 +1,17 @@
-
 state={
 	id=207
 	name="STATE_207"
-
-	history={
-		owner = DUN
-		add_core_of = DUN
-
-	}
-
 	provinces={
 		240 827 883 2167 2426 3000 3719 3754 3781 3789 3820 3822 3823 7179 
 	}
-	manpower=0
+	history={
+		owner = DUN
+		add_core_of = DUN
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=250456
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

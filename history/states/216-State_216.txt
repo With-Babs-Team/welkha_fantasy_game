@@ -1,13 +1,17 @@
 state={
 	id=216
 	name="STATE_216"
+	provinces={
+		1357 1443 3341 3749 3757 3758 3773 3786 3788 3808 3809 5814 7210 
+	}
 	history={
 		owner = TEU
 		add_core_of = TEU
-	}		
-	provinces={
-		403 673 1123 2498 3780 3798 3818 3853 3858 
+			buildings = {
+				infrastructure = 1
+		}
 	}
-	manpower=0
+	manpower=574568
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

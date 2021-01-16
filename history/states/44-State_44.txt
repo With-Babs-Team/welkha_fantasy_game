@@ -1,14 +1,17 @@
-
 state={
 	id=44
 	name="STATE_44"
+	provinces={
+		350 408 1129 1516 1623 1819 1937 2233 2786 2874 2905 2907 3153 3324 3866 3884 3936 3943 3969 3979 4011 4019 4020 4039 4061 
+	}
 	history={
 		owner = TAN
 		add_core_of = TAN
+			buildings = {
+				infrastructure = 1
+		}
 	}
-	provinces={
-		1516 1819 2786 2907 3866 3936 3969 4000 
-	}
-	manpower=0
+	manpower=458230
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

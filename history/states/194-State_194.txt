@@ -1,13 +1,17 @@
 state={
 	id=194
 	name="STATE_194"
+	provinces={
+		116 527 957 1124 1289 1318 1434 2116 2229 2382 3394 3395 3410 3426 3441 3442 3451 3495 3496 
+	}
 	history={
 		owner = WUN
 		add_core_of = WUN
-	}		
-	provinces={
-		527 1318 1434 2382 3394 3410 3442 
+			buildings = {
+				infrastructure = 1
+		}
 	}
-	manpower=0
+	manpower=280420
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

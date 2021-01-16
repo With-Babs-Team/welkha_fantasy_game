@@ -1,17 +1,17 @@
-
 state={
 	id=249
 	name="STATE_249"
-
+	provinces={
+		109 884 1593 1635 1661 1869 2348 2497 3320 4278 4279 4320 4361 4370 4376 4381 4391 4394 4399 4428 
+	}
 	history={
 		owner = ARA
 		add_core_of = ARA
-
+			buildings = {
+				infrastructure = 1
+		}
 	}
-
-	provinces={
-		884 2348 2497 3320 4370 4376 4394 4399 4428 
-	}
-	manpower=0
+	manpower=640210
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

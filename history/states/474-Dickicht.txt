@@ -4,13 +4,12 @@ state={
 	name="STATE_474"
 
 	history={
-		owner = ARA
-		add_core_of = ARA
-
+		owner = PAR
+		add_core_of = PAR
 	}
 
 	provinces={
-		573 1130 1893 2033 2059 2132 2313 2604 2801 2893 2995 3032 4115 4133 4138 4145 4155 4172 4185 4202 4232 4245 
+		218 1269 4435 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

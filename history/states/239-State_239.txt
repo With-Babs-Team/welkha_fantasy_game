@@ -1,13 +1,18 @@
 state={
 	id=239
 	name="STATE_239"
+	
 	history={
 		owner = PAR
 		add_core_of = PAR
+		buildings = {
+			infrastructure = 4
+		}		
 	}
 	provinces={
 		294 636 899 965 1189 1292 1598 1636 2040 2697 2721 2866 3239 4199 4231 4239 4246 4248 4258 4270 4282 4285 4286 4297 4301 4328 4350 4352 4368 4384 4385 4395 
 	}
-	manpower=0
+	manpower=1650000
+	state_category=rural	
 	buildings_max_level_factor=1.000
 }

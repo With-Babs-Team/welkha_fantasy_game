@@ -1,13 +1,17 @@
 state={
 	id=224
 	name="STATE_224"
+	provinces={
+		37 892 917 1083 1987 3260 3578 3593 3614 3622 3623 3624 3653 3654 3686 3689 3690 3717 
+	}
 	history={
 		owner = WUN
 		add_core_of = WUN
-	}		
-	provinces={
-		1987 3622 3653 3686 3689 3717 
+			buildings = {
+				infrastructure = 1
+		}
 	}
-	manpower=0
+	manpower=120457
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

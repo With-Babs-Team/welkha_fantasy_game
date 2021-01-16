@@ -1,13 +1,17 @@
 state={
 	id=475
-	name="STATE_475"
-	history={
-		owner = ARA
-		add_core_of = ARA
-	}		
+	name="STATE_475"		
 	provinces={
 		340 419 1271 2956 4400 4416 
 	}
-	manpower=0
+	history={
+		owner = ARA
+		add_core_of = ARA
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=812000
 	buildings_max_level_factor=1.000
+	state_category=town
 }

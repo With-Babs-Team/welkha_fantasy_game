@@ -1,13 +1,17 @@
 state={
 	id=50
 	name="STATE_50"
+	provinces={
+		192 1179 1478 1612 1653 1899 2523 2549 3643 3673 3753 3759 3762 3804 3828 3840 7160 
+	}
 	history={
 		owner = AMA
 		add_core_of = AMA
-	}		
-	provinces={
-		192 1179 1478 1612 1653 1899 2523 2549 3643 3673 3753 3759 3762 3804 3828 3840 
+			buildings = {
+				infrastructure = 1
+		}
 	}
-	manpower=0
+	manpower=850452
 	buildings_max_level_factor=1.000
+	state_category=town
 }

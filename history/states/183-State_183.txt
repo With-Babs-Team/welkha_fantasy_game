@@ -1,13 +1,17 @@
 state={
 	id=183
-	name="STATE_183"
-	history={
-		owner = WUN
-		add_core_of = WUN
-	}		
+	name="STATE_183"	
 	provinces={
 		123 454 477 518 3206 3405 3418 3427 3452 3466 
 	}
-	manpower=0
+	history={
+		owner = WUN
+		add_core_of = WUN
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=80457
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

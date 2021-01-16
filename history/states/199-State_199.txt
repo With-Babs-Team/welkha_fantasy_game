@@ -3,14 +3,8 @@ state={
 	id=199
 	name="STATE_199"
 
-	history={
-		owner = TEU
-		add_core_of = TEU
-
-	}
-
 	provinces={
-		353 845 3645 3656 3685 3695 3726 5403 7155 7194 7203 
+		2461 3389 7211 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

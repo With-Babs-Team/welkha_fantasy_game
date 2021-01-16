@@ -1,24 +1,111 @@
-﻿l_english:
- STATE_2:0 "Chariva"
- STATE_3:0 "Roubigo"
- STATE_4:0 "Dicti"
- STATE_5:0 "Nimes"
- STATE_6:0 "Bezio"
- STATE_7:0 "Perpiginne"
- STATE_8:0 "Portmara"
- STATE_11:0 "Parail"
+﻿l_russian:
+ STATE_480:0 "Селаз"
+ STATE_132:0 "Лагу"
+ STATE_478:0 "Хохбергаз"
+ STATE_477:0 "Форада"
+ STATE_476:0 "Берхт"
+ STATE_475:0 "Араника"
+ STATE_44:0 "Дикихт"
+ STATE_473:0 "Хиндер"
+ STATE_472:0 "Форланда"
+ STATE_471:0 "Дождливые Горы"
+ STATE_470:0 "Кефал"
+ STATE_469:0 "Леворские Горы"
+ STATE_468:0 "Северный Бычий Кряж"
+ STATE_467:0 "Бычий Кряж"
+ STATE_466:0 "Северный Становой Хребет"
+ STATE_465:0 "Центральный Становой Хребет"
+ STATE_464:0 "Южный Становой Хребет"
+
+ STATE_239:0 "Ингалонь"
+ STATE_233:0 "Обервальтаз"
+ STATE_231:0 "Кравестат"
+ STATE_214:0 "Берахталь"
+ STATE_215:0 "Останмарк"
+ STATE_4:0 "Руофурт"
+ STATE_6:0 "Свартвальтаз"
+ STATE_40:0 "Сунехуг"
+ STATE_207:0 "Нидерифельд"
+ STATE_181:0 "Рунвальтаз"
+ STATE_117:0 "Гроневальтаз"
+ STATE_202:0 "Хайделанда"
+ STATE_191:0 "Ошегафен"
+ STATE_196:0 "Риндбрук"
+ STATE_168:0 "Штильхауз"
+ STATE_53:0 "Хельгенс"
+ STATE_249:0 "Хильдхейм"
+ STATE_220:0 "Свертбах"
+ STATE_474:0 "Шатевальтаз"
+ STATE_45:0 "Фертфурт"
+ STATE_36:0 "Формарк"
+ STATE_34:0 "Эйхаган"
+ STATE_479:0 "Дрикен"
+ STATE_241:0 "Рихланда"
+ STATE_213:0 "Вильдевальдаз"
+ STATE_31:0 "Фрайкон"
+ STATE_209:0 "Галенда"
+ STATE_209:0 "Фергауг"
+ STATE_199:0 "Лисхала"
+ STATE_198:0 "Пулун"
+ STATE_169:0 "Ивверас"
+ STATE_201:0 "Кногаврих"
+ STATE_19:0 "Эшенбах"
+ STATE_176:0 "Тиустирифурт"
+ STATE_157:0 "Аусбрант"
+ STATE_216:0 "Вальдорт"
+ STATE_35:0 "Тергоф"
+ STATE_187:0 "Мунсальвеш"
+
+
+
+ STATE_230:0 "Наррофровид"
+
+ STATE_186:0 "Вирмхурст"
+ STATE_50:0 "Гольтлугиз"
+ STATE_211:0 "Винхаген"
+ STATE_205:0 "Горгаут"
+ STATE_194:0 "Нортмарк"
+ STATE_203:0 "Ритшарт"
+ STATE_129:0 "Гесбах"
+ STATE_183:0 "Фенбрук"
+ STATE_224:0 "Дюстермур"
+ STATE_197:0 "Вольфсхалден"
+ STATE_204:0 "Кальксхут"
+
+ STATE_219:0 "Эдельрост"
+
+ STATE_200:0 "Ургрунд"
+
+
  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ qSTATE_17:0 "Garluc"
+ qSTATE_16:0 "Skogrona"
+ qSTATE_18:0 "Elekda"
+ qSTATE_23:0 "Kralva"
+ qSTATE_22:0 "Fula"
+ qSTATE_21:0 "Wailing Plateau"
+ qSTATE_19:0 "Radiant Pass"
+ qSTATE_20:0 "Khil'dekha"
  
- STATE_17:0 "Garluc"
- STATE_16:0 "Skogrona"
- STATE_18:0 "Elekda"
- STATE_23:0 "Kralva"
- STATE_22:0 "Fula"
- STATE_21:0 "Wailing Plateau"
- STATE_19:0 "Radiant Pass"
- STATE_20:0 "Khil'dekha"
- 
- STATE_24:0 "Noch-Kiela"
- STATE_25:0 "Godking's Mountains"
- STATE_26:0 "Kossil's Glacier"
- STATE_27:0 "Tcesa Mountains"
+ qSTATE_24:0 "Noch-Kiela"
+ qSTATE_25:0 "Godking's Mountains"
+ qSTATE_26:0 "Kossil's Glacier"
+ qSTATE_27:0 "Tcesa Mountains"
