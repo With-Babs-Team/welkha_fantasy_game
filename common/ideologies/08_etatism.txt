@@ -1,17 +1,12 @@
 ideologies = {
-	eosphorism = {
+	etatism = {
 		types = {
-			veltiantism = {
+			00_etatism = {
 			}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_EOSPHORISM_1"
-			"FACTION_NAME_EOSPHORISM_2"
-			"FACTION_NAME_EOSPHORISM_3"
-			"FACTION_NAME_EOSPHORISM_4"
-			"FACTION_NAME_EOSPHORISM_5"
 		}
-		color = { 200  200  145 }
+		color = { 184 153 103 }
 		rules = {
 			can_force_government = no
 			can_puppet = no

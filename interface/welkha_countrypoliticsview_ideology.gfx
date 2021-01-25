@@ -1,21 +1,38 @@
 spriteTypes = {	
 	spriteType = {
-	name = "GFX_ideology_eosphorism_group"
-		texturefile = "gfx/interface/ideologies/eosphorism_group.dds"
+	name = "GFX_ideology_etatism_group"
+		texturefile = "gfx/interface/ideologies/etatism_group.dds"
 	}
-	
 	spriteType = {
-		name = "GFX_ideology_theriotheism_group"
-		texturefile = "gfx/interface/ideologies/theriotheism_group.dds"
+		name = "GFX_ideology_fideism_group"
+		texturefile = "gfx/interface/ideologies/fideism_group.dds"
 	}
-	
 	spriteType = {
-		name = "GFX_ideology_moon_worshipers_group"
-		texturefile = "gfx/interface/ideologies/moon_worshipers_group.dds"
+		name = "GFX_ideology_flaurism_group"
+		texturefile = "gfx/interface/ideologies/flaurism_group.dds"
 	}
-	
 	spriteType = {
-		name = "GFX_ideology_idolatry_group"
-		texturefile = "gfx/interface/ideologies/idolatry_group.dds"
+		name = "GFX_ideology_fratrianism_group"
+		texturefile = "gfx/interface/ideologies/fratrianism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_ordism_group"
+		texturefile = "gfx/interface/ideologies/ordism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_selenism_group"
+		texturefile = "gfx/interface/ideologies/selenism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_timeism_group"
+		texturefile = "gfx/interface/ideologies/timeism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_utopism_group"
+		texturefile = "gfx/interface/ideologies/utopism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_villeinism_group"
+		texturefile = "gfx/interface/ideologies/villeinism_group.dds"
 	}
 }

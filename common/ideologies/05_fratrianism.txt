@@ -1,17 +1,12 @@
 ideologies = {
-	theriotheism = {
+	fratrianism = {
 		types = {
-			cult_of_exhilarating_god = {
+			00_fratrianism = {
 			}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_THERIOTHEISM_1"
-			"FACTION_NAME_THERIOTHEISM_2"
-			"FACTION_NAME_THERIOTHEISM_3"
-			"FACTION_NAME_THERIOTHEISM_4"
-			"FACTION_NAME_THERIOTHEISM_5"
 		}
-		color = { 33 66 30 }
+		color = { 73 53 50 }
 		rules = {
 			can_force_government = no
 			can_puppet = no

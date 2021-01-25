@@ -1,6 +1,4 @@
-﻿l_english:
- IDEOLOGY:0 "Religion"
- RULING_PARTY:0 "Ruling Faction"
+﻿l_russian:
  
  January:0 "Thesmophorios (I)"
  February:0 "Badromios (II)"
@@ -34,3 +32,15 @@
  Friday:0 "Amarej (V)"
  Saturday:0 "Istir (VI)"
  Sunday:0 "Kalipsis (VII)"
+ 
+ RULING_PARTY:0 "Господствующая Тенденция"
+ ELECTIONS:0 "Выборы"
+ FE_MISC_STATS:0 "Другие параметры"
+ FE_LOADING_HISTORY:0 "Обновление исторических данных..."
+ IDEOLOGY:0 "Тенденция"
+ POLITICS_NOELECTIONS:0 "Выборы привязаны к событиям"
+ DIPLOMACY_WAR_TITLE:0 "Объявить войну"
+ DR_FACTION_WRONG_IDEOLOGY:0 "Другая тенденция: "
+ MAPMODE_IDEOLOGY_NAME:0 "Тенденция"
+ MAPMODE_IDEOLOGY:0 "Режим карты: §Hидеология§!"
+ MAPMODE_IDEOLOGY_DESCRIPTION:0 "Показывает тенденцию различных стран."

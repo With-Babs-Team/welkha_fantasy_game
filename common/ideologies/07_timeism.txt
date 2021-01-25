@@ -1,21 +1,12 @@
 ideologies = {
-	idolatry = {
+	timeism = {
 		types = {
-			cult_of_bones_and_grain = {
-			}
-			cult_of_stelar_bodys = {
-			}
-			cult_of_godking = {
+			00_timeism = {
 			}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_IDOLATRY_1"
-			"FACTION_NAME_IDOLATRY_2"
-			"FACTION_NAME_IDOLATRY_3"
-			"FACTION_NAME_IDOLATRY_4"
-			"FACTION_NAME_IDOLATRY_5"
 		}
-		color = { 124 124 124 }
+		color = { 113 139 179 }
 		rules = {
 			can_force_government = no
 			can_puppet = no

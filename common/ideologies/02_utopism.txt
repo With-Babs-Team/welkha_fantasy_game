@@ -1,19 +1,12 @@
 ideologies = {
-	moon_worshipers = {
+	utopism = {
 		types = {
-			moon_worshipers_1 = {
-			}
-			cult_of_moongoddes = {
+			00_utopism = {
 			}
 		}
 		dynamic_faction_names = {
-			"FACTION_NAME_MOON_WORSHIPERS_1"
-			"FACTION_NAME_MOON_WORSHIPERS_2"
-			"FACTION_NAME_MOON_WORSHIPERS_3"
-			"FACTION_NAME_MOON_WORSHIPERS_4"
-			"FACTION_NAME_MOON_WORSHIPERS_5"
 		}
-		color = { 26 17 16 }
+		color = { 75 13 14 }
 		rules = {
 			can_force_government = no
 			can_puppet = no
