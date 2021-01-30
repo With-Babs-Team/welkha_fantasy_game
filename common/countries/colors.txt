@@ -52,3 +52,18 @@ YNG = {
 	color = rgb { 207 196 130 }
 	color_ui = rgb { 115 138 152 }
 }
+
+MON = {
+	color = rgb { 181 181 181 }
+	color_ui = rgb { 115 138 152 }
+}
+
+ARE = {
+	color = rgb { 242 188 81 }
+	color_ui = rgb { 115 138 152 }
+}
+
+RAG = {
+	color = rgb { 103  112  138 }
+	color_ui = rgb { 115 138 152 }
+}

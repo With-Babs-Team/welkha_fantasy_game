@@ -1,10 +1,17 @@
-
 state={
 	id=316
 	name="STATE_316"
 	provinces={
-		148 248 663 700 1954 5060 5075 5213 5222 5258 5259 5279 5324 9882 
+		148 248 663 700 4768 5060 5075 5196 5213 5222 5258 5259 5279 5324 9882 1858
 	}
-	manpower=0
+	history={
+		owner = MON
+		add_core_of = MON
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

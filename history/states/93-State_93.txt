@@ -1,10 +1,17 @@
-
 state={
 	id=93
 	name="STATE_93"
 	provinces={
-		390 1277 1713 2692 4382 4413 4441 4467 4475 4488 
+		1277 1646 1713 4446 4467 4488 4645 4718 
 	}
-	manpower=0
+	history={
+		owner = RAG
+		add_core_of = RAG
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

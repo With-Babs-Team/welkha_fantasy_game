@@ -1,11 +1,11 @@
 ﻿capital = 12
 
 set_politics = {
-	ruling_party = eosphorism
+	ruling_party = etatism
 	elections_allowed = no
 }
 set_popularities = {
-	eosphorism = 100	
+	etatism = 100	
 }
 
 create_country_leader = {

@@ -2,8 +2,16 @@ state={
 	id=24
 	name="STATE_24"
 	provinces={
-		7146 
+		516 959 1312 3355 4331 4353 4401 4433 4582 4651 
 	}
-	manpower=0
+	history={
+		owner = RAG
+		add_core_of = RAG
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

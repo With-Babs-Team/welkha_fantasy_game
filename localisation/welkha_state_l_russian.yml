@@ -20,3 +20,12 @@
  PAR_eosphorism_DEF:0 "Княжество Парайл"
  ARA_idolatry:0 "Араника"
  ARA_idolatry_DEF:0 "Княжество Араника"
+ 
+ MON_timeism:0 "Монтегю"
+ MON_timeism_DEF:0 "Маркизат Монтегю"
+ ARE_fideism:0 "Аретиды"
+ ARE_fideism_DEF:0 "Государство Аретидов"
+ RAG_timeism:0 "Рагенель"
+ RAG_timeism_DEF:0 "Маркизат Рагенель"
+ PAR_etatism:0 "Парайл"
+ PAR_etatism_DEF:0 "Княжество Парайл"

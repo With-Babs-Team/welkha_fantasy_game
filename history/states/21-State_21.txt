@@ -2,8 +2,16 @@ state={
 	id=21
 	name="STATE_21"
 	provinces={
-		2381 
+		272 603 1362 1377 1846 1943 1959 2118 3170 3283 4631 4879 4907 4911 4928 4941 4959 4972 5091 
 	}
-	manpower=0
+	history={
+		owner = ARE
+		add_core_of = ARE
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

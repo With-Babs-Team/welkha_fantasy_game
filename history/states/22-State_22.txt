@@ -2,8 +2,16 @@ state={
 	id=22
 	name="STATE_22"
 	provinces={
-		2089 
+		63 2370 2743 5423 5472 
 	}
-	manpower=0
+	history={
+		owner = MON
+		add_core_of = MON
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

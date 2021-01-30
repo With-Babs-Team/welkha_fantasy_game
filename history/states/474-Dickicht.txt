@@ -1,16 +1,18 @@
-
 state={
 	id=474
 	name="STATE_474"
 
+	provinces={
+		932 2043 4522 4548 4564 4600 4685 4773 
+	}
 	history={
 		owner = PAR
 		add_core_of = PAR
+			buildings = {
+				infrastructure = 1
+		}
 	}
-
-	provinces={
-		218 1269 4435 
-	}
-	manpower=0
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

@@ -1,10 +1,17 @@
-
 state={
 	id=321
 	name="STATE_321"
 	provinces={
-		840 2175 2743 3087 5140 5196 5229 5294 
+		217 840 1186 1954 2140 4946 4973 5140 5229 5294 
 	}
-	manpower=0
+	history={
+		owner = MON
+		add_core_of = MON
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
