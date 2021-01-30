@@ -6,10 +6,11 @@ state={
 	history={
 		owner = PAR
 		add_core_of = PAR
+
 	}
 
 	provinces={
-		426 2686 4454 
+		426 2686 4454 10803 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
