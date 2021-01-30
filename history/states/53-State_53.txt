@@ -5,8 +5,8 @@ state={
 		218 426 1269 2686 4435 4454 6357 7161 10803 
 	}
 	history={
-		owner = PAR
-		add_core_of = PAR
+		owner = GCP
+		add_core_of = GCP
 			buildings = {
 				infrastructure = 1
 		}

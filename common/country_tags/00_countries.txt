@@ -18,6 +18,7 @@ TEU = "countries/Teuderong.txt"
 
  
 
+GCP = "countries/Captaincies.txt"
 
 RAG = "countries/Raguenel.txt"
 MON = "countries/Montaigu.txt"

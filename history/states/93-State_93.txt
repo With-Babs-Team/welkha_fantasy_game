@@ -1,15 +1,20 @@
+
 state={
 	id=93
 	name="STATE_93"
-	provinces={
-		1277 1646 1713 4446 4467 4488 4645 4718 
-	}
+
 	history={
 		owner = RAG
 		add_core_of = RAG
-			buildings = {
-				infrastructure = 1
+		buildings = {
+			infrastructure = 1
+
 		}
+
+	}
+
+	provinces={
+		309 1277 1308 1646 1713 4446 4467 4488 4490 4500 4519 4645 4718 
 	}
 	manpower=1488
 	buildings_max_level_factor=1.000
