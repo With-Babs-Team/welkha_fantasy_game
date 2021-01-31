@@ -2,8 +2,16 @@ state={
 	id=340
 	name="STATE_340"
 	provinces={
-		191 333 662 799 980 1369 1388 1542 1760 1800 2260 2335 2406 2455 2487 2984 3309 5394 5411 5505 5586 5640 5667 5751 5757 5766 5794 5816 
+		662 799 980 1388 1800 2260 2406 2487 2984 3309 5586 5640 5751 5757 5766 5794 5816 
 	}
-	manpower=0
+	history={
+		owner = ROU
+		add_core_of = ROU
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

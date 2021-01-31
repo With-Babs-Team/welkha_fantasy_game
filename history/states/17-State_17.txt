@@ -2,8 +2,16 @@ state={
 	id=17
 	name="STATE_17"
 	provinces={
-		7142 
+		117 124 316 420 1578 1681 1687 2411 2595 2600 2901 3097 4904 6015 6065 6103 6151 6163 6178 6224 
 	}
-	manpower=0
+	history={
+		owner = ROU
+		add_core_of = ROU
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

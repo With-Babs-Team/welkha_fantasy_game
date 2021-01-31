@@ -2,8 +2,16 @@ state={
 	id=310
 	name="STATE_310"
 	provinces={
-		402 790 911 1500 1862 1902 1911 2107 2142 2287 2440 2622 3070 5220 5257 5271 5301 5359 5424 5441 5449 5499 
+		333 1632 1760 1785 2368 2455 5394 5411 5636 
 	}
-	manpower=0
+	history={
+		owner = ROU
+		add_core_of = ROU
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
