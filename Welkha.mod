@@ -1,5 +1,5 @@
 name="Księżyc schował się za Chmurą"
-path="mod/welkha_fantasy_game"
+path="C:/Users/ulthi/Documents/Paradox Interactive/Hearts of Iron IV/mod/welkha_fantasy_game"
 user_dir = "Welkha"
 replace_path="common/ai_equipment"
 replace_path="common/ai_focuses"

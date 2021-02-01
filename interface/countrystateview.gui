@@ -45,7 +45,7 @@ guiTypes = {
 						
 			instantTextboxType = {
 				name = "state_name"
-				position = { x = 60 y = 10 }
+				position = { x = 60 y = 13 }
 				textureFile = ""
 				font = "hoi_36header"
 				text = "STATE_NAME_TEST"
@@ -122,7 +122,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "owner"
-				position = { x = 15 y = 42 }
+				position = { x = 15 y = 46 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
@@ -135,13 +135,13 @@ guiTypes = {
 			buttonType = {
 				name = "owner_flag"
 				quadTextureSprite ="GFX_flag_small2"
-				position = { x= 34 y = 63 }
+				position = { x= 34 y = 66 }
 			}
 			
 			iconType ={
 				name ="owner_flag_border"
 				quadTextureSprite = "GFX_diplo_countrylist_flag_frame"
-				position = { x= 30 y = 59 }
+				position = { x= 30 y = 62 }
 				alwaystransparent = yes
 			}
 			
@@ -184,7 +184,7 @@ guiTypes = {
 			iconType ={
 				name ="population_icon"
 				spriteType = "GFX_population_icon"
-				position = { x = 20 y = 157 }
+				position = { x = 22 y = 162 }
 				Orientation = "UPPER_LEFT"
 			}
 			
@@ -275,13 +275,41 @@ guiTypes = {
 			name = "province_info_window"
 			position = { x = 5 y = 435 }
 			size = { width=480 height=29%% }
-			
+	
+	
 			iconType = {
 				name = "terrain_picture"
-				position = { x = 10 y= -27 }
+				position = { x = 15 y= -27 }
 				spriteType = "GFX_terrain_default"
 				Orientation = "UPPER_LEFT"
 			}
+	
+				containerWindowType = {
+				name = "custom_icon_container"
+				size = { width=100% height=100% }
+					position = { x = -370 y = 0 }
+
+				iconType = {
+					name = "terrain_feherva_icon"
+					spriteType = "GFX_terrain_feherva"
+					alwaystransparent = yes
+
+				}
+				iconType = {
+					name = "flooded_icon"
+					spriteType = "GFX_modifiers_flooded_icon"
+					position = { x = 0 y = 0 }
+					Orientation = "UPPER_LEFT"			
+				}
+
+				iconType = {
+					name = "unplanned_offensive_icon"
+					spriteType = "GFX_modifiers_unplanned_offensive_icon"
+					position = { x = 0 y = 0 }
+					Orientation = "UPPER_LEFT"			
+				}	
+			}
+
 			
 			iconType = {
 				name = "province_header"
@@ -347,25 +375,6 @@ guiTypes = {
 				max_slots_vertical = 1
 			}
 			
-			containerWindowType = {
-				name = "custom_icon_container"
-				size = { width=100% height=100% }
-				position = { x = 0 y= 0 }
-
-				iconType = {
-					name = "flooded_icon"
-					spriteType = "GFX_modifiers_flooded_icon"
-					position = { x = 0 y = 0 }
-					Orientation = "UPPER_LEFT"			
-				}
-
-				iconType = {
-					name = "unplanned_offensive_icon"
-					spriteType = "GFX_modifiers_unplanned_offensive_icon"
-					position = { x = 0 y = 0 }
-					Orientation = "UPPER_LEFT"			
-				}	
-			}
 			
 			gridBoxType = {
 				name = "province_building_entries"
@@ -375,25 +384,7 @@ guiTypes = {
 				slotsize = { width = 130 height = 54 }
 				max_slots_horizontal = 3
 			}
-			
-			buttonType = {
-				name = "nuke_province"
-				quadTextureSprite ="GFX_nuke_button"
-				position = { x= 13 y = -11 }
-			}
-			
-			iconType = {
-				name = "nuclear_strike_bar"
-				spriteType = "GFX_nuke_progress"
-				position = { x=23 y= 27 }
-				rotation = 1.5708		
-			}	
-			
-			iconType = {
-				name = "nuke_progress_frame"
-				spriteType = "GFX_nuke_progress_frame"
-				position = { x=15 y= -6 }	
-			}				
+							
 			
 		}	
 		
@@ -512,7 +503,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "province_building_entry"
-		position = { x=0 y=0 }
+		position = { x=3 y=-5 }
 		size = { width=96 height= 50 }
 		clipping = no
 

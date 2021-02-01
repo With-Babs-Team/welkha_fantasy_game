@@ -1,0 +1,38 @@
+scripted_gui = {
+	nationality_screen = {
+		context_type = selected_state_context
+
+		window_name = "culture_icon_container"
+		parent_window_token = selected_state_view
+
+		visible = { }
+
+		effects = { }
+
+		triggers = {
+			culture_germanic_prussian_visible = {
+				check_variable = { nationality = 1 }
+			}
+		}
+		triggers = {
+			culture_germanic_baltic_german_visible = {
+				check_variable = { nationality = 2 }
+			}
+		}
+		triggers = {
+			culture_baltic_latvian_visible = {
+				check_variable = { nationality = 13 }
+			}
+		}	
+		triggers = {
+			culture_baltic_estonian_visible = {
+				check_variable = { nationality = 15 }
+			}
+		}		
+		triggers = {
+			culture_slavic_skobari_visible = {
+				check_variable = { nationality = 16 }
+			}
+		}		
+	}
+}

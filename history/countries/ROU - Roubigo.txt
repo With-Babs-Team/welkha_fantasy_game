@@ -1,11 +1,11 @@
 ﻿capital = 1
 
 set_politics = {
-	ruling_party = fideism
+	ruling_party = timeism
 	elections_allowed = no
 }
 set_popularities = {
-	fideism = 100	
+	timeism = 100	
 }
 
 create_country_leader = {

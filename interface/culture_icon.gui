@@ -1,0 +1,25 @@
+guiTypes = {
+	containerWindowType = {
+		name = "culture_icon_container"
+		position = {x=382 y=87}
+		size = { width=780 height=496 }
+
+		instantTextboxType = {
+			name = "culture_title_marker"
+			position = { x = -15 y =-37 }
+			textureFile = ""
+			font = "Arial12"
+			text = "CULTURE"
+			maxWidth = 225
+			maxHeight = 30
+			format = left
+		}
+
+		iconType = {
+			name = "culture_germanic_prussian"
+			position = {x=-32 y=-22}
+			spriteType = GFX_culture_germanic_prussian
+			pdx_tooltip = "EOANB_CULTURE_INFO"
+		}
+	}
+}

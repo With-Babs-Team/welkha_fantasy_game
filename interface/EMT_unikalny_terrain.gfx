@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_terrain_feherva"
+		textureFile = "gfx/interface/terrain/terrain_feherva.dds"
+	}
+}

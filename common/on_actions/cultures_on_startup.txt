@@ -1,0 +1,8 @@
+on_actions = {
+	on_startup = {
+		effect = {
+		#prussian
+		467 = { set_variable = { nationality = 1 } }	#Ostpreußen
+		}		
+	}
+}
