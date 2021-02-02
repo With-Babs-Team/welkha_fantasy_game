@@ -5,6 +5,7 @@ state={
 		642 1708 1968 3895 
 	}
 	history={
+		victory_points = { 642 5 }
 		owner = YNG
 		add_core_of = YNG
 			buildings = {

@@ -2,8 +2,4 @@
 
   EOANB_CULTURE_INFO:0 "В этом регионе превалирует §Y[This.GetNationality]§!"
   
-  var_nationality_1:0 "Ингалонгская Культура\n \n§LЯзыковая группа:§L Марчанская\n§LВероисповедание:§L Костепоклонничество"
-  var_nationality_2:0 "Baltic German \n \n§LBaltic Germans are ethnic Germans who appeared as a result of the colonization of the Baltic during the Northern Crusades.§L"  
-  var_nationality_13:0 "Latvian \n \n§LLatvians are a Baltic nation that emerged as a result of the merger of the Baltic and Finno-Ugric tribes on the territory of the German crusader Livonian branch of the Teutonic Order§L"   
-  var_nationality_15:0 "Estonian \n \n§LEstonians are Finno-Ugric nation living in the north of the Baltic§L"    
-  var_nationality_16:0 "Skobari \n \n§LSkobari is a sub-ethnos that appeared as a result of a mixture of the local Slavic population and German culture.§L"    
+  var_nationality_1:0 "Ингалонгская Культура \n \n§L	Бледнокожие и русоволосые Ингалонцы представляют собой очень набожный, жестокий и мрачный народ, чья культура основана на кровавых жертвоприношениях, закрытых военных обществах, аграрном культе и вере в переселение душ. Ингалонцы обожествляют свою землю и считают, что только захоронение в её святых пределах может обеспечить им новую жизнь.§L \n \n§LЯзыковая группа:§L Оссианская\n§LВероисповедание:§L Костепоклонничество"
