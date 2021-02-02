@@ -2,8 +2,16 @@ state={
 	id=47
 	name="STATE_47"
 	provinces={
-		3995 
+		949 1022 1394 1510 2002 2315 2483 6486 6506 6512 6515 6522 6552 6563 
 	}
-	manpower=0
+	history={
+		owner = OLW
+		add_core_of = OLW
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

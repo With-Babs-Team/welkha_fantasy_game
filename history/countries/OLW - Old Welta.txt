@@ -1,18 +1,15 @@
 ﻿capital = 1
 
 set_politics = {
-	ruling_party = moon_worshipers
+	ruling_party = selenism
 	elections_allowed = no
 }
 set_popularities = {
-	moon_worshipers = 100
+	selenism = 100
 }
 
 create_country_leader = {
 	name = "Liche Kochtcheï"
 	desc = "POLITICS_OSIA_TRENAL_DESC"
 	picture = "Portrait_ROU_Ossia_Trenal.dds"
-	ideology = moon_worshipers_1
-	traits = {
-	}
 }

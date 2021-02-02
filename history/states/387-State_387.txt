@@ -1,10 +1,17 @@
-
 state={
 	id=387
 	name="STATE_387"
 	provinces={
-		95 599 1727 2010 2226 2514 2526 2820 2824 2876 2885 3012 3183 3334 6236 6259 6272 6282 6297 6302 6314 6319 6320 6345 6394 6395 6400 
+		599 808 1727 2010 2514 2526 2820 2824 3012 3334 6236 6259 6272 6297 6302 6319 6394 6400 
 	}
-	manpower=0
+	history={
+		owner = OLW
+		add_core_of = OLW
+			buildings = {
+				infrastructure = 1
+		}
+	}
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

@@ -72,3 +72,8 @@ GCP = {
 	color = rgb { 195  176  145 }
 	color_ui = rgb { 115 138 152 }
 }
+
+OLW = {
+	color = rgb { 128  128  128 }
+	color_ui = rgb { 115 138 152 }
+}
