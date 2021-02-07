@@ -8,6 +8,7 @@ TAN = "countries/Tanra.txt"
 AMA = "countries/Amara.txt"
 LEU = "countries/Leukrata.txt"
 TEU = "countries/Teuderong.txt"
+MUK = "countries/Mulkhids.txt"
 
 
 
@@ -25,7 +26,6 @@ MON = "countries/Montaigu.txt"
 TST = "countries/Test.txt"
 ROU = "countries/Roubigo.txt"
 OLW = "countries/Old Welta.txt"
-MUL = "countries/Mulkhids.txt"
 ARE = "countries/Arethids.txt"
 PAR = "countries/Parail.txt"
 ZYR = "countries/Zyrjane.txt"

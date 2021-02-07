@@ -1,10 +1,20 @@
-
 state={
 	id=420
 	name="STATE_420"
 	provinces={
-		127 226 1495 2850 6569 6628 6698 6746 6761 6785 
+		226 1689 2058 2513 2850 3141 6328 6549 6569 6600 6611 6619 6628 6632 6646 6650 6669 
 	}
-	manpower=0
+	history={
+		owner = MUK
+		add_core_of = MUK
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

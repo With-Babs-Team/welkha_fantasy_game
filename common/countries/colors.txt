@@ -77,3 +77,8 @@ OLW = {
 	color = rgb { 128  128  128 }
 	color_ui = rgb { 115 138 152 }
 }
+
+MUK = {
+	color = rgb { 70  90  50 }
+	color_ui = rgb { 115 138 152 }
+}

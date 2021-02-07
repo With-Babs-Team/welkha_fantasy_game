@@ -2,8 +2,19 @@ state={
 	id=165
 	name="STATE_165"
 	provinces={
-		417 6240 6252 6273 
+		739 745 1093 1240 1853 2195 2314 2923 2987 6085 6138 6139 6177 6201 6209 6212 6249 
 	}
-	manpower=0
+	history={
+		owner = MUK
+		add_core_of = MUK
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

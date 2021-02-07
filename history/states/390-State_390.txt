@@ -1,15 +1,20 @@
+
 state={
 	id=390
 	name="STATE_390"
-	provinces={
-		881 1063 2886 2980 6639 6661 6667 6692 6695 6715 6727 6728 6783 
-	}
+
 	history={
 		owner = OLW
 		add_core_of = OLW
-			buildings = {
-				infrastructure = 1
+		buildings = {
+			infrastructure = 1
+
 		}
+
+	}
+
+	provinces={
+		881 1063 2886 2980 6267 6639 6661 6667 6692 6695 6715 6727 6728 6783 
 	}
 	manpower=1488
 	buildings_max_level_factor=1.000
