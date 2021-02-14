@@ -1,7 +1,7 @@
 ideologies = {
 	etatism = {
 		types = {
-			00_etatism = {
+			subetatism = {
 			}
 		}
 		dynamic_faction_names = {

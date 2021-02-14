@@ -1,7 +1,7 @@
 ideologies = {
 	timeism = {
 		types = {
-			00_timeism = {
+			subtimeism = {
 			}
 		}
 		dynamic_faction_names = {

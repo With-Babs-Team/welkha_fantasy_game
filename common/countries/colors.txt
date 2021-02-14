@@ -13,13 +13,13 @@ LAX = {
 	color_ui = rgb { 94 103 104 }
 }
 
-TAN = {
+TEU = {
 	color = rgb { 88 51 62 }
 	color_ui = rgb { 88 51 62 }
 }
 
 ARA = {
-	color = rgb { 132 155 166 }
+	color = rgb { 124 112 124 }
 	color_ui = rgb { 132 155 166 }
 }
 
@@ -28,7 +28,7 @@ WUN = {
 	color_ui = rgb { 77 93 83 }
 }
 
-TEU = {
+TAN = {
 	color = rgb { 148 145 142 }
 	color_ui = rgb { 148 145 142 }
 }

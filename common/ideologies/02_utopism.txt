@@ -1,7 +1,7 @@
 ideologies = {
 	utopism = {
 		types = {
-			00_utopism = {
+			subutopism = {
 			}
 		}
 		dynamic_faction_names = {

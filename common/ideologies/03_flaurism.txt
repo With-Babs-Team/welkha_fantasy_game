@@ -1,7 +1,7 @@
 ideologies = {
 	flaurism = {
 		types = {
-			00_flaurism = {
+			subflaurism = {
 			}
 		}
 		dynamic_faction_names = {

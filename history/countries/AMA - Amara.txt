@@ -1,21 +1,26 @@
-﻿capital = 1
+﻿capital = 50
 
 set_politics = {
-	ruling_party = idolatry
+	ruling_party = timeism
 	elections_allowed = no
 }
 set_popularities = {
-	eosphorism = 8
-	theriatheism = 2
-	idolatry = 86
-	moon_worshipers = 4
+	selenism = 10
+	utopism = 10
+	flaurism = 10
+	villeinism = 10
+	fratrianism = 10
+	fideism = 10
+	timeism = 20
+	etatism = 10
+	ordism = 10
 }
 
 create_country_leader = {
-	name = "Zerrin Sonau"
-	desc = "POLITICS_ZERRIN_DESC"
-	picture = "Portrait_YNG_Zerrin.dds"
-	ideology = cult_of_godking
+	name = "Wolfdietrich Tarduk"
+	desc = "POLITICS_WOLF_DESC"
+	picture = "Portrait_AMA_wofl.dds"
+	ideology = subtimeism
 	traits = {
 	}
 }

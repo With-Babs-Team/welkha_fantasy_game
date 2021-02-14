@@ -1,7 +1,7 @@
 ideologies = {
 	selenism  = {
 		types = {
-			00_selenism = {
+			subselenism = {
 			}
 		}
 		dynamic_faction_names = {

@@ -1,7 +1,7 @@
 ideologies = {
 	ordism = {
 		types = {
-			00_ordism = {
+			subordism = {
 			}
 		}
 		dynamic_faction_names = {

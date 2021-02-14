@@ -20,7 +20,7 @@ create_country_leader = {
 	name = "Zerrin Sonau"
 	desc = "POLITICS_ZERRIN_DESC"
 	picture = "Portrait_YNG_Zerrin_priest.dds"
-	ideology = 00_fideism
+	ideology = subfideism
 	traits = {
 	}
 }

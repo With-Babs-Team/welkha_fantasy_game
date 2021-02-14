@@ -1,7 +1,7 @@
 ideologies = {
 	villeinism = {
 		types = {
-			00_villeinism = {
+			subvilleinism = {
 			}
 		}
 		dynamic_faction_names = {

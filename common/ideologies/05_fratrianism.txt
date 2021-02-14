@@ -1,7 +1,7 @@
 ideologies = {
 	fratrianism = {
 		types = {
-			00_fratrianism = {
+			subfratrianism = {
 			}
 		}
 		dynamic_faction_names = {

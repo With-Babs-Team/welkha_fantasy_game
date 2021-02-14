@@ -1,7 +1,7 @@
 ideologies = {
 	fideism = {
 		types = {
-			00_fideism = {
+			subfideism = {
 			}
 		}
 		dynamic_faction_names = {
