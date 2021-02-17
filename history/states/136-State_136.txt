@@ -2,8 +2,19 @@ state={
 	id=136
 	name="STATE_136"
 	provinces={
-		5432 5479 5530 
+		166 387 625 1604 2326 3027 5815 5874 
 	}
-	manpower=0
+	history={
+		owner = ZYR
+		add_core_of = ZYR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

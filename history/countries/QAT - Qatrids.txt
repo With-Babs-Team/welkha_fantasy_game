@@ -1,0 +1,26 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = fratrianism
+	elections_allowed = no
+}
+set_popularities = {
+	selenism = 10
+	utopism = 10
+	flaurism = 10
+	villeinism = 10
+	fratrianism = 10
+	fideism = 20
+	timeism = 10
+	etatism = 10
+	ordism = 10
+}
+
+create_country_leader = {
+	name = "Auriqa Qatrid"
+	desc = "POLITICS_ZERRIN_DESC"
+	picture = "Portrait_YNG_Zerrin_priest.dds"
+	ideology = subfratrianism
+	traits = {
+	}
+}

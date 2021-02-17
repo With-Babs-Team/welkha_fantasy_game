@@ -1,10 +1,20 @@
-
 state={
 	id=351
 	name="STATE_351"
 	provinces={
-		575 1003 1705 2943 5655 5827 
+		1086 1458 1474 1951 2460 2738 5595 
 	}
-	manpower=0
+	history={
+		owner = RYD
+		add_core_of = RYD
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

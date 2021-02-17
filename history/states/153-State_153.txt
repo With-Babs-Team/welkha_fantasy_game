@@ -2,8 +2,19 @@ state={
 	id=153
 	name="STATE_153"
 	provinces={
-		2605 5867 5927 5955 
+		5832 
 	}
-	manpower=0
+	history={
+		owner = HOR
+		add_core_of = HOR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

@@ -1,10 +1,20 @@
-
 state={
 	id=344
 	name="STATE_344"
 	provinces={
-		45 136 1078 1508 1512 1718 1774 2052 2182 2204 2676 2983 3214 3350 5210 5268 5313 5352 5393 5520 5535 5585 5594 5707 5808 
+		1718 2182 2944 3214 5422 5509 5535 5585 5594 
 	}
-	manpower=0
+	history={
+		owner = QAT
+		add_core_of = WAT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

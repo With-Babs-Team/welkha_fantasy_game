@@ -79,6 +79,31 @@ OLW = {
 }
 
 MUK = {
-	color = rgb { 70  90  50 }
+	color = rgb { 90  101  80 }
 	color_ui = rgb { 115 138 152 }
+}
+
+QAT = {
+	color = rgb { 112  66  20 }
+	color_ui = rgb { 128  0  32 }
+}
+
+SAM = {
+	color = rgb { 219  192  74 }
+	color_ui = rgb { 185  212  25 }
+}
+
+RYD = {
+	color = rgb { 172  183  142 }
+	color_ui = rgb { 172  183  142 }
+}
+
+HOR = {
+	color = rgb { 141  60  32 }
+	color_ui = rgb { 112  66  20 }
+}
+
+PAR = {
+	color = rgb { 114  47  55 }
+	color_ui = rgb { 112  66  20 }
 }

@@ -10,7 +10,10 @@ LEU = "countries/Leukrata.txt"
 TEU = "countries/Teuderong.txt"
 MUK = "countries/Mulkhids.txt"
 
-
+QAT = "countries/Qatrids.txt"
+SAM = "countries/Samakhids.txt"
+RYD = "countries/Rydanids.txt"
+HOR = "countries/Horits.txt"
 
 
 

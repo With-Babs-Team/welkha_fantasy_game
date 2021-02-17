@@ -1,10 +1,20 @@
-
 state={
 	id=369
 	name="STATE_369"
 	provinces={
-		28 374 417 834 900 945 1102 1667 2113 2659 2733 2849 3154 3230 3336 5956 6005 6069 6079 6084 6111 6128 6130 6154 6167 6185 6190 
+		374 945 1667 2733 5894 5956 6005 6079 6084 6154 6185 6324 
 	}
-	manpower=0
+	history={
+		owner = MUK
+		add_core_of = MUK
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

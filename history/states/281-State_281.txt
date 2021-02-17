@@ -3,8 +3,19 @@ state={
 	id=281
 	name="STATE_281"
 	provinces={
-		749 3286 4721 4761 4764 4800 4804 
+		575 1003 1078 1512 1705 1774 2052 2943 3350 5520 5569 5603 5655 5656 5707 5827 
 	}
-	manpower=0
+	history={
+		owner = SAM
+		add_core_of = SAM
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

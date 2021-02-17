@@ -1,10 +1,20 @@
-
 state={
 	id=364
 	name="STATE_364"
 	provinces={
-		15 75 387 524 742 826 847 857 981 1604 1946 2072 2540 3014 5957 6044 6064 6070 6086 6112 6155 6176 6186 6197 6221 6233 6296 6335 10825 
+		15 75 524 742 826 847 981 1946 2072 2540 3014 5957 5974 6044 6064 6070 6086 6112 6155 6176 6197 6221 6233 6296 6335 10825 
 	}
-	manpower=0
+	history={
+		owner = ZYR
+		add_core_of = ZYR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

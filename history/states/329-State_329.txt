@@ -1,10 +1,20 @@
-
 state={
 	id=329
 	name="STATE_329"
 	provinces={
 		566 5345 5410 5471 5521 5580 
 	}
-	manpower=0
+	history={
+		owner = RYD
+		add_core_of = RYD
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

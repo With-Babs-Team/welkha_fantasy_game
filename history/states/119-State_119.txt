@@ -2,8 +2,19 @@ state={
 	id=119
 	name="STATE_119"
 	provinces={
-		273 1957 2999 5237 5238 5280 
+		2113 
 	}
-	manpower=0
+	history={
+		owner = HOR
+		add_core_of = HOR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }

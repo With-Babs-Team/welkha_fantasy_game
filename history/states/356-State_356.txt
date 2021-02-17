@@ -1,10 +1,20 @@
-
 state={
 	id=356
 	name="STATE_356"
 	provinces={
-		325 1156 1431 1584 2419 2615 2973 2977 3045 3065 3118 5713 5810 5832 5845 5846 5857 5894 5919 5932 5949 5973 5984 5990 5995 6026 6031 
+		857 900 1431 2849 2977 3065 5919 5973 5984 6026 6128 6130 6186 
 	}
-	manpower=0
+	history={
+		owner = HOR
+		add_core_of = HOR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=1488
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
