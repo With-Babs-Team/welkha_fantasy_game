@@ -1,10 +1,20 @@
-
 state={
 	id=208
 	name="STATE_208"
 	provinces={
 		101 994 2199 2435 3570 3609 
 	}
-	manpower=0
+	history={
+		owner = MEZ
+		add_core_of = MEZ
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -107,3 +107,73 @@ PAR = {
 	color = rgb { 114  47  55 }
 	color_ui = rgb { 112  66  20 }
 }
+
+DOR = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+GLS = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+IRG = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+LOR = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+PCR = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+CTA = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+LRD = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+ESA = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+KRI = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+KAR = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+AHF = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+MEZ = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+BUR = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}
+
+GRO = {
+	color = rgb { 133 133 133 }
+	color_ui = rgb { 133 133 133 }
+}

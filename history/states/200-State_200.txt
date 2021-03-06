@@ -1,10 +1,20 @@
-
 state={
 	id=200
 	name="STATE_200"
 	provinces={
 		307 489 547 1193 1601 2842 3249 3500 3522 3539 3569 3615 3618 
 	}
-	manpower=0
+	history={
+		owner = LRD
+		add_core_of = LRD
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

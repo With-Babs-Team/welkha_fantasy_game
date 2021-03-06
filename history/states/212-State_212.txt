@@ -1,10 +1,20 @@
-
 state={
 	id=212
 	name="STATE_212"
 	provinces={
 		118 1172 1469 1485 1717 1841 2039 3144 3216 3680 3683 3687 3705 3747 3791 3860 4880 4942 
 	}
-	manpower=0
+	history={
+		owner = CTA
+		add_core_of = CTA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -1,10 +1,20 @@
-
 state={
 	id=7
 	name="STATE_7"
 	provinces={
-		2892 3592 
+		762 817 960 1099 1998 2263 2448 2892 3541 3564 3592 3596 3605 3636 3660 3663 3664 
 	}
-	manpower=0
+	history={
+		owner = DOR
+		add_core_of = DOR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

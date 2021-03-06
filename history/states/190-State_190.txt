@@ -1,10 +1,20 @@
-
 state={
 	id=190
 	name="STATE_190"
 	provinces={
 		427 449 1670 2343 2507 2649 3391 3397 3401 3403 3404 3417 3421 3422 3440 3463 3497 3519 
 	}
-	manpower=0
+	history={
+		owner = BUR
+		add_core_of = BUR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

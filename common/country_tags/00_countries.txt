@@ -15,7 +15,21 @@ SAM = "countries/Samakhids.txt"
 RYD = "countries/Rydanids.txt"
 HOR = "countries/Horits.txt"
 
-
+###Dorsal###
+DOR = "countries/Dorsal.txt"
+GLS = "countries/Godlesstate.txt"
+IRG = "countries/Iron Ring.txt"
+LOR = "countries/League of Regicide.txt"
+PCR = "countries/Patriotic Army.txt"
+CTA = "countries/Constituent Assembly.txt"
+LRD = "countries/Landsraad.txt"
+ESA = "countries/Esangi.txt"
+KRI = "countries/Krina.txt"
+KAR = "countries/Kareonida.txt"
+AHF = "countries/Army of Holy Faith.txt"
+MEZ = "countries/Mezhonia.txt"
+BUR = "countries/Buresh.txt"
+GRO = "countries/Grotida.txt"
 
 
 

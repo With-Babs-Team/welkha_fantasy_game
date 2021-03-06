@@ -1,10 +1,20 @@
-
 state={
 	id=199
 	name="STATE_199"
 	provinces={
 		1606 2740 2784 3208 3443 3449 3455 3465 3472 3489 3518 3548 3574 
 	}
-	manpower=0
+	history={
+		owner = IRG
+		add_core_of = IRG
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

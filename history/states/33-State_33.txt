@@ -2,8 +2,19 @@ state={
 	id=33
 	name="STATE_33"
 	provinces={
-		3862 3932 
+		507 1038 1364 1400 1571 3292 3941 4081 4218 
 	}
-	manpower=0
+	history={
+		owner = GRO
+		add_core_of = GRO
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

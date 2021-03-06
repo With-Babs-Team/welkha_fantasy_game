@@ -1,10 +1,20 @@
-
 state={
 	id=211
 	name="STATE_211"
 	provinces={
-		593 708 1155 1218 1499 1676 1889 2001 2300 3362 3365 3366 3367 3368 3371 3375 3376 3379 3380 3383 3385 3392 3398 
+		593 708 1155 1218 1499 1676 1889 2001 2300 3362 3365 3366 3367 3368 3375 3376 3379 3380 3383 3385 3392 3398 
 	}
-	manpower=0
+	history={
+		owner = KRI
+		add_core_of = KRI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

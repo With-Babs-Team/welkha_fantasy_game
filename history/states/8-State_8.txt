@@ -2,8 +2,19 @@ state={
 	id=8
 	name="STATE_8"
 	provinces={
-		893 896 982 1726 2449 2516 2637 2804 2966 3253 3287 3409 3412 3424 3434 3435 3444 3450 3453 3469 3471 3479 3494 3501 3504 3527 3530 3532 3556 3573 3588 
+		216 982 1726 2449 2516 2804 2981 3253 3287 3409 3412 3424 3434 3435 3444 3450 3453 3471 3479 3501 3504 3530 3556 
 	}
-	manpower=0
+	history={
+		owner = ESA
+		add_core_of = ESA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

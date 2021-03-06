@@ -1,15 +1,20 @@
+
 state={
 	id=18
 	name="STATE_18"
-	provinces={
-		428 523 655 1591 1822 1844 2602 2887 3266 5895 5939 5991 6016 6032 6036 6066 6092 6141 7139 7143 
-	}
+
 	history={
-		owner = ROU
-		add_core_of = ROU
-			buildings = {
-				infrastructure = 1
+		owner = DOR
+		add_core_of = DOR
+		buildings = {
+			infrastructure = 1
+
 		}
+
+	}
+
+	provinces={
+		428 430 523 655 712 815 889 1001 1035 1317 1591 1822 1844 2602 2887 3266 3796 3857 3874 4347 4479 5895 5939 5991 6016 6032 6036 6066 6092 6141 
 	}
 	manpower=1488
 	buildings_max_level_factor=1.000

@@ -2,8 +2,19 @@ state={
 	id=217
 	name="STATE_217"
 	provinces={
-		7 458 784 809 1933 2105 2309 2578 2865 2988 3145 3356 3839 3846 3867 3868 3869 3878 3892 3898 3900 3904 3907 3928 3933 3935 3955 3963 3986 
+		265 872 1778 1933 2545 2578 2865 2988 3145 3356 3779 3813 3839 3867 3869 3900 3904 3933 3955 3963 3986 
 	}
-	manpower=0
+	history={
+		owner = PCR
+		add_core_of = PCR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

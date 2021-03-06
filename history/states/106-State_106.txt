@@ -2,8 +2,19 @@ state={
 	id=106
 	name="STATE_106"
 	provinces={
-		7189 
+		2811 3464 3498 
 	}
-	manpower=0
+	history={
+		owner = AHF
+		add_core_of = AHF
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

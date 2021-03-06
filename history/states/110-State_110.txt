@@ -2,8 +2,19 @@ state={
 	id=110
 	name="STATE_110"
 	provinces={
-		5099 
+		38 554 3520 3588 3665 3681 3738 
 	}
-	manpower=0
+	history={
+		owner = KAR
+		add_core_of = KAR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

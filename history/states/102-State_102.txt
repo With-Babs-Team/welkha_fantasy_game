@@ -2,8 +2,19 @@ state={
 	id=102
 	name="STATE_102"
 	provinces={
-		7186 
+		90 893 896 2637 2966 3469 3494 3527 3532 3573 3580 3587 
 	}
-	manpower=0
+	history={
+		owner = ESA
+		add_core_of = ESA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

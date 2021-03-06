@@ -5,6 +5,17 @@ state={
 	provinces={
 		714 3736 3772 3812 3845 
 	}
-	manpower=0
+	history={
+		owner = CTA
+		add_core_of = CTA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -2,8 +2,19 @@ state={
 	id=109
 	name="STATE_109"
 	provinces={
-		2577 
+		944 1176 1797 1881 2614 2971 3616 3701 3710 3732 3739 3744 
 	}
-	manpower=0
+	history={
+		owner = GLS
+		add_core_of = GLS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }
