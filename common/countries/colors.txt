@@ -109,71 +109,71 @@ PAR = {
 }
 
 DOR = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 218 228 167 }
+	color_ui = rgb { 218 228 167 }
 }
 
 GLS = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 84 42 56 }
+	color_ui = rgb { 84 42 56 }
 }
 
 IRG = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 127 164 119 }
+	color_ui = rgb { 127 164 119 }
 }
 
 LOR = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 128 44 46 }
+	color_ui = rgb { 128 44 46 }
 }
 
 PCR = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 54 66 112 }
+	color_ui = rgb { 54 66 112 }
 }
 
 CTA = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 143 174 178 }
+	color_ui = rgb { 143 174 178 }
 }
 
 LRD = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 185 161 136 }
+	color_ui = rgb { 185 161 136 }
 }
 
 ESA = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 147 171 176 }
+	color_ui = rgb { 147 171 176 }
 }
 
 KRI = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 214 192 103 }
+	color_ui = rgb { 214 192 103 }
 }
 
 KAR = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 127 164 119 }
+	color_ui = rgb { 127 164 119 }
 }
 
 AHF = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 203 199 147 }
+	color_ui = rgb { 203 199 147 }
 }
 
 MEZ = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 65 88 86 }
+	color_ui = rgb { 65 88 86 }
 }
 
 BUR = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 154 125 156 }
+	color_ui = rgb { 154 125 156 }
 }
 
 GRO = {
-	color = rgb { 133 133 133 }
-	color_ui = rgb { 133 133 133 }
+	color = rgb { 122 167 149 }
+	color_ui = rgb { 122 167 149 }
 }

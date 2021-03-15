@@ -1,7 +1,7 @@
 ﻿capital = 1
 
 set_politics = {
-	ruling_party = etatism
+	ruling_party = timeism
 	elections_allowed = no
 }
 set_popularities = {
@@ -20,7 +20,7 @@ create_country_leader = {
 	name = "Tamlaq Samakhid"
 	desc = "POLITICS_ZERRIN_DESC"
 	picture = "Portrait_YNG_Zerrin_priest.dds"
-	ideology = subetatism
+	ideology = subtimeism
 	traits = {
 	}
 }
