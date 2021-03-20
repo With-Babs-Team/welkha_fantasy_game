@@ -2,7 +2,7 @@ state={
 	id=383
 	name="STATE_383"
 	provinces={
-		2598 6099 6241 6310 6311 6366 10176
+		6241 6310 6311 6366 10176
 	}
 	history={
 		owner = MUK
