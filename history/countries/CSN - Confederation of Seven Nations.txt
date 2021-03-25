@@ -1,0 +1,26 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = fratrianism
+	elections_allowed = no
+}
+set_popularities = {
+	selenism = 10
+	utopism = 10
+	flaurism = 10
+	villeinism = 10
+	fratrianism = 20
+	fideism = 10
+	timeism = 10
+	etatism = 10
+	ordism = 10
+}
+
+create_country_leader = {
+	name = "Tribal Conclave"
+	desc = "POLITICS_SEVEN_CONFEDERATION_DESC"
+	picture = "Portrait_CSN_CONF.dds"
+	ideology = subfratrianism
+	traits = {
+	}
+}

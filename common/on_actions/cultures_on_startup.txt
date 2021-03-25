@@ -3,6 +3,42 @@ on_actions = {
 		effect = {
 		#Yngalonian
 		478 = { set_variable = { nationality = 1 } }	#Feherva
-		}		
+		}	
+		effect = {
+		#Moorlandic
+		96 = { set_variable = { nationality = 2 } }	
+		63 = { set_variable = { nationality = 2 } }	
+		68 = { set_variable = { nationality = 2 } }	
+		83 = { set_variable = { nationality = 2 } }	
+		}	
+		effect = {
+		#Apsilian
+		89 = { set_variable = { nationality = 3 } }	
+		75 = { set_variable = { nationality = 3 } }	
+		}	
+		effect = {
+		#Selic
+		82 = { set_variable = { nationality = 4 } }	
+		70 = { set_variable = { nationality = 4 } }	
+		}	
+		effect = {
+		#Lugaric
+		91 = { set_variable = { nationality = 5 } }	
+		}	
+		effect = {
+		#Bekhiric
+		221 = { set_variable = { nationality = 6 } }	
+		65 = { set_variable = { nationality = 6 } }	
+		71 = { set_variable = { nationality = 6 } }	
+		}	
+		effect = {
+		#Kaskian
+		214 = { set_variable = { nationality = 7 } }
+		28 = { set_variable = { nationality = 7 } }	
+		}	
+		effect = {
+		#Gelic
+		78 = { set_variable = { nationality = 8 } }
+		}			
 	}
 }

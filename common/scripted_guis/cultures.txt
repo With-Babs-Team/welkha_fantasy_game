@@ -10,28 +10,43 @@ scripted_gui = {
 		effects = { }
 
 		triggers = {
-			culture_germanic_prussian_visible = {
+			culture_ossianic_yngalonian_visible = {
 				check_variable = { nationality = 1 }
 			}
 		}
 		triggers = {
-			culture_germanic_baltic_german_visible = {
+			culture_ossianic_moorlandic_visible = {
 				check_variable = { nationality = 2 }
 			}
 		}
 		triggers = {
-			culture_baltic_latvian_visible = {
-				check_variable = { nationality = 13 }
+			culture_subhumans_apsilian_visible	 = {
+				check_variable = { nationality = 3 }
 			}
-		}	
+		}
 		triggers = {
-			culture_baltic_estonian_visible = {
-				check_variable = { nationality = 15 }
+			culture_tertheric_selian_visible = {
+				check_variable = { nationality = 4 }
 			}
-		}		
+		}
 		triggers = {
-			culture_slavic_skobari_visible = {
-				check_variable = { nationality = 16 }
+			 culture_obrian_lugarian_visible = {
+				check_variable = { nationality = 5 }
+			}
+		}
+		triggers = {
+			culture_subhumans_bekhiric_visible = {
+				check_variable = { nationality = 6 }
+			}
+		}
+		triggers = {
+			culture_subhumans_kaskian_visible = {
+				check_variable = { nationality = 7 }
+			}
+		}
+		triggers = {
+			culture_subhumans_gelic_visible = {
+				check_variable = { nationality = 8 }
 			}
 		}		
 	}

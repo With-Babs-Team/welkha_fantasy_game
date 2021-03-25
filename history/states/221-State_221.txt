@@ -1,10 +1,20 @@
-
 state={
 	id=221
 	name="STATE_221"
 	provinces={
-		371 922 1470 1572 2431 2598 3303 3836 3856 3873 3902 3919 3991 
+		371 922 1470 1488 1572 2431 2598 3303 3836 3856 3873 3902 3919 3991 
 	}
-	manpower=0
+	history={
+		owner = CSN
+		add_core_of = CSN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

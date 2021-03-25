@@ -1,6 +1,34 @@
 spriteTypes = {
 	spriteType = {
-		name = "GFX_culture_germanic_prussian"
-		texturefile = "gfx/interface/ideas/culture/culture_germanic_prussian.dds"
+		name = "GFX_culture_ossianic_yngalonian"
+		texturefile = "gfx/interface/ideas/culture/culture_ossianic_yngalonian.dds"
 	}		
+	spriteType = {
+		name = "GFX_culture_ossianic_moorlandic"
+		texturefile = "gfx/interface/ideas/culture/culture_ossianic_moorlandic.dds"
+	}
+	spriteType = {
+		name = "GFX_culture_obrian_lugarian"
+		texturefile = "gfx/interface/ideas/culture/culture_obrian_lugarian.dds"
+	}
+	spriteType = {
+		name = "GFX_culture_subhumans_apsilian"
+		texturefile = "gfx/interface/ideas/culture/culture_subhumans_apsilian.dds"
+	}
+	spriteType = {
+		name = "GFX_culture_subhumans_bekhiric"
+		texturefile = "gfx/interface/ideas/culture/culture_subhumans_bekhiric.dds"
+	}
+	spriteType = {
+		name = "GFX_culture_subhumans_gelic"
+		texturefile = "gfx/interface/ideas/culture/culture_subhumans_gelic.dds"
+	}
+	spriteType = {
+		name = "GFX_culture_subhumans_kaskian"
+		texturefile = "gfx/interface/ideas/culture/culture_subhumans_kaskian.dds"
+	}
+	spriteType = {
+		name = "GFX_culture_tertheric_selian"
+		texturefile = "gfx/interface/ideas/culture/culture_tertheric_selian.dds"
+	}	
 }

@@ -1,10 +1,20 @@
-
 state={
 	id=83
 	name="STATE_83"
 	provinces={
 		2465 3044 3776 4235 
 	}
-	manpower=0
+	history={
+		owner = CSN
+		add_core_of = CSN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

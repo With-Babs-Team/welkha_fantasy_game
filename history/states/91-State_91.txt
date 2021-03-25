@@ -1,10 +1,20 @@
-
 state={
 	id=91
 	name="STATE_91"
 	provinces={
-		988 1270 2562 3704 3721 3722 3735 4167 4173 
+		988 1270 2562 3704 3721 3722 3735 4173 
 	}
-	manpower=0
+	history={
+		owner = CSN
+		add_core_of = CSN
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }
