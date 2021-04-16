@@ -22,7 +22,7 @@ guiTypes = {
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}
 		iconType = {
-			name = "culture_ossianic_moorlandic"
+			name = "culture_ossianic_moorlandian"
 			position = {x=-28 y=-22}
 			spriteType = GFX_culture_ossianic_moorlandic
 			pdx_tooltip = "EOANB_CULTURE_INFO"
@@ -34,7 +34,7 @@ guiTypes = {
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}		
 		iconType = {
-			name = "culture_obrian_lugarian"
+			name = "culture_obric_lugarian"
 			position = {x=-28 y=-22}
 			spriteType = GFX_culture_obrian_lugarian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
@@ -61,6 +61,12 @@ guiTypes = {
 			name = "culture_tertheric_selian"
 			position = {x=-28 y=-22}
 			spriteType = GFX_culture_tertheric_selian
+			pdx_tooltip = "EOANB_CULTURE_INFO"
+		}	
+		iconType = {
+			name = "culture_straveniс_irian"
+			position = {x=-28 y=-22}
+			spriteType = GFX_culture_straveniс_irian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}		
 	}

@@ -33,9 +33,14 @@ GRO = "countries/Grotida.txt"
 
 ###Moorlanda###
 CSN = "countries/Confederation of Seven Nations.txt"
-
+###Sentanta###
+SNS = "countries/Sentanta.txt"
+REB = "countries/Red Band.txt"
+BLB = "countries/Blue Band.txt"
+BLC = "countries/Black Band.txt"
 
  
+IRI = "countries/Irij.txt"
 
 GCP = "countries/Captaincies.txt"
 

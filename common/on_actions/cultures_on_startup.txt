@@ -39,6 +39,10 @@ on_actions = {
 		effect = {
 		#Gelic
 		78 = { set_variable = { nationality = 8 } }
+		}		
+		effect = {
+		#Irian
+		32 = { set_variable = { nationality = 9 } }
 		}			
 	}
 }

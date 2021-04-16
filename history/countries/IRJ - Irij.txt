@@ -1,35 +1,26 @@
-﻿capital = 14
+﻿capital = 1
 
 set_politics = {
-	ruling_party = eosphorism
+	ruling_party = fideism
 	elections_allowed = no
 }
 set_popularities = {
-	eosphorism = 100
-}
-create_country_leader = {
-	name = "Dragomir II"
-	desc = "POLITICS_Dragomir_ii_DESC"
-	picture = "Portrait_IRJ_Dragomir_ii.dds"
-	ideology = veltiantism
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Andre Smirnov"
-	desc = "POLITICS_ANDRE_SMIRNOV_DESC"
-	picture = "Portrait_IRJ_ANDRE_SMIRNOV.dds"	
-	ideology = moon_worshipers_1
-	traits = {	
-	}
+	selenism = 10
+	utopism = 10
+	flaurism = 10
+	villeinism = 10
+	fratrianism = 10
+	fideism = 20
+	timeism = 10
+	etatism = 10
+	ordism = 10
 }
 
 create_country_leader = {
-	name = "Borislav Chernetskij"
-	desc = "POLITICS_BORISLAV_CHERNETSKIJ_DESC"
-	picture = "Portrait_IRJ_BORISLAV_CHERNETSKIJ.dds"
-	ideology = cult_of_exhilarating_god
+	name = "Tamlaq Samakhid"
+	desc = "POLITICS_ZERRIN_DESC"
+	picture = "Portrait_YNG_Zerrin_priest.dds"
+	ideology = subfideism
 	traits = {
 	}
 }

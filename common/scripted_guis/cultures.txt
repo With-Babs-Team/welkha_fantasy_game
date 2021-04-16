@@ -15,7 +15,7 @@ scripted_gui = {
 			}
 		}
 		triggers = {
-			culture_ossianic_moorlandic_visible = {
+			culture_ossianic_moorlandian_visible = {
 				check_variable = { nationality = 2 }
 			}
 		}
@@ -30,7 +30,7 @@ scripted_gui = {
 			}
 		}
 		triggers = {
-			 culture_obrian_lugarian_visible = {
+			 culture_obric_lugarian_visible = {
 				check_variable = { nationality = 5 }
 			}
 		}
@@ -47,6 +47,11 @@ scripted_gui = {
 		triggers = {
 			culture_subhumans_gelic_visible = {
 				check_variable = { nationality = 8 }
+			}
+		}
+		triggers = {
+			culture_straveniс_irian_visible = {
+				check_variable = { nationality = 9 }
 			}
 		}		
 	}
