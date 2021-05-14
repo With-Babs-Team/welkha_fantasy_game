@@ -2,8 +2,19 @@ state={
 	id=141
 	name="STATE_141"
 	provinces={
-		7209 
+		138 4789 4799 5883 5970 6052 
 	}
-	manpower=0
+	history={
+		owner = BLC
+		add_core_of = BLC
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

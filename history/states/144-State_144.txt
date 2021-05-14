@@ -2,8 +2,18 @@ state={
 	id=144
 	name="STATE_144"
 	provinces={
-		3272 5591 5608 5705 
+		873 3272 5591 5608 5705 5774 6402 6468 
 	}
-	manpower=0
+	history={
+		owner = SNS
+		add_core_of = SNS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }
