@@ -4,6 +4,16 @@ state={
 	provinces={
 		1139 1197 1644 2162 7016 7074 7083 7088 7100 7116 7121 7127 
 	}
-	manpower=0
+	history={
+		owner = NOT
+		add_core_of = NOT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -1,0 +1,23 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = fratrianism
+	elections_allowed = no
+}
+set_popularities = {
+	fratrianism = 100
+}
+
+add_ideas = {
+	limited_exports
+	limited_conscription
+	partial_economic_mobilisation
+	direct_theocracy
+}
+
+create_country_leader = {
+	name = "Great Sorcerer"
+	desc = "POLITICS_SORCERER_DESC"
+	picture = "Portrait_RGS_SORCERER.dds"
+	ideology = subfratrianism
+}

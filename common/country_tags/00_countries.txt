@@ -39,9 +39,18 @@ REB = "countries/Red Band.txt"
 BLB = "countries/Blue Band.txt"
 BLC = "countries/Black Band.txt"
 
- 
-IRI = "countries/Irij.txt"
+###Wild Field###
+EST = "countries/Estored.txt"
 
+###Far South###
+NOT = "countries/Nott.txt"
+SFE = "countries/Self Eaters.txt"
+IHA = "countries/Ilkh Angaj.txt"
+RGS = "countries/Realm of Great Sorcerer.txt"
+
+###Stravena###
+IRI = "countries/Irij.txt"
+JAR = "countries/Jarobor.txt"
 GCP = "countries/Captaincies.txt"
 
 RAG = "countries/Raguenel.txt"
@@ -52,7 +61,6 @@ OLW = "countries/Old Welta.txt"
 ARE = "countries/Arethids.txt"
 PAR = "countries/Parail.txt"
 ZYR = "countries/Zyrjane.txt"
-IRJ = "countries/Irij.txt"
 NIK = "countries/Nikan.txt"
 
 

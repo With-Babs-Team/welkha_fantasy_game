@@ -1,0 +1,18 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = flaurism
+	elections_allowed = no
+}
+set_popularities = {
+	flaurism = 100	
+}
+
+create_country_leader = {
+	name = "Tevkelev"
+	desc = "POLITICS_Tevkelev_DESC"
+	picture = "Portrait_SFE_Tevkelev.dds"
+	ideology = subflaurism
+	traits = {
+	}
+}

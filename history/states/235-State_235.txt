@@ -5,6 +5,16 @@ state={
 	provinces={
 		233 382 390 466 623 1638 2297 2436 2557 2741 2768 2891 4034 4041 4083 4111 4119 4195 4227 4233 4273 4290 4313 4321 4333 4371 4382 
 	}
-	manpower=0
+	history={
+		owner = IRI
+		add_core_of = IRI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

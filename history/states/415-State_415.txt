@@ -1,9 +1,20 @@
+
 state={
 	id=415
 	name="STATE_415"
 	provinces={
-		158 689 1100 1579 1748 1973 2283 2574 2931 6541 6595 
+		1973 6590 
 	}
-	manpower=0
+	history={
+		owner = NOT
+		add_core_of = NOT
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -1,13 +1,19 @@
 state={
 	id=360
 	name="STATE_360"
-	history={
-		owner = TAN
-		add_core_of = TAN
-	}	
 	provinces={
 		229 436 1006 1122 1709 2277 2773 3081 3094 5860 5864 5965 5999 6012 6073 
 	}
-	manpower=0
+	history={
+		owner = EST
+		add_core_of = EST
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

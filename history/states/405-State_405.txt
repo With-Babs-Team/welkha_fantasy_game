@@ -1,9 +1,20 @@
+
 state={
 	id=405
 	name="STATE_405"
 	provinces={
-		61 189 334 1257 2186 2500 2582 2835 6455 6501 6534 6575 
+		61 189 334 1257 2186 2283 2500 2582 2835 6455 6501 6534 6575 
 	}
-	manpower=0
+	history={
+		owner = RGS
+		add_core_of = RGS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

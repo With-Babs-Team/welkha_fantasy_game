@@ -4,6 +4,16 @@ state={
 	provinces={
 		103 210 267 274 528 586 733 851 1054 1245 2316 2424 2561 3228 6964 6965 6966 6986 7003 7029 7033 7050 7052 7054 7056 7071 7092 7093 7095 7105 7113 7125 
 	}
-	manpower=0
+	history={
+		owner = SFE
+		add_core_of = SFE
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

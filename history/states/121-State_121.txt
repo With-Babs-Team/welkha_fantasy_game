@@ -1,9 +1,20 @@
+
 state={
 	id=121
 	name="STATE_121"
 	provinces={
-		7196 
+		1374 2319 3294 5135 5173 5180 5201 5205 5233 5261 5314 
 	}
-	manpower=0
+	history={
+		owner = IRI
+		add_core_of = IRI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

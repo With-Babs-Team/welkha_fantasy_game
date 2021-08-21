@@ -2,8 +2,18 @@ state={
 	id=253
 	name="STATE_253"
 	provinces={
-		706 876 1704 4424 
+		706 876 1704 4424 4444
 	}
-	manpower=0
+	history={
+		owner = JAR
+		add_core_of = JAR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

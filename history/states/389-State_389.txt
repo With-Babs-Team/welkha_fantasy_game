@@ -1,9 +1,22 @@
+
 state={
 	id=389
 	name="STATE_389"
-	provinces={
-		35 44 422 1096 1773 2389 6237 6254 6283 6290 6315 6348 6379 6383 
+
+	history={
+		owner = EST
+		add_core_of = EST
+		buildings = {
+			infrastructure = 1
+
+		}
+
 	}
-	manpower=0
+
+	provinces={
+		422 2389 6290 6348 6379 
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

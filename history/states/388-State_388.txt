@@ -4,6 +4,16 @@ state={
 	provinces={
 		503 691 821 1082 1178 1326 1442 1528 1537 1642 1724 1996 2349 2393 2763 2825 3061 3246 3277 3332 6206 6215 6263 6268 6275 6289 6301 6333 6336 6354 6355 6362 6367 6378 6392 
 	}
-	manpower=0
+	history={
+		owner = RGS
+		add_core_of = RGS
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -1,9 +1,20 @@
+
 state={
 	id=349
 	name="STATE_349"
 	provinces={
-		220 249 574 577 1417 1461 1522 3099 5614 5624 5678 5812 5821 5851 5870 5902 5951 
+		52 220 249 1461 1522 2970 5614 5678 5812 5902 5951 6008 6057 6087 
 	}
-	manpower=0
+	history={
+		owner = IRI
+		add_core_of = IRI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -1,9 +1,20 @@
+
 state={
 	id=427
 	name="STATE_427"
 	provinces={
-		203 450 1174 1745 2172 6659 6664 6680 6696 6707 6740 
+		203 942 958 1174 1299 1745 2172 2262 2790 3002 3109 6659 6680 6696 6697 6707 6722 6730 6740 6752 6753 6757 
 	}
-	manpower=0
+	history={
+		owner = IHA
+		add_core_of = IHA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

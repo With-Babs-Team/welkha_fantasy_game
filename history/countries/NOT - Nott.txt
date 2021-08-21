@@ -1,0 +1,27 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = ordism
+	elections_allowed = no
+}
+set_popularities = {
+	ordism = 100
+}
+
+add_ideas = {
+	limited_exports
+	limited_conscription
+	partial_economic_mobilisation
+	direct_theocracy
+	
+	winterborns
+	king_and_court_bureaucracy
+	rampant_militarism
+}
+
+create_country_leader = {
+	name = "Pentheus"
+	desc = "POLITICS_PENTHEUS_DESC"
+	picture = "Portrait_NOT_PENTHEUS.dds"
+	ideology = subordism
+}
