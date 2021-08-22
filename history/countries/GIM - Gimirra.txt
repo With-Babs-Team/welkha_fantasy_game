@@ -1,0 +1,26 @@
+﻿capital = 117
+
+set_politics = {
+	ruling_party = flaurism
+	elections_allowed = no
+}
+set_popularities = {
+	selenism = 10
+	utopism = 20
+	flaurism = 10
+	villeinism = 10
+	fratrianism = 10
+	fideism = 10
+	timeism = 10
+	etatism = 10
+	ordism = 10
+}
+
+create_country_leader = {
+	name = "Rodoljub Tomatović"
+	desc = "POLITICS_BALEWERK_DESC"
+	picture = "Portrait_LEU_balewerkeri.dds"
+	ideology = subflaurism
+	traits = {
+	}
+}

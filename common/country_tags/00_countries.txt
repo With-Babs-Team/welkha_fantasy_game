@@ -30,6 +30,8 @@ AHF = "countries/Army of Holy Faith.txt"
 MEZ = "countries/Mezhonia.txt"
 BUR = "countries/Buresh.txt"
 GRO = "countries/Grotida.txt"
+GIM = "countries/Gimirra.txt"
+SHA = "countries/Shangama.txt"
 
 ###Moorlanda###
 CSN = "countries/Confederation of Seven Nations.txt"

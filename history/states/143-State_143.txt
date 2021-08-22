@@ -5,8 +5,8 @@ state={
 		310 3743 3769 3830 3846 3977 
 	}
 	history={
-		owner = LOR
-		add_core_of = LOR
+		owner = PCR
+		add_core_of = PCR
 		buildings = {
 			infrastructure = 1
 

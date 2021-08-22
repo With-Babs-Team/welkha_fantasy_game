@@ -32,3 +32,7 @@
  MEZ_fratrianism_DEF:0 "Межонское Папство" 
  KRI_fideism:0 "Крина"
  KRI_fideism_DEF:0 "Вице-Королевство Крина" 
+ SHA_villeinism:0 "Шангама"
+ SHA_villeinism_DEF:0 "Шангмаская Конфедерация"
+ GIM_flaurism:0 "Гимирра"
+ GIM_flaurism_DEF:0 "Гимиррская Держава"

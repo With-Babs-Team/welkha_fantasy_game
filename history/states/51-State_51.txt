@@ -1,9 +1,8 @@
+
 state={
 	id=51
 	name="STATE_51"
-	provinces={
-		51 143 341 1037 2159 2388 2417 2774 3300 4017 4033 4060 4063 4067 4078 4095 4105 4112 4132 4140 
-	}
+
 	history={
 		owner = GRO
 		add_core_of = GRO
@@ -14,6 +13,9 @@ state={
 
 	}
 
+	provinces={
+		51 341 2159 2417 2774 4017 4060 4063 4067 4078 4095 4105 4112 4132 4140 
+	}
 	manpower=180545
 	buildings_max_level_factor=1.000
 	state_category=pastoral

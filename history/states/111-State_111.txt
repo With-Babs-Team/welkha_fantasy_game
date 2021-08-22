@@ -1,18 +1,21 @@
+
 state={
 	id=111
 	name="STATE_111"
 	provinces={
-		5113 
+		143 1037 2388 3300 4033 5533 
 	}
 	history={
-		owner = IRI
-		add_core_of = IRI
+		owner = SHA
+		add_core_of = SHA
 		buildings = {
 			infrastructure = 1
 
 		}
 
 	}
+
+
 	manpower=180545
 	buildings_max_level_factor=1.000
 	state_category=pastoral

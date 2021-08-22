@@ -2,17 +2,19 @@
 state={
 	id=223
 	name="STATE_223"
-	provinces={
-		1058 1070 1220 3312 3898 3928 
-	}
+
 	history={
-		owner = IRI
-		add_core_of = IRI
+		owner = GIM
+		add_core_of = GIM
 		buildings = {
 			infrastructure = 1
 
 		}
 
+	}
+
+	provinces={
+		1070 1220 2865 3312 3963 3986 4018 4057 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000
