@@ -35,7 +35,7 @@ GRO = "countries/Grotida.txt"
 CSN = "countries/Confederation of Seven Nations.txt"
 ###Sentanta###
 SNS = "countries/Sentanta.txt"
-REB = "countries/Red Band.txt"
+RBB = "countries/Red Band.txt"
 BLB = "countries/Blue Band.txt"
 BLC = "countries/Black Band.txt"
 
