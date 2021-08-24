@@ -2,9 +2,7 @@
 state={
 	id=319
 	name="STATE_319"
-	provinces={
-		546 772 1314 1832 1978 2054 2244 2688 4977 5036 5037 5097 5098 5137 5157 5158 
-	}
+
 	history={
 		owner = IRI
 		add_core_of = IRI
@@ -13,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		532 546 772 1314 1832 1978 2054 2244 2441 2688 2695 3345 4963 4977 5036 5037 5097 5098 5137 5157 5158 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000

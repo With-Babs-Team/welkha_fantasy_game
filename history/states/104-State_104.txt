@@ -2,9 +2,7 @@
 state={
 	id=104
 	name="STATE_104"
-	provinces={
-		164 341 1043 2257 2531 2942 3107 4140 4170 4175 4181 4211 5307 7188 
-	}
+
 	history={
 		owner = JAR
 		add_core_of = JAR
@@ -15,7 +13,9 @@ state={
 
 	}
 
-
+	provinces={
+		164 341 1043 2257 2531 2942 3107 4140 4170 4175 4181 4211 5307 
+	}
 	manpower=180545
 	buildings_max_level_factor=1.000
 	state_category=pastoral
