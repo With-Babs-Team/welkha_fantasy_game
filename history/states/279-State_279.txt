@@ -3,6 +3,9 @@ state={
 	id=279
 	name="STATE_279"
 
+	provinces={
+		2625 2634 4691 
+	}
 	history={
 		owner = IRI
 		add_core_of = IRI
@@ -13,9 +16,6 @@ state={
 
 	}
 
-	provinces={
-		300 677 786 820 1268 1319 1331 1368 1738 1906 2147 2687 3053 3067 3159 3308 3325 4691 4728 4729 4758 4779 4828 4867 4883 4938 
-	}
 	manpower=180545
 	buildings_max_level_factor=1.000
 	state_category=pastoral

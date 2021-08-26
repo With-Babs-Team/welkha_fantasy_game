@@ -1,15 +1,20 @@
+
 state={
 	id=154
 	name="STATE_154"
-	provinces={
-		1723 4921 4999 5012 5013 5061 5101 
-	}
+
 	history={
 		owner = ROU
 		add_core_of = ROU
-			buildings = {
-				infrastructure = 1
+		buildings = {
+			infrastructure = 1
+
 		}
+
+	}
+
+	provinces={
+		1723 4921 5012 5013 5061 5101 
 	}
 	manpower=1488
 	buildings_max_level_factor=1.000
