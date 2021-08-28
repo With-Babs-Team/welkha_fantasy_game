@@ -2,9 +2,7 @@
 state={
 	id=421
 	name="STATE_421"
-	provinces={
-		97 280 1573 1848 2862 6687 6690 6723 6745 6755 6768 6777 
-	}
+
 	history={
 		owner = NOT
 		add_core_of = NOT
@@ -13,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		280 1573 1848 2862 6687 6690 6723 6745 6755 6768 6777 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000
