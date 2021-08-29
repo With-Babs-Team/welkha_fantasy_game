@@ -12,7 +12,7 @@ create_country_leader = {
 	name = "Yris Arcuard"
 	desc = "POLITICS_YRIS_ARCUARD_DESC"
 	picture = "Portrait_PAL_Yris_Arcuard.dds"
-	ideology = veltiantism
+	ideology = subetatism
 	traits = {
 		
 	}
