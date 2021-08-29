@@ -2,9 +2,7 @@
 state={
 	id=446
 	name="STATE_446"
-	provinces={
-		24 1389 1429 2401 2952 3031 3111 3157 6905 6922 6939 6952 6953 6959 6969 6990 6996 7015 7046 
-	}
+
 	history={
 		owner = NOT
 		add_core_of = NOT
@@ -13,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		24 1389 1429 2401 2952 3031 3111 3157 6905 6922 6939 6953 6959 6969 6990 6996 7015 7046 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000
