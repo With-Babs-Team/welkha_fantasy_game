@@ -12,7 +12,7 @@ create_country_leader = {
 	name = "Osia Trenal"
 	desc = "POLITICS_OSIA_TRENAL_DESC"
 	picture = "Portrait_ROU_Ossia_Trenal.dds"
-	ideology = veltiantism
+	ideology = subtimeism
 	traits = {
 	}
 }
