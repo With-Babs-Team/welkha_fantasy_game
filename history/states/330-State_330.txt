@@ -2,9 +2,7 @@
 state={
 	id=330
 	name="STATE_330"
-	provinces={
-		31 1018 1092 1188 2012 2131 2694 2817 5206 5234 5297 5386 5390 5398 5461 5481 5491 5625 
-	}
+
 	history={
 		owner = RGS
 		add_core_of = RGS
@@ -13,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		31 1018 1092 1188 1659 2012 2041 2350 2694 2817 5206 5297 5386 5390 5398 5461 5491 5513 5625 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000

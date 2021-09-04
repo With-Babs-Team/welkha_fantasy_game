@@ -1,9 +1,8 @@
+
 state={
 	id=377
 	name="STATE_377"
-	provinces={
-		120 198 512 572 822 1211 1757 1802 2097 3186 3213 6129 6170 6181 6198 6255 6276 
-	}
+
 	history={
 		owner = EST
 		add_core_of = EST
@@ -12,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		120 198 422 512 572 822 1211 1757 1802 2097 2940 3186 3213 6129 6170 6181 6194 6198 6255 6276 6290 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000

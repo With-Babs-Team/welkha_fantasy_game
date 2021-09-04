@@ -1,9 +1,8 @@
+
 state={
 	id=444
 	name="STATE_444"
-	provinces={
-		431 511 6896 
-	}
+
 	history={
 		owner = NOT
 		add_core_of = NOT
@@ -12,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		431 511 6888 6896 6909 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000
