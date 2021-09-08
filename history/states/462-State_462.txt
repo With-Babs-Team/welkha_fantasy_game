@@ -1,9 +1,8 @@
+
 state={
 	id=462
 	name="STATE_462"
-	provinces={
-		12 939 2174 2181 2242 2555 3221 7101 7130 7132 
-	}
+
 	history={
 		owner = NOT
 		add_core_of = NOT
@@ -12,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		942 958 1299 2262 2790 3002 3109 6697 6722 6730 6752 6753 6757 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000

@@ -1,9 +1,8 @@
+
 state={
 	id=179
 	name="STATE_179"
-	provinces={
-		1015 3093 7096 
-	}
+
 	history={
 		owner = NOT
 		add_core_of = NOT
@@ -12,6 +11,10 @@ state={
 
 		}
 
+	}
+
+	provinces={
+		485 1504 1958 2160 2188 2481 5209 6967 6971 6980 7021 7024 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000
