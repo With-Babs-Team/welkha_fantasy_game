@@ -5,6 +5,14 @@ state={
 	provinces={
 		950 1414 1936 2639 6948 6973 7000 7226 
 	}
-	manpower=0
+	history={
+		owner = NIK
+		add_core_of = NIK
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

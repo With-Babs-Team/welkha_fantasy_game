@@ -5,6 +5,14 @@ state={
 	provinces={
 		681 789 1552 1749 5192 5299 5319 
 	}
-	manpower=0
+	history={
+		owner = TCL
+		add_core_of = TCL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

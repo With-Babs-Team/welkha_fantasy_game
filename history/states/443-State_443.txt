@@ -3,18 +3,17 @@ state={
 	id=443
 	name="STATE_443"
 
+	provinces={
+		3 239 2814 2938 3112 5355 5400 5434 5531 5546 5589 5748 
+	}
 	history={
-		owner = NOT
-		add_core_of = NOT
+		owner = IRI
+		add_core_of = IRI
 		buildings = {
 			infrastructure = 1
 
 		}
 
-	}
-
-	provinces={
-		3 239 2814 2938 3112 5355 5400 5434 5531 5546 5589 5748 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000

@@ -2,9 +2,21 @@
 state={
 	id=81
 	name="STATE_81"
-	provinces={
-		479 835 1158 1871 4956 4978 5088 5131 6806 6815 6839 
+
+	history={
+		owner = NIK
+		add_core_of = NIK
+		buildings = {
+			infrastructure = 1
+
+		}
+
 	}
-	manpower=0
+
+	provinces={
+		479 835 1158 1871 4956 4957 4978 5088 5131 6806 6815 6839 
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

@@ -3,18 +3,17 @@ state={
 	id=456
 	name="STATE_456"
 
+	provinces={
+		392 410 885 890 908 1238 1361 1627 1751 2535 2831 3322 5239 5281 5312 5329 5341 5360 5374 5396 5397 5429 5433 
+	}
 	history={
-		owner = NOT
-		add_core_of = NOT
+		owner = IRI
+		add_core_of = IRI
 		buildings = {
 			infrastructure = 1
 
 		}
 
-	}
-
-	provinces={
-		392 410 885 890 908 1238 1361 1627 1751 2535 2831 3322 5239 5281 5312 5329 5341 5360 5374 5396 5397 5429 5433 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000

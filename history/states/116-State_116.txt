@@ -1,9 +1,18 @@
+
 state={
 	id=116
 	name="STATE_116"
 	provinces={
-		7193 
+		905 1501 1919 3052 4980 5044 5090 5100 7193 
 	}
-	manpower=0
+	history={
+		owner = TCL
+		add_core_of = TCL
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

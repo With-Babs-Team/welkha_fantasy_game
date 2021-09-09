@@ -2,9 +2,21 @@
 state={
 	id=380
 	name="STATE_380"
-	provinces={
-		5144 
+
+	history={
+		owner = EST
+		add_core_of = EST
+		buildings = {
+			infrastructure = 1
+
+		}
+
 	}
-	manpower=0
+
+	provinces={
+		5436 5508 5551 5662 
+	}
+	manpower=180545
 	buildings_max_level_factor=1.000
+	state_category=pastoral
 }

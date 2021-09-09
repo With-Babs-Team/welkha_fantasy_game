@@ -1,19 +1,23 @@
 ###Yngalong###
-YNG = "countries/Yngalong.txt"
-LAX = "countries/Lax.txt"
-ARA = "countries/Aranika.txt"
-WUN = "countries/Wundeng.txt"
-DUN = "countries/Dunatra.txt"
-TAN = "countries/Tanra.txt"
-AMA = "countries/Amara.txt"
-LEU = "countries/Leukrata.txt"
-TEU = "countries/Teuderong.txt"
-MUK = "countries/Mulkhids.txt"
+YNG = "countries/Yngalong.txt" #Feherva
+LAX = "countries/Lax.txt" #Tanra
+ARA = "countries/Aranika.txt" #Asthelheer
+WUN = "countries/Wundeng.txt" #Eschenbach
+DUN = "countries/Dunatra.txt" #Erilaz
+TAN = "countries/Tanra.txt" #Teuderonaz
+AMA = "countries/Amara.txt" #Amaridaz
+LEU = "countries/Leukrata.txt" #Galgaheer
+TEU = "countries/Teuderong.txt" #Leukrates
+GCP = "countries/Captaincies.txt"
 
+###Mulkhidia###
+MUK = "countries/Mulkhids.txt"
 QAT = "countries/Qatrids.txt"
 SAM = "countries/Samakhids.txt"
 RYD = "countries/Rydanids.txt"
 HOR = "countries/Horits.txt"
+ARE = "countries/Arethids.txt"
+ZYR = "countries/Zyrjane.txt"
 
 ###Dorsal###
 DOR = "countries/Dorsal.txt"
@@ -35,6 +39,13 @@ SHA = "countries/Shangama.txt"
 
 ###Moorlanda###
 CSN = "countries/Confederation of Seven Nations.txt"
+
+###Parail###
+RAG = "countries/Raguenel.txt"
+MON = "countries/Montaigu.txt"
+ROU = "countries/Roubigo.txt"
+PAR = "countries/Parail.txt"
+
 ###Sentanta###
 SNS = "countries/Sentanta.txt"
 RBB = "countries/Red Band.txt"
@@ -49,23 +60,18 @@ NOT = "countries/Nott.txt"
 SFE = "countries/Self Eaters.txt"
 IHA = "countries/Ilkh Angaj.txt"
 RGS = "countries/Realm of Great Sorcerer.txt"
+NIK = "countries/Nikan.txt"
+OLW = "countries/Old Welta.txt"
 
 ###Stravena###
 IRI = "countries/Irij.txt"
 JAR = "countries/Jarobor.txt"
-GCP = "countries/Captaincies.txt"
 
-RAG = "countries/Raguenel.txt"
-MON = "countries/Montaigu.txt"
+###Western Hemisphere###
+TCL = "countries/Trencavels Land.txt"
+
+###Trash###
 TST = "countries/Test.txt"
-ROU = "countries/Roubigo.txt"
-OLW = "countries/Old Welta.txt"
-ARE = "countries/Arethids.txt"
-PAR = "countries/Parail.txt"
-ZYR = "countries/Zyrjane.txt"
-NIK = "countries/Nikan.txt"
-
-
 GER	= "countries/Germany.txt"
 ITA = "countries/Italy.txt"
 SOV = "countries/Soviet Union.txt"

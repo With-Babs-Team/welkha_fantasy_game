@@ -1,9 +1,8 @@
+
 state={
 	id=192
 	name="STATE_192"
-	provinces={
-		41 211 299 750 765 1506 1567 2203 2409 2464 2593 3534 3545 3551 3566 3575 3602 3640 3672 3702 4217 
-	}
+
 	history={
 		owner = GLS
 		add_core_of = GLS
@@ -14,6 +13,9 @@ state={
 
 	}
 
+	provinces={
+		41 211 299 750 765 1506 1567 2203 2409 2464 3534 3545 3551 3566 3575 3602 3640 3672 3702 4217 6073 
+	}
 	manpower=180545
 	buildings_max_level_factor=1.000
 	state_category=pastoral

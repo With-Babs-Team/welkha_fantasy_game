@@ -3,18 +3,17 @@ state={
 	id=428
 	name="STATE_428"
 
+	provinces={
+		558 783 830 894 906 1329 5376 6081 
+	}
 	history={
-		owner = RGS
-		add_core_of = RGS
+		owner = IRI
+		add_core_of = IRI
 		buildings = {
 			infrastructure = 1
 
 		}
 
-	}
-
-	provinces={
-		558 783 830 894 906 1329 5376 6081 
 	}
 	manpower=180545
 	buildings_max_level_factor=1.000
