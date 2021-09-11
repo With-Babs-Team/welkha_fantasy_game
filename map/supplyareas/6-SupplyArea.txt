@@ -1,0 +1,8 @@
+supply_area={
+	id=6
+	name="SUPPLYAREA_6"
+	value=0
+	states={
+		390 419 403 434 432 431 
+	}
+}
