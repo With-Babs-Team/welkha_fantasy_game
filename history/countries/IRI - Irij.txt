@@ -1,0 +1,19 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = fideism
+	elections_allowed = no
+}
+set_popularities = {
+	fideism = 100
+}
+
+create_country_leader = {
+	name = "Dragomir Niklotovich"
+	desc = "POLITICS_OSIA_TRENAL_DESC"
+	picture = "Portrait_ROU_Ossia_Trenal.dds"
+	ideology = subfideism
+	traits = {
+		
+	}
+}

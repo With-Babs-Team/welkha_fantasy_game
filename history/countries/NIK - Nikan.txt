@@ -1,14 +1,11 @@
 ﻿capital = 1
 
 set_politics = {
-	ruling_party = idolatry
+	ruling_party = flaurism
 	elections_allowed = no
 }
 set_popularities = {
-	eosphorism = 6
-	theriotheism = 2
-	idolatry = 88
-	moon_worshipers = 4
+	flaurism = 100
 }
 
 add_ideas = {
@@ -26,7 +23,5 @@ create_country_leader = {
 	name = "Ialamitu"
 	desc = "POLITICS_IALAMITU_DESC"
 	picture = "Portrait_NIK_IALAMITU.dds"
-	ideology = cult_of_godking
-	traits = { powerless_god
-		}
+	ideology = subflaurism
 }

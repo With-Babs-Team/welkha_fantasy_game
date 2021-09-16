@@ -1,9 +1,5 @@
 #	Example:
 # 
-#	example_trigger = {
-#		tag = GER
-#		is_ai = no
-#	}
 #
 #
 #	In a script file:
@@ -21,10 +17,4 @@ can_lose_unity = {
 			surrender_progress < 0.1
 		}
 	}
-}
-
-can_lose_democracy_support = {
-	communism < 0.18
-	fascism < 0.18
-	democratic > 0.65
 }

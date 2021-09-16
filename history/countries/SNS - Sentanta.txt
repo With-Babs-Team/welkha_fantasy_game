@@ -1,0 +1,19 @@
+﻿capital = 1
+
+set_politics = {
+	ruling_party = timeism
+	elections_allowed = no
+}
+set_popularities = {
+	timeism = 100
+}
+
+create_country_leader = {
+	name = "Vladimir"
+	desc = "POLITICS_OSIA_TRENAL_DESC"
+	picture = "Portrait_ROU_Ossia_Trenal.dds"
+	ideology = subtimeism
+	traits = {
+		
+	}
+}
