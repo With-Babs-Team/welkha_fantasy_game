@@ -1,4 +1,4 @@
-﻿capital = 1
+﻿capital = 289
 
 set_politics = {
 	ruling_party = fideism

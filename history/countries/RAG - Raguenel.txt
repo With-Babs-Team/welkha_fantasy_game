@@ -1,4 +1,4 @@
-﻿capital = 1
+﻿capital = 93
 
 set_politics = {
 	ruling_party = timeism
@@ -12,7 +12,6 @@ create_country_leader = {
 	name = "Barade Arethid"
 	desc = "POLITICS_OSIA_TRENAL_DESC"
 	picture = "Portrait_ROU_Ossia_Trenal.dds"
-	expire = "1947.1.1"
 	ideology = subtimeism
 	traits = {
 		

@@ -1,4 +1,4 @@
-﻿capital = 117
+﻿capital = 251
 
 set_politics = {
 	ruling_party = villeinism

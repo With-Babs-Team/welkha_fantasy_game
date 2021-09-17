@@ -1,8 +1,3 @@
-TST = {
-	color = rgb { 50 50 50 }
-	color_ui = rgb { 50 50 50 }
-}
-
 NIK = {
 	color = rgb { 124 124 124 }
 	color_ui = rgb { 124 124 124 }

@@ -1,4 +1,4 @@
-﻿capital = 1
+﻿capital = 51
 
 set_politics = {
 	ruling_party = timeism
