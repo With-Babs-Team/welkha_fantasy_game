@@ -1,0 +1,9 @@
+lar_local_recruitment = {
+		allowed = { always = no }
+
+		visible = { always = no }
+
+		visibility_type = map_and_decisions_view
+	
+
+}
