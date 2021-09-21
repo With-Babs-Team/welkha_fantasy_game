@@ -40,7 +40,7 @@ SHA = "countries/Shangama.txt"
 ###Moorlanda###
 CSN = "countries/Confederation of Seven Nations.txt"
 
-###Parail###
+###Great March###
 RAG = "countries/Raguenel.txt"
 MON = "countries/Montaigu.txt"
 ROU = "countries/Roubigo.txt"
