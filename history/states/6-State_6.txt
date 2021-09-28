@@ -6,17 +6,20 @@ state={
 	history={
 		owner = ARA
 		add_core_of = ARA
+		victory_points = {
+			2033 2 
+		}	
+
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 2
 		}
-
 	}
+
 
 	provinces={
 		225 573 991 1028 1130 1893 2033 2059 2132 2179 2313 2604 2801 2893 2995 3032 4012 4043 4115 4133 4138 4145 4155 4172 4185 4202 4232 4245 4884 
 	}
-	manpower=402045
+	manpower=530000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=pastoral
 }

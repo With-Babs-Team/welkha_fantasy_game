@@ -8,11 +8,13 @@ state={
 		victory_points = { 642 5 }
 		owner = YNG
 		add_core_of = YNG
-			buildings = {
-				infrastructure = 1
+
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
 		}
 	}
-	manpower=480000
+	manpower=2300000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

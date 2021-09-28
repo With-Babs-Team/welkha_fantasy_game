@@ -6,17 +6,23 @@ state={
 	history={
 		owner = ARA
 		add_core_of = ARA
+		victory_points = {
+			7156 5 
+		}	
+		victory_points = {
+			2130 10 
+		}		
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
 		}
-
 	}
 
 	provinces={
 		871 1673 2130 2484 2916 4230 4257 4277 4296 4311 4312 4348 4967 7151 7156 
 	}
-	manpower=1200456
+	manpower=3300000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

@@ -7,11 +7,16 @@ state={
 	history={
 		owner = TAN
 		add_core_of = TAN
-			buildings = {
-				infrastructure = 1
+		victory_points = {
+			113 20 
+		}		
+		buildings = {
+			infrastructure = 5
+			arms_factory = 3
+			industrial_complex = 3
 		}
 	}
-	manpower=680450
+	manpower=8100000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 }

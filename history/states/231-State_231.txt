@@ -7,11 +7,19 @@ state={
 	history={
 		owner = YNG
 		add_core_of = YNG
-			buildings = {
-				infrastructure = 1
+		victory_points = {
+			1557 10 
+		}	
+		victory_points = {
+			1120 10 
+		}	
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 3
 		}
 	}
-	manpower=620000
+	manpower=8300000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=city
 }

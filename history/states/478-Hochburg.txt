@@ -6,17 +6,17 @@ state={
 	}
 	history={
 		victory_points = { 134 20 }
-		victory_points = { 3974 5 }
-		victory_points = { 7154 5 }
+		victory_points = { 3974 10 }
+		victory_points = { 7154 10 }
 		owner = YNG
 		add_core_of = YNG
 			buildings = {
-				infrastructure = 6
+				infrastructure = 7
 				arms_factory = 3
-				industrial_complex = 2
+				industrial_complex = 4
 		}
 	}
-	manpower=1622000
+	manpower=12500000
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category=large_city 
 }
