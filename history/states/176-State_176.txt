@@ -7,11 +7,14 @@ state={
 	history={
 		owner = TEU
 		add_core_of = TEU
-			buildings = {
-				infrastructure = 1
+		victory_points = { 3627 10 }
+		victory_points = { 7221 10 }		
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
 		}
 	}
-	manpower=320470
+	manpower=5300000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

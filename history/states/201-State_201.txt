@@ -7,11 +7,13 @@ state={
 	history={
 		owner = WUN
 		add_core_of = WUN
-			buildings = {
-				infrastructure = 1
+		victory_points = { 3607 10 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
 		}
 	}
-	manpower=805048
+	manpower=3300000
 	buildings_max_level_factor=1.000
 	state_category=town
 }

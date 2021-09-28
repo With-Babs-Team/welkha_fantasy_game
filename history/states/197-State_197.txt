@@ -7,11 +7,12 @@ state={
 	history={
 		owner = WUN
 		add_core_of = WUN
-			buildings = {
-				infrastructure = 1
+		victory_points = { 3524 1 }
+		buildings = {
+			infrastructure = 2
 		}
 	}
-	manpower=130540
+	manpower=350000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

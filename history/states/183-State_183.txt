@@ -6,17 +6,18 @@ state={
 	history={
 		owner = WUN
 		add_core_of = WUN
+		victory_points = { 2344 1 }
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 1
 		}
-
 	}
 
 	provinces={
 		123 454 477 518 2906 3206 3405 3418 3427 3452 3466 
 	}
-	manpower=80457
+	manpower=700000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

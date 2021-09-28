@@ -7,11 +7,14 @@ state={
 	history={
 		owner = AMA
 		add_core_of = AMA
-			buildings = {
-				infrastructure = 1
+		victory_points = { 3909 1 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1						
 		}
 	}
-	manpower=320145
+	manpower=600000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }
