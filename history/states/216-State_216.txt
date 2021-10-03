@@ -8,7 +8,7 @@ state={
 		owner = TEU
 		add_core_of = TEU
 		victory_points = {
-			3788 20
+			3788 5
 		}				
 		buildings = {
 			infrastructure = 4

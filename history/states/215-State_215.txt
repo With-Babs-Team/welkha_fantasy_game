@@ -7,11 +7,12 @@ state={
 	history={
 		owner = LAX
 		add_core_of = LAX
-			buildings = {
-				infrastructure = 1
+		victory_points = { 3970 5 }
+		buildings = {
+			infrastructure = 3		
 		}
 	}
-	manpower=230478
+	manpower=4200000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }

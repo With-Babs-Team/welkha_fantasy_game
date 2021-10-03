@@ -7,11 +7,13 @@ state={
 	history={
 		owner = DUN
 		add_core_of = DUN
-			buildings = {
-				infrastructure = 1
+		victory_points = { 7179 3 }
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
 		}
 	}
-	manpower=250456
+	manpower=2300000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 }

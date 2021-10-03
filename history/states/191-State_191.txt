@@ -6,17 +6,18 @@ state={
 	history={
 		owner = LEU
 		add_core_of = LEU
+		victory_points = { 2896 3 }
 		buildings = {
-			infrastructure = 1
-
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 1
 		}
-
 	}
 
 	provinces={
 		327 1050 1116 1216 2654 2896 3413 3445 3480 3485 3506 3507 
 	}
-	manpower=230545
+	manpower=540000
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 }
