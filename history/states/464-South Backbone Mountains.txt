@@ -7,7 +7,6 @@ state={
 		owner = GCP
 		buildings = {
 			infrastructure = 1
-
 		}
 		add_core_of = GCP
 
@@ -16,7 +15,7 @@ state={
 	provinces={
 		231 1087 1392 1575 3282 4410 4432 4449 
 	}
-	manpower=38000
+	manpower=2000
 	buildings_max_level_factor=1.000
 	state_category=wasteland
 }

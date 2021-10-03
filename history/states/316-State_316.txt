@@ -8,10 +8,11 @@ state={
 		owner = MON
 		add_core_of = MON
 			buildings = {
-				infrastructure = 1
+				infrastructure = 2
+				arms_factory = 1
 		}
 	}
-	manpower=1488
+	manpower=480000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

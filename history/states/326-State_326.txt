@@ -8,10 +8,11 @@ state={
 		owner = ARE
 		add_core_of = ARE
 			buildings = {
-				infrastructure = 1
+				infrastructure = 3
+				industrial_complex = 1				
 		}
 	}
-	manpower=1488
+	manpower=360000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

@@ -8,10 +8,12 @@ state={
 		owner = GCP
 		add_core_of = GCP
 			buildings = {
-				infrastructure = 1
+				infrastructure = 4
+				arms_factory = 2
+				industrial_complex = 1					
 		}
 	}
-	manpower=1488
+	manpower=2280000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }

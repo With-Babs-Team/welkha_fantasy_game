@@ -8,10 +8,11 @@ state={
 		owner = PAR
 		add_core_of = PAR
 			buildings = {
-				infrastructure = 1
+				infrastructure = 5
+				arms_factory = 2
 		}
 	}
-	manpower=1488
+	manpower=3500006
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=town
 }
