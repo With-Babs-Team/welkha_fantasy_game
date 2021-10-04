@@ -1,23 +1,14 @@
 guiTypes = {
 	containerWindowType = {
 		name = "culture_icon_container"
-		position = {x=382 y=87}
+		position = {x=17 y=116}
 		size = { width=780 height=496 }
 
-		instantTextboxType = {
-			name = "culture_title_marker"
-			position = { x = -10 y =-37 }
-			textureFile = ""
-			font = "Arial12"
-			text = "CULTURE"
-			maxWidth = 225
-			maxHeight = 30
-			format = left
-		}
+
 
 		iconType = {
 			name = "culture_ossianic_yngalonian"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_ossianic_yngalonian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}

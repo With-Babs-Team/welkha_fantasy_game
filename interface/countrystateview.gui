@@ -23,29 +23,29 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "countrystateview"
-		position = { x=-416 y=-549}
-		show_position = { x=-6 y =-549 }
+		position = { x=-416 y=-612}
+		show_position = { x=0 y =-630 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
 		animation_time = 300
 		orientation = lower_left
-		size = { width=436 height=496 }
+		size = { width=432 height=630 }
 		
 		containerWindowType = {
 			name = "state_info_window"
-			position = { x = -1 y = 4 }
-			size = { width=780 height=496 }
-			
+			position = { x = 0 y = 0 }
+			size = { width=432 height=630 }
+
 			
 			background = {
 				name = "Background"
 				quadTextureSprite = "GFX_stateview_bg"
-				position = { x = 50 y = -65 }
+				position = { x = 0 y = 0 }
 			}
 						
 			instantTextboxType = {
 				name = "state_name"
-				position = { x = 60 y = 13 }
+				position = { x = 55 y = 6 }
 				textureFile = ""
 				font = "hoi_36header"
 				text = "STATE_NAME_TEST"
@@ -53,19 +53,19 @@ guiTypes = {
 				maxHeight = 30
 				format = center
 			}
-			
+						
 			gridBoxType = {
 				name = "state_building_entries"
-				position = { x = 1 y = 43 }
+				position = { x = 330 y = 300 }
 				size = { width = 480 height = 105 }
 				format = "UPPER_LEFT"
-				slotsize = { width = 95 height = 52 }
+				slotsize = { width = 135 height = 52 }
 				max_slots_horizontal = 2
 			}
 			
 			instantTextboxType = {
 				name = "shared_slot_count"
-				position = { x = 194 y = 147 }
+				position = { x = 155 y = 305 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = "SLOTS"
@@ -76,7 +76,7 @@ guiTypes = {
 			
 			gridBoxType = {
 				name = "state_shared_slot_building_entries"
-				position = { x = 152 y = 168 }
+				position = { x = 152 y = 235 }
 				size = { width = 480 height = 90%% }
 				format = "UPPER_LEFT"
 				slotsize = { width = 55 height = 46 }
@@ -86,12 +86,12 @@ guiTypes = {
 			iconType ={
 				name ="victory_points_bg"
 				spriteType = "GFX_victorypoint_stateview_bg"
-				position = { x = 17 y = 12 }
+				position = { x = 17 y = 7 }
 			}
 			
 			instantTextboxType = {
 				name = "victory_points"
-				position = { x = -13 y = 15 }
+				position = { x = -13 y = 10 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
@@ -102,7 +102,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "claims"
-				position = { x = 15 y = 97 }
+				position = { x = 0 y = 250 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
@@ -122,7 +122,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "owner"
-				position = { x = 15 y = 46 }
+				position = { x = 0 y = 197 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				text = ""
@@ -135,13 +135,13 @@ guiTypes = {
 			buttonType = {
 				name = "owner_flag"
 				quadTextureSprite ="GFX_flag_small2"
-				position = { x= 34 y = 66 }
+				position = { x= 34 y = 216 }
 			}
 			
 			iconType ={
 				name ="owner_flag_border"
 				quadTextureSprite = "GFX_diplo_countrylist_flag_frame"
-				position = { x= 30 y = 62 }
+				position = { x= 30 y = 214 }
 				alwaystransparent = yes
 			}
 			
@@ -184,13 +184,13 @@ guiTypes = {
 			iconType ={
 				name ="population_icon"
 				spriteType = "GFX_population_icon"
-				position = { x = 22 y = 162 }
+				position = { x = 170 y = 120 }
 				Orientation = "UPPER_LEFT"
 			}
 			
 			instantTextboxType = {
 				name = "manpower"
-				position = { x = 64 y = 167 }
+				position = { x = 195 y = 128 }
 				textureFile = ""
 				font = "hoi_18mbs"
 				maxWidth = 80
@@ -275,11 +275,10 @@ guiTypes = {
 			name = "province_info_window"
 			position = { x = 5 y = 435 }
 			size = { width=480 height=29%% }
-	
-	
+			
 			iconType = {
 				name = "terrain_picture"
-				position = { x = 15 y= -27 }
+				position = { x = 8 y= -391 }
 				spriteType = "GFX_terrain_default"
 				Orientation = "UPPER_LEFT"
 			}
@@ -287,12 +286,13 @@ guiTypes = {
 				containerWindowType = {
 				name = "custom_icon_container"
 				size = { width=100% height=100% }
-					position = { x = -370 y = 0 }
+				position = { x = -376 y = -360 }
 
 				iconType = {
 					name = "terrain_feherva_icon"
 					spriteType = "GFX_terrain_feherva"
 					alwaystransparent = yes
+
 
 				}
 				iconType = {
@@ -313,7 +313,7 @@ guiTypes = {
 			
 			iconType = {
 				name = "province_header"
-				position = { x = 6 y= -34 }
+				position = { x = 1000 y= 1000 }
 				spriteType = "GFX_province_header"
 				Orientation = "UPPER_LEFT"
 				alwaystransparent = yes
@@ -321,11 +321,12 @@ guiTypes = {
 
 			instantTextboxType = {
 				name = "province"
-				position = { x = 23 y= -29 }
+				position = { x = 4000 y= 4000 }
 				font = "hoi_18mbs"
 				maxWidth = 80
 				maxHeight = 30
 				format = left
+				alwaystransparent = yes
 			}
 			
 			iconType = {
@@ -388,6 +389,7 @@ guiTypes = {
 				name = "nuke_province"
 				quadTextureSprite ="GFX_empty"
 				position = { x= 13 y = -11 }
+				alwaystransparent = yes
 			}
 			
 			iconType = {
@@ -407,7 +409,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "close_button"
-			position = { x = -36 y = 11 }
+			position = { x = -39 y = 7 }
 			quadTextureSprite ="GFX_closebutton_small"
 			buttonFont = "Main_14_black"
 			shortcut = "ESCAPE"
@@ -425,21 +427,21 @@ guiTypes = {
 		guibuttonType = {
 			name = "core_country_flag"
 			quadTextureSprite ="GFX_flag_small2"
-			position = { x= 0 y = 0 }
+			position = { x= 0 y = 150 }
 			#Orientation = "UPPER_LEFT"
 		}
 		
 		iconType ={
 			name ="core_flag_border"
 			quadTextureSprite = "GFX_small_flag_frame_thin"
-			position = { x= -2 y = -1 }
+			position = { x= -2 y = 149 }
 			alwaystransparent = yes
 		}
 	}
 	
 	containerWindowType = {
 		name = "state_building_entry"
-		position = { x=155 y=0 }
+		position = { x=-182 y=-99 }
 		size = { width=140 height= 70 }
 		clipping = no
 		
@@ -450,13 +452,13 @@ guiTypes = {
 		
 		iconType = {
 			name = "level_bg"
-			position = { x=57 y=0 }	
+			position = { x=65 y=11 }	
 			spriteType = "GFX_generic_text_bg_60"
 		}
 		
 		instantTextboxType = {
 			name = "level"
-			position = { x = 28 y = 14 }
+			position = { x = 45 y = 14 }
 			font = "hoi_20b"
 			maxWidth = 100
 			maxHeight = 20
@@ -480,7 +482,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "state_shared_slot_building_entry"
-		position = { x=100 y=100 }
+		position = { x=-6 y=92 }
 		size = { width=70 height= 70 }
 		clipping = no
 
@@ -520,7 +522,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "province_building_entry"
-		position = { x=3 y=-5 }
+		position = { x=0 y=80 }
 		size = { width=96 height= 50 }
 		clipping = no
 
@@ -531,13 +533,13 @@ guiTypes = {
 		
 		iconType = {
 			name = "level_bg"
-			position = { x=60 y=0 }	
+			position = { x=65 y=11 }	
 			spriteType = "GFX_generic_text_bg_60"
 		}
 		
 		instantTextboxType = {
 			name = "level"
-			position = { x = 31 y = 14 }
+			position = { x = 45 y = 14 }
 			font = "hoi_20b"
 			maxWidth = 100
 			maxHeight = 100
