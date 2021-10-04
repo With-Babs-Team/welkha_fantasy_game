@@ -20,7 +20,7 @@ add_ideas = {
 }
 
 create_country_leader = {
-	name = "Ialamitu"
+	name = "POLITICS_IALAMITU_DESC"
 	desc = "POLITICS_IALAMITU_DESC"
 	picture = "Portrait_NIK_IALAMITU.dds"
 	ideology = subflaurism
