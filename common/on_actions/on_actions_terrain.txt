@@ -8,6 +8,12 @@ on_actions = {
 					province = { id = 134 }
 				}
 			}
+			52 = {
+				add_province_modifier = {
+					static_modifiers = { terrain_munsalvasche }
+					province = { id = 4750 }
+				}
+			}			
 		}
 	}
 }

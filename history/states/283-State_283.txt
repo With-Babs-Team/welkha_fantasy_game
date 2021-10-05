@@ -5,6 +5,11 @@ state={
 		157 355 858 916 1016 1658 1793 1866 1961 1992 2799 2957 4584 4667 4712 4725 4753 4760 4795 4807 4823 4842 4856 5639 5909 6550 
 	}
 	history={
+		victory_points = { 5909 5 }
+		victory_points = { 4712 10 }
+		victory_points = { 4842 5 }
+		victory_points = { 1866 3 }
+	
 		owner = PAR
 		add_core_of = PAR
 			buildings = {

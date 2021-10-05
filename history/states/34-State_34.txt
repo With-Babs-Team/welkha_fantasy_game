@@ -12,6 +12,8 @@ state={
 		30 838 1344 2456 2617 2631 2711 4506 4512 4527 4534 4571 4606 
 	}
 	history={
+		victory_points = { 838 20 }
+		victory_points = { 4512 3 }	
 		owner = PAR
 		add_core_of = PAR
 			buildings = {

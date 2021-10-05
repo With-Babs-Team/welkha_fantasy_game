@@ -1,2 +1,3 @@
 # Modifiers for unique terrain GFX
 terrain_feherva = { }
+terrain_munsalvasche = { }

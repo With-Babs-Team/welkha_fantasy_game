@@ -3,4 +3,8 @@ spriteTypes = {
 		name = "GFX_terrain_feherva"
 		textureFile = "gfx/interface/terrain/terrain_feherva.dds"
 	}
+	spriteType = {
+		name = "GFX_terrain_munsalvasche"
+		textureFile = "gfx/interface/terrain/terrain_munsalvasche.dds"
+	}	
 }

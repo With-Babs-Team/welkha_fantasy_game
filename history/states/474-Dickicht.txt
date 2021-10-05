@@ -6,6 +6,7 @@ state={
 		932 2043 4522 4548 4564 4600 4685 4773 
 	}
 	history={
+		victory_points = { 932 20 }	
 		owner = PAR
 		add_core_of = PAR
 			buildings = {
