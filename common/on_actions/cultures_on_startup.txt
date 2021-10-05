@@ -43,6 +43,10 @@ on_actions = {
 		effect = {
 		#Irian
 		32 = { set_variable = { nationality = 9 } }
-		}			
+		}
+		effect = {
+		#Parailid
+		52 = { set_variable = { nationality = 10 } }
+		}		
 	}
 }

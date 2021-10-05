@@ -59,6 +59,12 @@ guiTypes = {
 			position = {x=-28 y=-22}
 			spriteType = GFX_culture_straveniс_irian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
+		}
+		iconType = {
+			name = "culture_maric_parailid"
+			position = {x=-0 y=-0}
+			spriteType = GFX_culture_maric_parailid
+			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}		
 	}
 }

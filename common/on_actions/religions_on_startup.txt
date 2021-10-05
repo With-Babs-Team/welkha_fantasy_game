@@ -1,0 +1,8 @@
+on_actions = {
+	on_startup = {
+		effect = {
+		#hvarenism
+		52 = { set_variable = { religion = 1 } }	#Munsalväsche
+		}				
+	}
+}

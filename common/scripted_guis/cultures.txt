@@ -54,5 +54,10 @@ scripted_gui = {
 				check_variable = { nationality = 9 }
 			}
 		}		
+		triggers = {
+			culture_maric_parailid = {
+				check_variable = { nationality = 10 }
+			}
+		}				
 	}
 }

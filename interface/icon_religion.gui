@@ -1,0 +1,14 @@
+guiTypes = {
+	containerWindowType = {
+		name = "religion_icon_container"
+		position = {x=95 y=117}
+		size = { width=780 height=496 }
+
+		iconType = {
+			name = "religion_phosphoritic_hvarenism"
+			position = {x=-0 y=-0}
+			spriteType = GFX_religion_phosphoritic_hvarenism
+			pdx_tooltip = "EOANB_RELIGION_INFO"
+		}		
+	}
+}

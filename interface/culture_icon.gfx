@@ -34,5 +34,9 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_culture_straveniс_irian"
 		texturefile = "gfx/interface/ideas/culture/culture_straveniс_irian.dds"
+	}
+	spriteType = {
+		name = "GFX_culture_maric_parailid"
+		texturefile = "gfx/interface/ideas/culture/culture_maric_parailid.dds"
 	}	
 }
