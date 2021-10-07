@@ -12,9 +12,13 @@ guiTypes = {
 		#hide_sound = menu_close_window
 		show_sound = menu_open_window
 		
-		background = {
-			name = "Background"		
-			quadTextureSprite ="GFX_tiled_plain_bg"
+		containerWindowType = {
+			name = "test"
+			size = { width=549 height=100%% }
+			background = {
+				name = "Background"
+				quadTextureSprite ="GFX_tiled_window_plain_grey"
+			}
 		}
 
 		iconType ={
@@ -71,7 +75,30 @@ guiTypes = {
 			}
 		}
 
-		
+		containerWindowType = {
+			name = "ideas"
+			position = { x = 0 y = 332 }
+			size = { width=100%% height=95%% }
+			verticalScrollbar = "right_vertical_slider"
+			margin = { top = 14 bottom = 13}
+
+			#background = {
+			#	name = "Background"
+			#	quadTextureSprite ="GFX_tiled_window_2b_border"
+			#}
+
+			gridBoxType = {
+				name = "idea_categories_grid"
+				position = { x = 52 y = 0 }
+				size = { width = 100%% height = 100%% }
+				slotsize = { width = 64 height = 90 }
+				max_slots_horizontal = 1
+				format = "UPPER_LEFT"
+			}
+		}
+
+
+
 		containerWindowType = {
 			name = "political_pie_chart"
 			position = { x= 267 y = 305 }
@@ -454,35 +481,6 @@ guiTypes = {
 			format = center
 			vertical_alignment = center
 		}
-		
-		containerWindowType = {
-			name = "ideas"
-
-			# Long_and_Happy_Life
-			position = { x = 0 y = 519 }
-
-			size = { width=100%% height=100%% }
-			verticalScrollbar = "right_vertical_slider"
-			margin = { top = 14 bottom = 13}
-		
-			background = {
-				name = "Background"
-				#quadTextureSprite ="GFX_tiled_window_2b_border"
-				#quadTextureSprite ="GFX_tiled_window_1b_border"
-				quadTextureSprite ="GFX_tiled_window_1b_border"
-			}
-			
-			gridBoxType = {
-				name = "idea_categories_grid"
-				position = { x = 17 y = 0 }
-				size = { width = 100%% height = 100%% }
-				slotsize = { width = 64 height = 106 }
-				max_slots_horizontal = 1
-				format = "UPPER_LEFT"
-			}
-
-
-		}
 
 		iconType ={
 			name ="tutorial_glow"
@@ -509,16 +507,18 @@ guiTypes = {
 			spriteType = "GFX_main_screens_bottom"
 
 			# Long_and_Happy_Life
-			position = { x = -2 y = 474 }
+			position = { x = -2 y = 800 }
 
 			Orientation = "UPPER_LEFT"
 			scale = 1.02
 		}
 
+
 		iconType = {
 			name = "rules"
 			spriteType = "GFX_rules_sum_icon"
-			position = { x = 460 y = 7 }
+			position = { x = 460 y = 9 }
+			scale = .90
 		}
 
 		buttonType = {
@@ -628,39 +628,41 @@ guiTypes = {
 		position = { x = 0 y = 0 }
 		size = { width=550 height= 100 }
 		clipping = no
-		
+
 		iconType ={
 			name ="category_header"
 			spriteType = "GFX_category_header"
-			position = { x=-5 y=2 }
+			position = { x=-40 y=12 }
 			Orientation = "UPPER_LEFT"
+			scale = 0.5
 		}
 		iconType ={
 			name ="category_icon"
 			spriteType = "GFX_idea_categories"
-			position = { x=4 y=8 }
+			position = { x=-29 y=15 }
 			Orientation = "UPPER_LEFT"
+			scale = 0.5
 		}
-		
-		
+
 		instantTextboxType = {
 			name = "name"
-			position = { x = 70 y = 14 }
+			position = { x = 0 y = 13 }
 			font = "hoi_20b"
 			text = "Government"
 			maxWidth = 300
 			maxHeight = 20
 		}
-		
+
 		gridboxtype = {
 			name = "ideas_grid"
-			position = { x = 17 y = 46 }
+			position = { x = -12 y = 38 }
 			size = { width = 100%% height = 100%% }
 			slotsize = { width = 80 height = 64 }
 			max_slots = { x = 7 y = 1 }
 			format = "UPPER_LEFT"
 		}
 	}
+
 	
 	
 	containerWindowType = {

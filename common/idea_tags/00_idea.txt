@@ -19,28 +19,25 @@ idea_categories = {
 		slot = mobilization_laws
 		slot = trade_laws
 		slot = economy
-		slot = government_type
-		slot = political_advisor
-		slot = political_advisor
 		
 		cost = 150
 		removal_cost = 0
 	}
 
-	research_production = {
-		slot = tank_manufacturer
-		slot = naval_manufacturer
-		slot = aircraft_manufacturer
-		slot = materiel_manufacturer
-		slot = industrial_concern
-		slot = theorist
+	political_law = {
+		slot = government_type
+		slot = political_activity
+		slot = electoral_legislation
+		slot = estates_legislation
+		slot = land_law
+		slot = army_type
 
 		cost = 150
 		removal_cost = 0
 
 	}
 	
-	military_staff = {
+	economy_law = {
 		slot = army_chief 
 		slot = navy_chief 
 		slot = air_chief
@@ -51,4 +48,16 @@ idea_categories = {
 		cost = 150
 		removal_cost = 0
 	}
+	
+	social_law = {
+		slot = army_chief 
+		slot = navy_chief 
+		slot = air_chief
+		slot = high_command
+		slot = high_command
+		slot = high_command
+		
+		cost = 150
+		removal_cost = 0
+	}	
 }
