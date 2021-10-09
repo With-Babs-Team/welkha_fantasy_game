@@ -1,0 +1,267 @@
+ideas = {
+	government_type = {
+		sovereign_rule = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		commissar_rule = {
+			picture = generic_communism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		social_mission = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}	
+	}
+	political_activity_laws = {
+		pa_suppression_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		pa_controlled_by_government_law = {
+			picture = generic_communism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		pa_extremist_prohibited_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		pa_full_freedom_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}			
+	}
+	electoral_laws = {
+		election_prohibited_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		election_for_elites_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		universal_suffrage_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}			
+	}
+	estates_laws = {
+		impenetrable_stratification_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		estate_based_society_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		inherited_status_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		class_based_society_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}			
+	}
+	land_laws = {
+		communal_land_tenure_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		state_land_tenure_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		noble_land_tenure_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		mixed_land_tenure_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		private_land_tenure_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+	army_type = {
+		mandatory_service_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		voluntary_service_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		mercenary_army_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		militia_army_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}	
+}

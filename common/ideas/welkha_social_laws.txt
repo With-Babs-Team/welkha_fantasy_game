@@ -1,0 +1,256 @@
+ideas = {
+	educational_laws = {
+		no_education_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		 religious_education_law = {
+			picture = generic_communism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		communal_education_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		statutory_school_education = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		statutory_professional_education = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}	
+	}
+	healthcare_laws = {
+		communal_healthcare_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		private_healthcare_law = {
+			picture = generic_communism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		socialized_healthcare_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}		
+	}
+	philic_laws = {
+		philic_discrimination_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		traditional_roles_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		philic_equity_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}			
+	}
+	tanatic_laws = {
+		exploiting_the_dead_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		posthumous_peonat_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		tanatic_equity_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		death_magick_prohibition_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+	witchcraft_laws = {
+		sorcery_prohibition_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		sorcery_state_control_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		free_pratique_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+	minority_laws = {
+		intolerance_policy_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		segregationism_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		integration_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		cosmopolitanism_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}	
+}

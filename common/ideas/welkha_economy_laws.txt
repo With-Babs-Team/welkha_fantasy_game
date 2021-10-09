@@ -1,0 +1,289 @@
+ideas = {
+	economy_law = {
+		customary_economy = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		transitional_economy = {
+			picture = generic_communism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		command_economy = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		autonomous_economy = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		сommunitarian_economy = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		devour_economy = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}		
+	}
+	slavery_laws = {
+		slave_based_economy_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		state_based_slavery_law = {
+			picture = generic_communism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		house_slavery_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		slavery_prohibition_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}			
+	}
+	сhild_labour_laws = {
+		cl_not_limited_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		cl_limited_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		cl_prohibited_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}			
+	}
+	pension_laws = {
+		no_pension_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		p_civil_servants_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		funded_pension_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		low_government_pensions_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		high_government_pensions_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}		
+	}
+	labor_safety_laws = {
+		lf_no_regulations_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		lf_low_government_control_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		lf_high_government_control_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}
+	disability_benefits_laws = {
+		no_disability_benefits_law = {
+			picture = generic_fascism_drift_bonus
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		mutual_benefit_society_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		minor_government_benefits_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+		major_government_benefits_law = {
+			picture = direct_theocracy
+			
+			modifier = {
+				stability_factor = -0.05
+				conscription = 0.001
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}
+	}	
+}
