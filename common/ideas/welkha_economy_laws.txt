@@ -44,7 +44,7 @@ ideas = {
 				factor = 0
 			}
 		}
-		сommunitarian_economy = {
+		communitarian_economy = {
 			picture = direct_theocracy
 			
 			modifier = {
