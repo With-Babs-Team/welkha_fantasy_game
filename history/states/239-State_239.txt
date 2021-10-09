@@ -5,6 +5,9 @@ state={
 	history={
 		owner = GCP
 		add_core_of = GCP
+		victory_points = {
+			4297 3 
+		}				
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
