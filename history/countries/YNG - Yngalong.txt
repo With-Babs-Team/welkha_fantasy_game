@@ -15,7 +15,11 @@ set_popularities = {
 	etatism = 10
 	ordism = 10
 }
-
+add_ideas = {
+#laws
+sorcery_prohibition_law
+tanatic_equity_law
+}
 create_country_leader = {
 	name = "Zerrin Sonau"
 	desc = "POLITICS_ZERRIN_DESC"

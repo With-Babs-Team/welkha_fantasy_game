@@ -15,7 +15,11 @@ set_popularities = {
 	etatism = 10
 	ordism = 10
 }
-
+add_ideas = {
+#laws
+sorcery_prohibition_law
+posthumous_peonat_law
+}
 create_country_leader = {
 	name = "Rodoljub Tomatović"
 	desc = "POLITICS_BALEWERK_DESC"

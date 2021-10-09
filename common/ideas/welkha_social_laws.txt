@@ -128,7 +128,7 @@ ideas = {
 	}
 	tanatic_laws = {
 		exploiting_the_dead_law = {
-			picture = generic_fascism_drift_bonus
+			picture = exploiting_the_dead_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -139,7 +139,7 @@ ideas = {
 			}
 		}
 		posthumous_peonat_law = {
-			picture = direct_theocracy
+			picture = idea_posthumous_peonat_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -150,7 +150,7 @@ ideas = {
 			}
 		}
 		tanatic_equity_law = {
-			picture = direct_theocracy
+			picture = idea_tanatic_equity_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -161,7 +161,9 @@ ideas = {
 			}
 		}
 		death_magick_prohibition_law = {
-			picture = direct_theocracy
+			picture = death_magick_prohibition_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.05
@@ -174,7 +176,8 @@ ideas = {
 	}
 	witchcraft_laws = {
 		sorcery_prohibition_law = {
-			picture = generic_fascism_drift_bonus
+			default = yes
+			picture = idea_sorcery_prohibition_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -185,7 +188,7 @@ ideas = {
 			}
 		}
 		sorcery_state_control_law = {
-			picture = direct_theocracy
+			picture = idea_sorcery_state_control_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -196,7 +199,7 @@ ideas = {
 			}
 		}
 		free_pratique_law = {
-			picture = direct_theocracy
+			picture = free_pratique_law
 			
 			modifier = {
 				stability_factor = -0.05
