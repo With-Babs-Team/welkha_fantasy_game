@@ -45,3 +45,10 @@
  MAPMODE_IDEOLOGY:0 "Режим карты: §Hидеология§!"
  MAPMODE_IDEOLOGY_DESCRIPTION:0 "Показывает тенденцию различных стран."
  CULTURE:0 "Culture"
+ 
+ 
+ 
+ government:0 "Правительство"
+ political_law:0 "Политическое законодательство"
+ economy_law:0 "Экономическое законодательство"
+ social_law:0 "Социальное законодательство"

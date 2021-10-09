@@ -38,5 +38,3 @@ tags={
 	"Ideologies"
 	"Alternative History"
 }
-supported_version="1.9.*"
-path="C:/Users/ulthi/Documents/Paradox Interactive/Hearts of Iron IV/mod/welkha_fantasy_game"
