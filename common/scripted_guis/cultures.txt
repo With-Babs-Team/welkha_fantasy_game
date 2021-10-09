@@ -20,7 +20,7 @@ scripted_gui = {
 			}
 		}
 		triggers = {
-			culture_subhumans_apsilian_visible	 = {
+			culture_subhumans_apsilian_visible = {
 				check_variable = { nationality = 3 }
 			}
 		}
@@ -55,7 +55,7 @@ scripted_gui = {
 			}
 		}		
 		triggers = {
-			culture_maric_parailid = {
+			culture_maric_parailid_visible = {
 				check_variable = { nationality = 10 }
 			}
 		}				
