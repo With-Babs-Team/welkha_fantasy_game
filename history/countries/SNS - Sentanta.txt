@@ -7,7 +7,11 @@ set_politics = {
 set_popularities = {
 	timeism = 100
 }
-
+add_ideas = {
+#laws
+exploiting_the_dead_law
+sorcery_prohibition_law
+}
 create_country_leader = {
 	name = "Vladimir"
 	desc = "POLITICS_OSIA_TRENAL_DESC"

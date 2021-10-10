@@ -7,7 +7,11 @@ set_politics = {
 set_popularities = {
 	flaurism = 100
 }
+add_ideas = {
+#laws
+free_pratique_law
 
+}
 create_country_leader = {
 	name = "Barade Arethid"
 	desc = "POLITICS_OSIA_TRENAL_DESC"

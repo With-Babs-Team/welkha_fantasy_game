@@ -1,0 +1,36 @@
+﻿l_russian:
+ ###social###
+ #образование
+ educational_laws:0 "Образовательное право"
+ no_education_law:0 "Традиционное образование"
+ religious_education_law:0 "Религиозное образование"
+ communal_education_law:0 "Земское образование"
+ statutory_school_education:0 "Обязательное школьное образование"
+ statutory_professional_education:0 "Обязательное профессиональное образование" 
+ #здравоохранение
+ healthcare_laws:0 "Медицинское право" 
+ communal_healthcare_law:0 "Традиционное здравоохранение"
+ private_healthcare_law:0 "Частное здравоохранение"
+ socialized_healthcare_law:0 "Государственное здравоохранение"
+ #филические Право
+ philic_laws:0 "Филические право" 
+ philic_discrimination_law:0 "Филическая дискриминация"
+ traditional_roles_law:0 "Традиционные филические роли"
+ philic_equity_law:0 "Филическое равенство"
+ #танатические Право
+ tanatic_laws:0 "Танатические право" 
+ exploiting_the_dead_law:0 "Эксплуатация мёртвых"
+ posthumous_peonat_law:0 "Посмертные отработки"
+ tanatic_equity_law:0 "Танатическое равенство"
+ death_magick_prohibition_law:0 "Запрет магии смерти" 
+ #Право о колдовстве
+ witchcraft_laws:0 "Колдовское право" 
+ sorcery_prohibition_law:0 "Запрет колдовства"
+ sorcery_state_control_law:0 "Государственный контроль надо колдовством"
+ free_pratique_law:0 "Свободное практика"
+ #Право о меньшинствах
+ minority_laws:0 "Права меньшинств"
+ intolerance_policy_law:0 "Политика нетерпимости"
+ segregationism_law:0 "Сегрегация меньшинств"
+ integration_law:0 "Интеграция меньшинств"
+ cosmopolitanism_law:0 "Космополитизм" 

@@ -4,6 +4,13 @@ set_politics = {
 	ruling_party = fratrianism
 	elections_allowed = no
 }
+add_ideas = {
+#laws
+free_pratique_law
+cosmopolitanism_law
+traditional_roles_law
+no_education_law
+}
 set_popularities = {
 	selenism = 10
 	utopism = 10

@@ -7,7 +7,13 @@ set_politics = {
 set_popularities = {
 	fideism = 100
 }
-
+add_ideas = {
+#laws
+sorcery_prohibition_law
+integration_law
+traditional_roles_law
+communal_education_law
+}
 create_country_leader = {
 	name = "Dragomir Niklotovich"
 	desc = "POLITICS_OSIA_TRENAL_DESC"

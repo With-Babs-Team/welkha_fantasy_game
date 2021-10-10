@@ -1,7 +1,7 @@
 ideas = {
 	educational_laws = {
 		no_education_law = {
-			picture = generic_fascism_drift_bonus
+			picture = no_education_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -12,7 +12,9 @@ ideas = {
 			}
 		}
 		 religious_education_law = {
-			picture = generic_communism_drift_bonus
+			picture = religious_education_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.05
@@ -23,7 +25,7 @@ ideas = {
 			}
 		}
 		communal_education_law = {
-			picture = direct_theocracy
+			picture = communal_education_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -34,7 +36,7 @@ ideas = {
 			}
 		}
 		statutory_school_education = {
-			picture = direct_theocracy
+			picture = statutory_school_education_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -45,7 +47,7 @@ ideas = {
 			}
 		}
 		statutory_professional_education = {
-			picture = direct_theocracy
+			picture = statutory_professional_education_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -58,7 +60,8 @@ ideas = {
 	}
 	healthcare_laws = {
 		communal_healthcare_law = {
-			picture = generic_fascism_drift_bonus
+			picture = communal_healthcare_law
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.05
@@ -69,7 +72,7 @@ ideas = {
 			}
 		}
 		private_healthcare_law = {
-			picture = generic_communism_drift_bonus
+			picture = private_healthcare_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -80,7 +83,7 @@ ideas = {
 			}
 		}
 		socialized_healthcare_law = {
-			picture = direct_theocracy
+			picture = socialized_healthcare_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -93,7 +96,7 @@ ideas = {
 	}
 	philic_laws = {
 		philic_discrimination_law = {
-			picture = generic_fascism_drift_bonus
+			picture = philic_discrimination_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -104,7 +107,9 @@ ideas = {
 			}
 		}
 		traditional_roles_law = {
-			picture = direct_theocracy
+			picture = traditional_roles_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.05
@@ -115,7 +120,7 @@ ideas = {
 			}
 		}
 		philic_equity_law = {
-			picture = direct_theocracy
+			picture = philic_equity_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -128,7 +133,7 @@ ideas = {
 	}
 	tanatic_laws = {
 		exploiting_the_dead_law = {
-			picture = generic_fascism_drift_bonus
+			picture = exploiting_the_dead_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -139,7 +144,7 @@ ideas = {
 			}
 		}
 		posthumous_peonat_law = {
-			picture = direct_theocracy
+			picture = idea_posthumous_peonat_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -150,7 +155,7 @@ ideas = {
 			}
 		}
 		tanatic_equity_law = {
-			picture = direct_theocracy
+			picture = idea_tanatic_equity_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -161,7 +166,9 @@ ideas = {
 			}
 		}
 		death_magick_prohibition_law = {
-			picture = direct_theocracy
+			picture = death_magick_prohibition_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.05
@@ -174,7 +181,8 @@ ideas = {
 	}
 	witchcraft_laws = {
 		sorcery_prohibition_law = {
-			picture = generic_fascism_drift_bonus
+			default = yes
+			picture = idea_sorcery_prohibition_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -185,7 +193,7 @@ ideas = {
 			}
 		}
 		sorcery_state_control_law = {
-			picture = direct_theocracy
+			picture = idea_sorcery_state_control_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -196,7 +204,7 @@ ideas = {
 			}
 		}
 		free_pratique_law = {
-			picture = direct_theocracy
+			picture = free_pratique_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -209,7 +217,7 @@ ideas = {
 	}
 	minority_laws = {
 		intolerance_policy_law = {
-			picture = generic_fascism_drift_bonus
+			picture = intolerance_policy_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -220,7 +228,9 @@ ideas = {
 			}
 		}
 		segregationism_law = {
-			picture = direct_theocracy
+			picture = segregationism_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.05
@@ -231,7 +241,7 @@ ideas = {
 			}
 		}
 		integration_law = {
-			picture = direct_theocracy
+			picture = integration_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -242,7 +252,7 @@ ideas = {
 			}
 		}
 		cosmopolitanism_law = {
-			picture = direct_theocracy
+			picture = cosmopolitanism_law
 			
 			modifier = {
 				stability_factor = -0.05

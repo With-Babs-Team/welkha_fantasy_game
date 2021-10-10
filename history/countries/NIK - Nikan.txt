@@ -7,12 +7,15 @@ set_politics = {
 set_popularities = {
 	flaurism = 100
 }
-
 add_ideas = {
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
 	direct_theocracy
+	intolerance_policy_law
+	posthumous_peonat_law
+	sorcery_state_control_law
+	statutory_professional_education	
 	
 	winterborns
 	king_and_court_bureaucracy
