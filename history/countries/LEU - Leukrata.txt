@@ -4,6 +4,11 @@ set_politics = {
 	ruling_party = utopism
 	elections_allowed = no
 }
+add_ideas = {
+#laws
+sorcery_prohibition_law
+cosmopolitanism_law
+}
 set_popularities = {
 	selenism = 10
 	utopism = 20

@@ -10,6 +10,10 @@ set_popularities = {
 add_ideas = {
 #laws
 sorcery_state_control_law
+philic_equity_law
+integration_law
+private_healthcare_law
+statutory_school_education
 }
 create_country_leader = {
 	name = "Yris Arcuard"

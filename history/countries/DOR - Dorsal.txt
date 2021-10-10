@@ -4,6 +4,13 @@ set_politics = {
 	ruling_party = villeinism
 	elections_allowed = no
 }
+add_ideas = {
+#laws
+sorcery_state_control_law
+integration_law
+philic_discrimination_law
+socialized_healthcare_law
+}
 set_popularities = {
 	selenism = 10
 	utopism = 10

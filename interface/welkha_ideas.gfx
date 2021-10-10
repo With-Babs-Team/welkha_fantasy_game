@@ -34,7 +34,67 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_death_magick_prohibition_law"
 		textureFile = "gfx/interface/ideas/idea_death_magick_prohibition_law.dds"
-	}		
+	}	
+	spriteType = {
+		name = "GFX_idea_intolerance_policy_law"
+		textureFile = "gfx/interface/ideas/idea_intolerance_policy_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_segregationism_law"
+		textureFile = "gfx/interface/ideas/idea_segregationism_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_integration_law"
+		textureFile = "gfx/interface/ideas/idea_integration_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_cosmopolitanism_law"
+		textureFile = "gfx/interface/ideas/idea_cosmopolitanism_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_philic_discrimination_law"
+		textureFile = "gfx/interface/ideas/idea_philic_discrimination_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_traditional_roles_law"
+		textureFile = "gfx/interface/ideas/idea_traditional_roles_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_philic_equity_law"
+		textureFile = "gfx/interface/ideas/idea_philic_equity_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_communal_healthcare_law"
+		textureFile = "gfx/interface/ideas/idea_communal_healthcare_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_private_healthcare_law"
+		textureFile = "gfx/interface/ideas/idea_private_healthcare_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_socialized_healthcare_law"
+		textureFile = "gfx/interface/ideas/idea_socialized_healthcare_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_no_education_law"
+		textureFile = "gfx/interface/ideas/idea_no_education_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_religious_education_law"
+		textureFile = "gfx/interface/ideas/idea_religious_education_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_communal_education_law"
+		textureFile = "gfx/interface/ideas/idea_communal_education_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_statutory_school_education_law"
+		textureFile = "gfx/interface/ideas/idea_statutory_school_education_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_statutory_professional_education_law"
+		textureFile = "gfx/interface/ideas/idea_statutory_professional_education_law.dds"
+	}	
 	spriteType = {
 		name = "GFX_idea_winterborns"
 		textureFile = "gfx/ideas/idea_winterborns.dds"
