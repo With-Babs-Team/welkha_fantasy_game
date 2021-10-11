@@ -14,8 +14,8 @@ sorcery_prohibition_law
 }
 create_country_leader = {
 	name = "Vladimir"
-	desc = "POLITICS_OSIA_TRENAL_DESC"
-	picture = "Portrait_ROU_Ossia_Trenal.dds"
+	desc = "POLITICS_VLADIMIR_SENTANTA_DESC"
+	picture = "Portrait_SNS_Vladimir.dds"
 	ideology = subtimeism
 	traits = {
 		
