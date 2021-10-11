@@ -4,8 +4,8 @@ ideas = {
 			picture = no_education_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				stability_factor = +0.075
+				research_speed_factor = -0.10
 			}
 			ai_will_do = {
 				factor = 0
@@ -17,8 +17,8 @@ ideas = {
 			default = yes
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				stability_factor = +0.075
+				political_power_factor = +0.01
 			}
 			ai_will_do = {
 				factor = 0
@@ -28,8 +28,9 @@ ideas = {
 			picture = communal_education_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				stability_factor = +0.05
+				research_speed_factor = +0.05
+				consumer_goods_factor = +0.01				
 			}
 			ai_will_do = {
 				factor = 0
@@ -39,8 +40,9 @@ ideas = {
 			picture = statutory_school_education_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				research_speed_factor = +0.075
+				consumer_goods_factor = +0.01
+				political_power_factor = -0.05
 			}
 			ai_will_do = {
 				factor = 0
@@ -50,8 +52,10 @@ ideas = {
 			picture = statutory_professional_education_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				research_speed_factor = +0.1
+				consumer_goods_factor = +0.02
+				political_power_factor = -0.15
+				recruitable_population = -0.01
 			}
 			ai_will_do = {
 				factor = 0
@@ -64,8 +68,7 @@ ideas = {
 			default = yes
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				monthly_population = -0.05	
 			}
 			ai_will_do = {
 				factor = 0
@@ -75,8 +78,8 @@ ideas = {
 			picture = private_healthcare_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				political_power_factor = -0.05
+				monthly_population = +0.05	
 			}
 			ai_will_do = {
 				factor = 0
@@ -86,8 +89,11 @@ ideas = {
 			picture = socialized_healthcare_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				political_power_factor = -0.15
+				monthly_population = +0.2	
+				stability_factor = +0.2
+				war_support_factor = +0.05		
+				consumer_goods_factor = +0.03		
 			}
 			ai_will_do = {
 				factor = 0
@@ -99,8 +105,9 @@ ideas = {
 			picture = philic_discrimination_law
 			
 			modifier = {
+				monthly_population = +0.1				
+				consumer_goods_factor = -0.02		
 				stability_factor = -0.05
-				conscription = 0.001
 			}
 			ai_will_do = {
 				factor = 0
@@ -112,8 +119,8 @@ ideas = {
 			default = yes
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				consumer_goods_factor = -0.01		
+				monthly_population = +0.1	
 			}
 			ai_will_do = {
 				factor = 0
@@ -124,7 +131,8 @@ ideas = {
 			
 			modifier = {
 				stability_factor = -0.05
-				conscription = 0.001
+				monthly_population = -0.1
+				production_factory_efficiency_gain_factor = 0.05
 			}
 			ai_will_do = {
 				factor = 0
@@ -136,8 +144,11 @@ ideas = {
 			picture = exploiting_the_dead_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				consumer_goods_factor = -0.05		
+				industry_free_repair_factor	= 0.50
+				state_resources_factor = +0.2
+				stability_factor = -0.15
+				political_power_factor = -0.2				
 			}
 			ai_will_do = {
 				factor = 0
@@ -147,8 +158,10 @@ ideas = {
 			picture = idea_posthumous_peonat_law
 			
 			modifier = {
+				consumer_goods_factor = -0.01		
+				industry_free_repair_factor	= 0.25
+				state_resources_factor = +0.1
 				stability_factor = -0.05
-				conscription = 0.001
 			}
 			ai_will_do = {
 				factor = 0
@@ -159,7 +172,7 @@ ideas = {
 			
 			modifier = {
 				stability_factor = -0.05
-				conscription = 0.001
+				recruitable_population = +0.25
 			}
 			ai_will_do = {
 				factor = 0
@@ -171,8 +184,8 @@ ideas = {
 			default = yes
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				stability_factor = +0.05
+
 			}
 			ai_will_do = {
 				factor = 0
@@ -185,8 +198,7 @@ ideas = {
 			picture = idea_sorcery_prohibition_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				stability_factor = +0.05
 			}
 			ai_will_do = {
 				factor = 0
@@ -196,8 +208,10 @@ ideas = {
 			picture = idea_sorcery_state_control_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				research_speed_factor = +0.10
+				political_power_factor = -0.25				
+				decryption_power = 0.1
+				crypto_strength = 0.1
 			}
 			ai_will_do = {
 				factor = 0
@@ -207,8 +221,10 @@ ideas = {
 			picture = free_pratique_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				stability_factor = -0.15
+				research_speed_factor = +0.10
+				decryption_power = 0.1
+				crypto_strength = 0.1
 			}
 			ai_will_do = {
 				factor = 0
@@ -220,8 +236,9 @@ ideas = {
 			picture = intolerance_policy_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				political_power_factor = +0.15
+				non_core_manpower = -0.04					
+				resistance_activity = 0.02
 			}
 			ai_will_do = {
 				factor = 0
@@ -233,8 +250,10 @@ ideas = {
 			default = yes
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				stability_factor = -0.075
+				consumer_goods_factor = -0.01
+				non_core_manpower = -0.02
+				resistance_activity = 0.02				
 			}
 			ai_will_do = {
 				factor = 0
@@ -244,8 +263,9 @@ ideas = {
 			picture = integration_law
 			
 			modifier = {
+				political_power_factor = -0.1
 				stability_factor = -0.05
-				conscription = 0.001
+				non_core_manpower = +0.02
 			}
 			ai_will_do = {
 				factor = 0
@@ -255,8 +275,9 @@ ideas = {
 			picture = cosmopolitanism_law
 			
 			modifier = {
-				stability_factor = -0.05
-				conscription = 0.001
+				political_power_factor = -0.1
+				stability_factor = -0.1
+				non_core_manpower = +0.04
 			}
 			ai_will_do = {
 				factor = 0
