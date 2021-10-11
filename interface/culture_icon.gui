@@ -14,49 +14,49 @@ guiTypes = {
 		}
 		iconType = {
 			name = "culture_ossianic_moorlandian"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_ossianic_moorlandic
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}
 		iconType = {
 			name = "culture_subhumans_apsilian"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_subhumans_apsilian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}		
 		iconType = {
 			name = "culture_obric_lugarian"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_obrian_lugarian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}
 		iconType = {
 			name = "culture_subhumans_bekhiric"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_subhumans_bekhiric
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}
 		iconType = {
 			name = "culture_subhumans_gelic"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_subhumans_gelic
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}
 		iconType = {
 			name = "culture_subhumans_kaskian"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_subhumans_kaskian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}
 		iconType = {
 			name = "culture_tertheric_selian"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_tertheric_selian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}	
 		iconType = {
 			name = "culture_straveniс_irian"
-			position = {x=-28 y=-22}
+			position = {x=-0 y=-0}
 			spriteType = GFX_culture_straveniс_irian
 			pdx_tooltip = "EOANB_CULTURE_INFO"
 		}

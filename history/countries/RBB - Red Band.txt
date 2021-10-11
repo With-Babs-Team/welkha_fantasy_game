@@ -17,9 +17,9 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Tamlaq Samakhid"
-	desc = "POLITICS_ZERRIN_DESC"
-	picture = "Portrait_YNG_Zerrin_priest.dds"
+	name = "Ledmir"
+	desc = "POLITICS_LEDMIR_RED_BAND_DESC"
+	picture = "Portrait_RBB_Ledmir.dds"
 	ideology = subfideism
 	traits = {
 	}
