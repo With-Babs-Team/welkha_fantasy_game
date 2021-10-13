@@ -61,6 +61,40 @@
  VICTORY_POINTS_4661:0 "Антибол"
  VICTORY_POINTS_2015:0 "Риудаура" ###Riudaura
  VICTORY_POINTS_2139:0 "Ансалонга" ###Ansalonga
+ ###Roubigo###
+ VICTORY_POINTS_2016:0 "Кибалея" ###Kybalea
+ VICTORY_POINTS_6002:0 "Чарива" ###Chariva
+ VICTORY_POINTS_2564:0 "Киренея" ###Kyrenea 
+ VICTORY_POINTS_126:0 "Кутры" ###Cūtroe
+ VICTORY_POINTS_6033:0 "Китии" ###Kities
+ VICTORY_POINTS_5794:0 "Лапефе" ###Lapêfê
+ VICTORY_POINTS_5163:0 "Коккринокреме" ###Kokkinokremê
+ VICTORY_POINTS_5506:0 "Эгкоме" ###Egkōmê
+ VICTORY_POINTS_5636:0 "Ласифы" ###Lasifȳ
+ VICTORY_POINTS_921:0 "Басилике" ###Basilikê
+ VICTORY_POINTS_88:0 "Малигриз" ###Malïgriz
+ VICTORY_POINTS_1723:0 "Бежио" ###Bёzio
+ VICTORY_POINTS_5596:0 "Перпежин" ###Perpiginne
+ VICTORY_POINTS_5478:0 "Маргариты" ###Margaritȳ
+ VICTORY_POINTS_102:0 "Диктии" ###Dictï
+ VICTORY_POINTS_5219:0 "Аногея" ###Anogea
+ VICTORY_POINTS_5022:0 "Монтобан" ###Montauban
+ VICTORY_POINTS_3084:0 "Портмара" ###Portmara
+ VICTORY_POINTS_5751:0 "Живру" ###Givereux
+ VICTORY_POINTS_6179:0 "Рубиго" ###Roubigo
+ VICTORY_POINTS_1509:0 "Теухера" ###Teucēra
+ VICTORY_POINTS_1989:0 "Эскюрак" ###Escurac
+ VICTORY_POINTS_5703:0 "Арсино" ###Arsinoê
+ VICTORY_POINTS_617:0 "Крокиатон" ###Krokiaton
+ VICTORY_POINTS_5934:0 "Купсела" ###Kūpsela
+ VICTORY_POINTS_5570:0 "Термаик" ###Thermaïque
+ VICTORY_POINTS_2778:0 "Пертьон" ###Perthion
+ VICTORY_POINTS_5850:0 "Монгинебра" ###Montginebra
+ VICTORY_POINTS_2151:0 "Килан" ###Quillanne
+ VICTORY_POINTS_428:0 "Отён" ###Autunois
+ VICTORY_POINTS_679:0 "Авалик" ###Avallique
+ VICTORY_POINTS_3252:0 "Крак Алиобра" ###Aliobra
+ VICTORY_POINTS_6178:0 "Ним" ###Nîm
  #Капитанство
  VICTORY_POINTS_4297:0 "Тюир" ###Thuir 
  #Рагенель
@@ -68,4 +102,4 @@
  #Аретиды
  VICTORY_POINTS_1619:0 "Тадмор" ###Tadmor
  #Монтегю
- VICTORY_POINTS_148:0 "Арнеги" ###Arnéguy
+ VICTORY_POINTS_148:0 "Арнеги" ###Arnéguy 		

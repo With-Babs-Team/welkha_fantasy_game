@@ -4,6 +4,8 @@ state={
 	name="STATE_154"
 
 	history={
+		victory_points = { 1723 10 }	
+	
 		owner = ROU
 		add_core_of = ROU
 		buildings = {

@@ -4,29 +4,33 @@ bookmarks = {
 		desc = "GATHERING_STORM_DESC"
 		date = 617.1.1.12
 		picture = "GFX_select_date_1936"
-		default_country = "ROU"
+		default_country = "IRI"
 		default = yes
-		
-		"ROU"={
-			history = "OTHER_GATHERING_STORM_DESC"
-		}
-		
-		"PAR"={
-			history = "OTHER_GATHERING_STORM_DESC"
-		}
-		
-		"YNG"={
-			history = "OTHER_GATHERING_STORM_DESC"
-		}
 
-		"TAN"={
-			history = "OTHER_GATHERING_STORM_DESC"
-		}
-
-		"WUN"={
-			history = "OTHER_GATHERING_STORM_DESC"
+		"IRI"={
+			history = "IRI_RAtDG"
 		}		
-		
+		"ROU"={
+			history = "ROU_RAtDG"
+		}
+		"PAR"={
+			history = "PAR_RAtDG"
+		}		
+		"DOR"={
+			history = "DOR_RAtDG"
+		}		
+		"YNG"={
+			history = "YNG_RAtDG"
+		}
+		"NIK"={
+			history = "NIK_RAtDG"
+		}
+		"RGS"={
+			history = "RGS_RAtDG"
+		}
+		"---"={
+			history = "OTHER_RAtDG"
+		}			
 		effect = {
 			randomize_weather = 22345 # <- Obligatory in every bookmark !
 			#123 = { rain_light = yes }

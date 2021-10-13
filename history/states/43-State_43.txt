@@ -5,13 +5,16 @@ state={
 		1347 2415 5996 6002 
 	}
 	history={
+		victory_points = {
+			6002 40 
+		}
 		owner = ROU
 		add_core_of = ROU
 			buildings = {
 				infrastructure = 1
 		}
 	}
-	manpower=1488
+	manpower=8500000
 	buildings_max_level_factor=1.000
 	state_category=rural
 }

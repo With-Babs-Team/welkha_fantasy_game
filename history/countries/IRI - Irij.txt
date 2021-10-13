@@ -16,8 +16,8 @@ communal_education_law
 }
 create_country_leader = {
 	name = "Dragomir Niklotovich"
-	desc = "POLITICS_OSIA_TRENAL_DESC"
-	picture = "Portrait_ROU_Ossia_Trenal.dds"
+	desc = "POLITICS_DRAGOMIR_KRULLID_DESC"
+	picture = "Portrait_IRI_DRAGOMIR_KRULLID.dds"
 	ideology = subfideism
 	traits = {
 		

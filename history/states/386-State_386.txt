@@ -5,6 +5,7 @@ state={
 		1045 1737 1868 1989 2646 3211 6037 6048 6077 6118 6119 6157 
 	}
 	history={
+		victory_points = { 1989 10 }	
 		owner = ROU
 		add_core_of = ROU
 			buildings = {
