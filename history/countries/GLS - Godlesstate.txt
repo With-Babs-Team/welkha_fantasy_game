@@ -15,7 +15,15 @@ set_popularities = {
 	etatism = 10
 	ordism = 10
 }
-
+add_ideas = {
+#laws
+sorcery_state_control_law
+intolerance_policy_law
+philic_discrimination_law
+private_healthcare_law
+major_government_benefits_law
+lf_high_government_control_law
+}
 create_country_leader = {
 	name = "Tamlaq Samakhid"
 	desc = "POLITICS_ZERRIN_DESC"

@@ -1,7 +1,7 @@
 ideas = {
 	economy_type = {
 		customary_economy = {
-			picture = generic_fascism_drift_bonus
+			picture = customary_economy
 			
 			modifier = {
 				stability_factor = +0.05
@@ -12,7 +12,9 @@ ideas = {
 			}
 		}
 		transitional_economy = {
-			picture = generic_communism_drift_bonus
+			picture = transitional_economy
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.2
@@ -27,7 +29,7 @@ ideas = {
 			}
 		}
 		command_economy = {
-			picture = direct_theocracy
+			picture = command_economy
 			
 			modifier = {
 				political_power_factor = 0.10
@@ -41,7 +43,7 @@ ideas = {
 			}
 		}
 		autonomous_economy = {
-			picture = direct_theocracy
+			picture = autonomous_economy
 			
 			modifier = {
 				industrial_capacity_factory = 0.1
@@ -54,7 +56,7 @@ ideas = {
 			}
 		}
 		communitarian_economy = {
-			picture = direct_theocracy
+			picture = communitarian_economy
 			
 			modifier = {
 				stability_factor = 0.1
@@ -68,7 +70,7 @@ ideas = {
 			}
 		}
 		devour_economy = {
-			picture = direct_theocracy
+			picture = devour_economy
 			
 			modifier = {
 				stability_factor = -0.15
@@ -85,7 +87,7 @@ ideas = {
 	}
 	slavery_laws = {
 		slave_based_economy_law = {
-			picture = generic_fascism_drift_bonus
+			picture = slave_based_economy_law
 			
 			modifier = {
 				state_production_speed_buildings_factor = 0.1					
@@ -99,7 +101,7 @@ ideas = {
 			}
 		}
 		state_based_slavery_law = {
-			picture = generic_communism_drift_bonus
+			picture = state_based_slavery_law
 			
 			modifier = {
 				political_power_gain = 0.01
@@ -112,7 +114,9 @@ ideas = {
 			}
 		}
 		house_slavery_law = {
-			picture = direct_theocracy
+			picture = house_slavery_law
+
+			default = yes
 			
 			modifier = {
 				state_resources_factor = +0.10
@@ -124,7 +128,7 @@ ideas = {
 			}
 		}
 		slavery_prohibition_law = {
-			picture = direct_theocracy
+			picture = slavery_prohibition_law
 			
 			modifier = {
 				stability_factor = 0.05				
@@ -136,7 +140,9 @@ ideas = {
 	}
 	сhild_labour_laws = {
 		cl_not_limited_law = {
-			picture = generic_fascism_drift_bonus
+			picture = cl_not_limited_law
+			
+			default = yes
 			
 			modifier = {
 				production_factory_efficiency_gain_factor = +0.05
@@ -147,7 +153,7 @@ ideas = {
 			}
 		}
 		cl_limited_law = {
-			picture = direct_theocracy
+			picture = cl_limited_law
 			
 			modifier = {
 				production_factory_efficiency_gain_factor = +0.025
@@ -158,7 +164,7 @@ ideas = {
 			}
 		}
 		cl_prohibited_law = {
-			picture = direct_theocracy
+			picture = cl_prohibited_law
 			
 			modifier = {
 				stability_factor = +0.025				
@@ -171,7 +177,9 @@ ideas = {
 	}
 	pension_laws = {
 		no_pension_law = {
-			picture = generic_fascism_drift_bonus
+			picture = no_pension_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = -0.05
@@ -181,7 +189,7 @@ ideas = {
 			}
 		}
 		p_civil_servants_law = {
-			picture = direct_theocracy
+			picture = p_civil_servants_law
 			
 			modifier = {
 				stability_factor = -0.025
@@ -193,7 +201,7 @@ ideas = {
 			}
 		}
 		funded_pension_law = {
-			picture = direct_theocracy
+			picture = funded_pension_law
 			
 			modifier = {
 				stability_factor = -0.025
@@ -203,7 +211,7 @@ ideas = {
 			}
 		}
 		low_government_pensions_law = {
-			picture = direct_theocracy
+			picture = low_government_pensions_law
 			
 			modifier = {
 				stability_factor = +0.05
@@ -214,7 +222,7 @@ ideas = {
 			}
 		}
 		high_government_pensions_law = {
-			picture = direct_theocracy
+			picture = high_government_pensions_law
 			
 			modifier = {
 				stability_factor = +0.075
@@ -227,7 +235,9 @@ ideas = {
 	}
 	labor_safety_laws = {
 		lf_no_regulations_law = {
-			picture = generic_fascism_drift_bonus
+			picture = lf_no_regulations_law
+			
+			default = yes
 			
 			modifier = {
 				industrial_capacity_factory = 0.05
@@ -242,7 +252,7 @@ ideas = {
 			}
 		}
 		lf_low_government_control_law = {
-			picture = direct_theocracy
+			picture = lf_low_government_control_law
 			
 			modifier = {
 				industrial_capacity_factory = 0.025
@@ -257,7 +267,7 @@ ideas = {
 			}
 		}
 		lf_high_government_control_law = {
-			picture = direct_theocracy
+			picture = lf_high_government_control_law
 			
 			modifier = {
 				stability_factor = 0.05
@@ -270,7 +280,9 @@ ideas = {
 	}
 	disability_benefits_laws = {
 		no_disability_benefits_law = {
-			picture = generic_fascism_drift_bonus
+			picture = no_disability_benefits_law
+			
+			default = yes			
 			
 			modifier = {
 				stability_factor = -0.05
@@ -290,7 +302,7 @@ ideas = {
 			}
 		}
 		minor_government_benefits_law = {
-			picture = direct_theocracy
+			picture = minor_government_benefits_law
 			
 			modifier = {
 				stability_factor = +0.05
@@ -301,7 +313,7 @@ ideas = {
 			}
 		}
 		major_government_benefits_law = {
-			picture = direct_theocracy
+			picture = major_government_benefits_law
 			
 			modifier = {
 				stability_factor = +0.075

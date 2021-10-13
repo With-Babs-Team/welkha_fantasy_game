@@ -7,7 +7,13 @@ set_politics = {
 set_popularities = {
 	timeism = 100	
 }
-
+add_ideas = {
+#laws
+integration_law
+private_healthcare_law
+mutual_benefit_society_law
+lf_low_government_control_law
+}
 create_country_leader = {
 	name = "Osia Trenal"
 	desc = "POLITICS_OSIA_TRENAL_DESC"
