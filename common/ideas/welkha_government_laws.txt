@@ -118,7 +118,7 @@ ideas = {
 	}
 	estates_laws = {
 		impenetrable_stratification_law = {
-			picture = generic_fascism_drift_bonus
+			picture = impenetrable_stratification_law
 			
 			modifier = {
 				stability_factor = +0.1
@@ -133,7 +133,9 @@ ideas = {
 			}
 		}
 		estate_based_society_law = {
-			picture = direct_theocracy
+			picture = estate_based_society_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = +0.075
@@ -147,7 +149,7 @@ ideas = {
 			}
 		}
 		inherited_status_law = {
-			picture = direct_theocracy
+			picture = inherited_status_law
 			
 			modifier = {
 				stability_factor = +0.025
@@ -157,7 +159,7 @@ ideas = {
 			}
 		}
 		class_based_society_law = {
-			picture = direct_theocracy
+			picture = class_based_society_law
 			
 			modifier = {
 				stability_factor = -0.075

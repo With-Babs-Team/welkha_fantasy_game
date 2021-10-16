@@ -8,6 +8,22 @@ spriteTypes = {
 		textureFile = "gfx/ideas/idea_direct_theocracy.dds"
 	}
 	spriteType = {
+		name = "GFX_idea_impenetrable_stratification_law"
+		textureFile = "gfx/interface/ideas/idea_impenetrable_stratification_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_estate_based_society_law"
+		textureFile = "gfx/interface/ideas/idea_estate_based_society_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_inherited_status_law"
+		textureFile = "gfx/interface/ideas/idea_inherited_status_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_class_based_society_law"
+		textureFile = "gfx/interface/ideas/idea_class_based_society_law.dds"
+	}		
+	spriteType = {
 		name = "GFX_idea_customary_economy"
 		textureFile = "gfx/interface/ideas/idea_customary_economy.dds"
 	}
