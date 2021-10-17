@@ -1,7 +1,9 @@
 ideas = {
 	government_type = {
 		sovereign_rule = {
-			picture = generic_fascism_drift_bonus
+			picture = sovereign_rule
+			
+			default = yes
 			
 			modifier = {
 				political_power_gain = 0.15
@@ -12,7 +14,7 @@ ideas = {
 			}
 		}
 		commissar_rule = {
-			picture = generic_communism_drift_bonus
+			picture = commissar_rule
 			
 			modifier = {
 				army_core_attack_factor = 0.1
@@ -24,7 +26,7 @@ ideas = {
 			}
 		}
 		social_mission = {
-			picture = direct_theocracy
+			picture = social_mission
 			
 			modifier = {
 				stability_factor = 0.05
@@ -38,7 +40,7 @@ ideas = {
 	}
 	political_activity_laws = {
 		pa_suppression_law = {
-			picture = generic_fascism_drift_bonus
+			picture = pa_suppression_law
 			
 			modifier = {
 				stability_factor = 0.05
@@ -50,7 +52,9 @@ ideas = {
 			}
 		}
 		pa_controlled_by_government_law = {
-			picture = generic_communism_drift_bonus
+			picture = pa_controlled_by_government_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = 0.075
@@ -62,7 +66,7 @@ ideas = {
 			}
 		}
 		pa_extremist_prohibited_law = {
-			picture = direct_theocracy
+			picture = pa_extremist_prohibited_law
 			
 			modifier = {
 				stability_factor = 0.025
@@ -73,7 +77,7 @@ ideas = {
 			}
 		}
 		pa_full_freedom_law = {
-			picture = direct_theocracy
+			picture = pa_full_freedom_law
 			
 			modifier = {
 				stability_factor = -0.025
@@ -85,7 +89,9 @@ ideas = {
 	}
 	electoral_laws = {
 		election_prohibited_law = {
-			picture = generic_fascism_drift_bonus
+			picture = election_prohibited_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = +0.05
@@ -95,7 +101,7 @@ ideas = {
 			}
 		}
 		election_for_elites_law = {
-			picture = direct_theocracy
+			picture = election_for_elites_law
 			
 			modifier = {
 				stability_factor = +0.025
@@ -106,7 +112,7 @@ ideas = {
 			}
 		}
 		universal_suffrage_law = {
-			picture = direct_theocracy
+			picture = universal_suffrage_law
 			
 			modifier = {
 				stability_factor = +0.05
@@ -172,7 +178,9 @@ ideas = {
 	}
 	land_laws = {
 		communal_land_tenure_law = {
-			picture = generic_fascism_drift_bonus
+			picture = communal_land_tenure_law
+			
+			default = yes
 			
 			modifier = {
 				stability_factor = +0.075
@@ -185,7 +193,7 @@ ideas = {
 			}
 		}
 		state_land_tenure_law = {
-			picture = direct_theocracy
+			picture = state_land_tenure_law
 			
 			modifier = {
 				consumer_goods_factor = -0.02
@@ -198,7 +206,7 @@ ideas = {
 			}
 		}
 		noble_land_tenure_law = {
-			picture = direct_theocracy
+			picture = noble_land_tenure_law
 			
 			modifier = {
 				state_resources_factor = +0.1
@@ -210,7 +218,7 @@ ideas = {
 			}
 		}
 		mixed_land_tenure_law = {
-			picture = direct_theocracy
+			picture = mixed_land_tenure_law
 			
 			modifier = {
 				state_resources_factor = +0.2
@@ -220,7 +228,7 @@ ideas = {
 			}
 		}
 		private_land_tenure_law = {
-			picture = direct_theocracy
+			picture = private_land_tenure_law
 			
 			modifier = {
 				stability_factor = -0.05
@@ -234,7 +242,7 @@ ideas = {
 	}
 	army_type = {
 		mandatory_service_law = {
-			picture = generic_fascism_drift_bonus
+			picture = mandatory_service_law
 			
 			modifier = {
 			conscription = 0.02
@@ -247,7 +255,7 @@ ideas = {
 			}
 		}
 		mercenary_army_law = {
-			picture = direct_theocracy
+			picture = mercenary_army_law
 			
 			modifier = {
 				consumer_goods_factor = +0.03
@@ -259,7 +267,7 @@ ideas = {
 			}
 		}
 		voluntary_service_law = {
-			picture = direct_theocracy
+			picture = voluntary_service_law
 			
 			modifier = {
 			army_morale_factor = +0.1
@@ -270,7 +278,9 @@ ideas = {
 			}
 		}
 		militia_army_law = {
-			picture = direct_theocracy
+			picture = militia_army_law
+			
+			default = yes
 			
 			modifier = {
 				army_core_attack_factor = 0.1

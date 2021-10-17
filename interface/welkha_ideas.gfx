@@ -8,6 +8,82 @@ spriteTypes = {
 		textureFile = "gfx/ideas/idea_direct_theocracy.dds"
 	}
 	spriteType = {
+		name = "GFX_idea_sovereign_rule"
+		textureFile = "gfx/interface/ideas/idea_sovereign_rule.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_commissar_rule"
+		textureFile = "gfx/interface/ideas/idea_commissar_rule.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_social_mission"
+		textureFile = "gfx/interface/ideas/idea_social_mission.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_pa_suppression_law"
+		textureFile = "gfx/interface/ideas/idea_pa_suppression_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_pa_controlled_by_government_law"
+		textureFile = "gfx/interface/ideas/idea_pa_controlled_by_government_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_pa_extremist_prohibited_law"
+		textureFile = "gfx/interface/ideas/idea_pa_extremist_prohibited_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_pa_full_freedom_law"
+		textureFile = "gfx/interface/ideas/idea_pa_full_freedom_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_election_prohibited_law"
+		textureFile = "gfx/interface/ideas/idea_election_prohibited_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_election_for_elites_law"
+		textureFile = "gfx/interface/ideas/idea_election_for_elites_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_universal_suffrage_law"
+		textureFile = "gfx/interface/ideas/idea_universal_suffrage_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_mandatory_service_law"
+		textureFile = "gfx/interface/ideas/idea_mandatory_service_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_mercenary_army_law"
+		textureFile = "gfx/interface/ideas/idea_mercenary_army_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_voluntary_service_law"
+		textureFile = "gfx/interface/ideas/idea_voluntary_service_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_militia_army_law"
+		textureFile = "gfx/interface/ideas/idea_militia_army_law.dds"
+	}	
+	spriteType = {
+		name = "GFX_idea_communal_land_tenure_law"
+		textureFile = "gfx/interface/ideas/idea_communal_land_tenure_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_state_land_tenure_law"
+		textureFile = "gfx/interface/ideas/idea_state_land_tenure_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_noble_land_tenure_law"
+		textureFile = "gfx/interface/ideas/idea_noble_land_tenure_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_mixed_land_tenure_law"
+		textureFile = "gfx/interface/ideas/idea_mixed_land_tenure_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_private_land_tenure_law"
+		textureFile = "gfx/interface/ideas/idea_private_land_tenure_law.dds"
+	}	
+	spriteType = {
 		name = "GFX_idea_impenetrable_stratification_law"
 		textureFile = "gfx/interface/ideas/idea_impenetrable_stratification_law.dds"
 	}
