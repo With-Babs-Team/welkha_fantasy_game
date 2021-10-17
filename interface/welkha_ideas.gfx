@@ -62,6 +62,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_idea_militia_army_law"
 		textureFile = "gfx/interface/ideas/idea_militia_army_law.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_army_demil_law"
+		textureFile = "gfx/interface/ideas/idea_army_demil_law.dds"
 	}	
 	spriteType = {
 		name = "GFX_idea_communal_land_tenure_law"

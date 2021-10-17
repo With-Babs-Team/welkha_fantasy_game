@@ -8,8 +8,9 @@ state={
 	history={
 		owner = NIK
 		add_core_of = NIK
+		victory_points = { 2642 5 }			
 		buildings = {
-			infrastructure = 1
+			infrastructure = 1			
 		}
 	}
 	manpower=180545

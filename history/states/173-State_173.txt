@@ -6,6 +6,7 @@ state={
 	history={
 		owner = NIK
 		add_core_of = NIK
+		victory_points = { 7063 5 }		
 		buildings = {
 			infrastructure = 1
 

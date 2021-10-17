@@ -290,5 +290,20 @@ ideas = {
 				factor = 0
 			}
 		}
+		army_demil_law = {
+			picture = army_demil_law
+			
+			visible = {
+			original_tag = NIK
+			}
+			
+			modifier = {
+				army_core_attack_factor = 0.1
+				army_core_defence_factor = 0.1
+			}
+			ai_will_do = {
+				factor = 0
+			}
+		}		
 	}	
 }
