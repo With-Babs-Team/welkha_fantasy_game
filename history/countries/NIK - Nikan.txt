@@ -1,4 +1,4 @@
-﻿capital = 81
+﻿capital = 76
 
 set_politics = {
 	ruling_party = flaurism
@@ -12,6 +12,11 @@ add_ideas = {
 	limited_conscription
 	partial_economic_mobilisation
 	direct_theocracy
+	pa_suppression_law
+	election_prohibited_law
+	impenetrable_stratification_law
+	private_land_tenure_law	
+	army_demil_law	
 	intolerance_policy_law
 	posthumous_peonat_law
 	sorcery_state_control_law

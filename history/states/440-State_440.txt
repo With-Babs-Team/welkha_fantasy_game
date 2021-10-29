@@ -6,6 +6,7 @@ state={
 	history={
 		owner = IRI
 		add_core_of = IRI
+		victory_points = { 2073 20 }			
 		buildings = {
 			infrastructure = 1
 

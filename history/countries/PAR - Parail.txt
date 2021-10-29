@@ -14,6 +14,7 @@ philic_equity_law
 integration_law
 private_healthcare_law
 statutory_school_education
+minor_government_benefits_law
 }
 create_country_leader = {
 	name = "Yris Arcuard"
