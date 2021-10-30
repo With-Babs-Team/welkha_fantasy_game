@@ -173,6 +173,11 @@ spriteTypes = {
 		name = "GFX_combined_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/infantry_equipment_0.dds"
 	}		
+
+	SpriteType = {
+		name = "GFX_mortars_tech_medium"
+		texturefile = "gfx/interface/technologies/mortars_1.dds"
+	}	
 	
 	SpriteType = {
 		name = "GFX_infantry_weapons_medium"
