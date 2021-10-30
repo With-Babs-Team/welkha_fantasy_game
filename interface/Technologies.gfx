@@ -161,12 +161,22 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_advanced_infantry_weapons_medium"
-		texturefile = "gfx/interface/technologies/.dds"
+		texturefile = "gfx/interface/technologies/kaska.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_bayonets_weapons_medium"
+		texturefile = "gfx/interface/technologies/bayonets_weapons.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_bayonets_weapons1_medium"
+		texturefile = "gfx/interface/technologies/bayonets_weapons1.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_improved_infantry_weapons_medium"
-		texturefile = "gfx/interface/technologies/.dds"
+		texturefile = "gfx/interface/technologies/improved_infantry_weapons.dds"
 	}	
 
 	SpriteType = {
@@ -178,6 +188,11 @@ spriteTypes = {
 		name = "GFX_mortars_tech_medium"
 		texturefile = "gfx/interface/technologies/mortars_1.dds"
 	}	
+
+	SpriteType = {
+		name = "GFX_flamethrower_tech_medium"
+		texturefile = "gfx/interface/technologies/flamethrower_tech.dds"
+	}
 	
 	SpriteType = {
 		name = "GFX_infantry_weapons_medium"
