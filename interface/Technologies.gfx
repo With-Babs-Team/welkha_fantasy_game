@@ -532,6 +532,11 @@ spriteTypes = {
 		name = "GFX_tech_mountaineers3_medium"
 		texturefile = "gfx/interface/technologies/mountain3.dds"
 	}
+
+	SpriteType = {
+		name = "GFX_tech_mountaineers4_medium"
+		texturefile = "gfx/interface/technologies/mountain4.dds"
+	}
 	
 	SpriteType = {
 		name = "GFX_tech_mountaineers2_medium"
@@ -547,6 +552,11 @@ spriteTypes = {
 		name = "GFX_marines3_medium"
 		texturefile = "gfx/interface/technologies/marines3.dds"
 	}
+
+	SpriteType = {
+		name = "GFX_marines4_medium"
+		texturefile = "gfx/interface/technologies/marines4.dds"
+	}
 	
 	SpriteType = {
 		name = "GFX_marines2_medium"
@@ -556,6 +566,26 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_marines_medium"
 		texturefile = "gfx/interface/technologies/marines.dds"
+	}	
+
+	SpriteType = {
+		name = "GFX_light_infantry3_medium"
+		texturefile = "gfx/interface/technologies/light_infantry3.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_light_infantry4_medium"
+		texturefile = "gfx/interface/technologies/light_infantry4.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_light_infantry2_medium"
+		texturefile = "gfx/interface/technologies/light_infantry2.dds"
+	}	
+	
+	SpriteType = {
+		name = "GFX_light_infantry_medium"
+		texturefile = "gfx/interface/technologies/light_infantry.dds"
 	}	
 
 	SpriteType = {
