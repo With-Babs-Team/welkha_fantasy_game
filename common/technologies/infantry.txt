@@ -45,7 +45,7 @@ technologies = {
 	bayonets_weapons = {
 
 		category_all_infantry = {
-			soft_attack = 0.25				
+			soft_attack = 0.05				
 			breakthrough = 0.02
 		}
 	
@@ -91,8 +91,9 @@ technologies = {
 	bayonets_weapons1 = {
 
 		category_all_infantry = {
-
-		}	
+			max_organisation = 1
+			default_morale = 0.1		
+		}
 
 		research_cost = 1.5
 		start_year = 617
@@ -678,15 +679,11 @@ technologies = {
 	mortars_tech = { #миномёт
 
 		category_all_infantry = {
-			soft_attack = 0.15				
-			hard_attack = 0.05
-			ap_attack = 0.2
+			soft_attack = 0.05				
 		}
 
 		cavalry = {
-			soft_attack = 0.15				
-			hard_attack = 0.05
-			ap_attack = 0.2
+			soft_attack = 0.05				
 		}
 		
 		path = {
@@ -728,12 +725,14 @@ technologies = {
 	flamethrower_tech = { #огнемёт
 
 		category_all_infantry = {
-			soft_attack = 0.25
+			soft_attack = 0.025
+			breakthrough = 0.05
 		}
-
+		
 		cavalry = {
-			soft_attack = 0.25
-		}
+			soft_attack = 0.025		
+			breakthrough = 0.05
+		}	
 		
 		research_cost = 1.5
 		start_year = 620
