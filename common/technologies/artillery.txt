@@ -12,7 +12,7 @@ technologies = {
 		}
 
 		path = {
-			leads_to_tech = interwar_antitank
+			leads_to_tech = early_siege_artillery
 			research_cost_coeff = 1
 		}
 		
@@ -548,14 +548,14 @@ technologies = {
 		}
 	}
 	
-	interwar_antitank = { ###Осадная артиллерия1
+	early_siege_artillery = { ###Осадная артиллерия1
 
 		enable_equipments = {
-			anti_tank_equipment_1
+			siege_artillery_equipment_1
 		}
 		
 		path = {
-			leads_to_tech = antitank1
+			leads_to_tech = siege_artillery1
 			research_cost_coeff = 1
 		}
 		
@@ -595,7 +595,7 @@ technologies = {
 		}
 	}
 	
-	antitank1 = { ###улучшение осадки1
+	siege_artillery1 = { ###улучшение осадки1
 
 		anti_tank = {
 			hard_attack = 0.1
@@ -611,7 +611,7 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = antitank2
+			leads_to_tech = siege_artillery2
 			research_cost_coeff = 1
 		}
 		
@@ -642,10 +642,10 @@ technologies = {
 		}
 	}
 	
-	antitank2 = { ###осадка2
+	siege_artillery2 = { ###осадка2
 		
 		enable_equipments = {
-			anti_tank_equipment_2
+			siege_artillery_equipment_2
 		}
 		
 		path = {
@@ -653,7 +653,7 @@ technologies = {
 			research_cost_coeff = 1
 		}		
 		path = {
-			leads_to_tech = antitank3
+			leads_to_tech = siege_artillery3
 			research_cost_coeff = 1
 		}
 		
@@ -684,7 +684,7 @@ technologies = {
 		}
 	}
 	
-	antitank3 = { ###улучшение осадки2
+	siege_artillery3 = { ###улучшение осадки2
 
 		anti_tank = {
 			hard_attack = 0.1
@@ -700,7 +700,7 @@ technologies = {
 		}
 		
 		path = {
-			leads_to_tech = antitank4
+			leads_to_tech = siege_artillery4
 			research_cost_coeff = 1
 		}
 				
@@ -736,7 +736,7 @@ technologies = {
 		}
 	}
 	
-	antitank4 = { ###улучшение осадки3
+	siege_artillery4 = { ###улучшение осадки3
 
 		anti_tank = {
 			hard_attack = 0.1
@@ -752,7 +752,7 @@ technologies = {
 		}
 	
 		path = {
-			leads_to_tech = antitank5
+			leads_to_tech = siege_artillery5
 			research_cost_coeff = 1
 		}
 		
@@ -784,10 +784,10 @@ technologies = {
 		}
 	}
 	
-	antitank5 = {
+	siege_artillery5 = {
 			
 		enable_equipments = {
-			anti_tank_equipment_3
+			siege_artillery_equipment_3
 		}	
 		
 		research_cost = 2
