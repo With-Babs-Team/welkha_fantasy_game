@@ -175,6 +175,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
+		name = "GFX_siege_artillery2_medium"
+		texturefile = "gfx/interface/technologies/siege_artillery2.dds"
+	}	
+	
+	SpriteType = {
 		name = "GFX_improved_infantry_weapons_medium"
 		texturefile = "gfx/interface/technologies/improved_infantry_weapons.dds"
 	}	
