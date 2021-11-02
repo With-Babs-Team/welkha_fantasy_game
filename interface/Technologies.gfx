@@ -1,4 +1,20 @@
 spriteTypes = {	
+   ### осадная артиллерия ###
+	SpriteType = {
+		name = "GFX_early_siege_artillery_medium"
+		texturefile = "gfx/interface/technologies/early_siege_artillery.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_siege_artillery2_medium"
+		texturefile = "gfx/interface/technologies/siege_artillery2.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_siege_artillery5_medium"
+		texturefile = "gfx/interface/technologies/siege_artillery5.dds"
+	}	
+
 
 	### generic equipment archetypes ###
 
