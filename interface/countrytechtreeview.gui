@@ -868,12 +868,12 @@ guiTypes = {
 			
 				instantTextBoxType = {
 					name = "artillery_subtitle_rocket"
-					position = { x = 405 y = 460 }
+					position = { x = 405 y = 555 }
 					textureFile = ""
 					font = "hoi_33"
 					borderSize = {x = 0 y = 4}
 					text = "ARTILLERY_TITLE_ROCKET"
-					maxWidth = 210
+					maxWidth = 220
 					maxHeight = 22
 					format = center
 					Orientation = "UPPER_LEFT"
@@ -1061,7 +1061,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1936"
+						text = "590"
 						maxWidth = 130
 						maxHeight = 32
 						format = left
@@ -1074,7 +1074,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1939"
+						text = "617"
 						maxWidth = 130
 						maxHeight = 32
 						format = left
@@ -1087,7 +1087,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1940"
+						text = "619"
 						maxWidth = 130
 						maxHeight = 32
 						format = left
@@ -1100,7 +1100,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1941"
+						text = "620"
 						maxWidth = 130
 						maxHeight = 32
 						format = left
@@ -1113,7 +1113,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1942"
+						text = "621"
 						maxWidth = 130
 						maxHeight = 32
 						format = left
@@ -1126,7 +1126,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1943"
+						text = "622"
 						maxWidth = 130
 						maxHeight = 32
 						format = left
@@ -1139,7 +1139,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1944"
+						text = "623"
 						maxWidth = 130
 						maxHeight = 32
 						format = left
@@ -1152,7 +1152,7 @@ guiTypes = {
 						textureFile = ""
 						font = "hoi_36header"
 						borderSize = {x = 0 y = 4}
-						text = "1945"
+						text = "624"
 						maxWidth = 130
 						maxHeight = 32
 						format = left

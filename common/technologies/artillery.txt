@@ -328,7 +328,7 @@ technologies = {
 	rocket_artillery = { #сверхтяжелая артиллерия
 
 		enable_equipments = {
-			artillery_equipment_4
+			heavy_siege_artillery_equipment
 		}
 			
 		research_cost = 2.5

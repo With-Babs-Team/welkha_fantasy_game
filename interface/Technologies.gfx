@@ -4,10 +4,25 @@ spriteTypes = {
 		name = "GFX_early_siege_artillery_medium"
 		texturefile = "gfx/interface/technologies/early_siege_artillery.dds"
 	}
+
+	SpriteType = {
+		name = "GFX_siege_artillery1_medium"
+		texturefile = "gfx/interface/technologies/siege_artillery1.dds"
+	}
 	
 	SpriteType = {
 		name = "GFX_siege_artillery2_medium"
 		texturefile = "gfx/interface/technologies/siege_artillery2.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_siege_artillery3_medium"
+		texturefile = "gfx/interface/technologies/siege_artillery3.dds"
+	}
+
+	SpriteType = {
+		name = "GFX_siege_artillery4_medium"
+		texturefile = "gfx/interface/technologies/siege_artillery4.dds"
 	}
 
 	SpriteType = {
