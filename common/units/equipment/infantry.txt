@@ -3,7 +3,7 @@
 equipments = {
 
 	infantry_equipment = {
-		year = 550
+		year = 1936
 	
 		is_archetype = yes
 		picture = archetype_infantry_equipment		
@@ -42,7 +42,7 @@ equipments = {
 	}
 
 	infantry_equipment_0 = {
-		year = 550
+		year = 1918
 	
 		archetype = infantry_equipment
 		active = yes
@@ -52,9 +52,9 @@ equipments = {
 
 
 
-	# Regular infantry  550
+	# Regular infantry  1936
 	infantry_equipment_1 = {
-		year = 550
+		year = 1936
 	
 		archetype = infantry_equipment
 		parent = infantry_equipment_0
@@ -71,12 +71,12 @@ equipments = {
 		ap_attack = 4
 		air_attack = 0
 
-		build_cost_ic = 0.60
+		build_cost_ic = 0.50
 	}
 
-	# Improved weapons  ~590
+	# Improved weapons  ~1939
 	infantry_equipment_2 = {
-		year = 590
+		year = 1939
 	
 		archetype = infantry_equipment
 		parent = infantry_equipment_1
@@ -100,9 +100,9 @@ equipments = {
 		
 	}
 	
-	# Advanced weapons  ~619
+	# Advanced weapons  ~1942
 	infantry_equipment_3 = {
-		year = 619
+		year = 1942
 	
 		archetype = infantry_equipment
 		parent = infantry_equipment_2
@@ -123,58 +123,6 @@ equipments = {
 		build_cost_ic = 0.69
 		resources = {
 			steel = 4
-		}
-	}
-
-	# Advanced weapons  ~621
-	infantry_equipment_4 = {
-		year = 621
-	
-		archetype = infantry_equipment
-		parent = infantry_equipment_2
-		priority = 10
-		visual_level = 3
-		
-		#Defensive Abilities
-		defense = 38
-		breakthrough = 6
-
-		#Offensive Abilities
-		soft_attack = 15
-		hard_attack = 2.5
-		ap_attack = 12
-		air_attack = 0
-		
-		reliability = 0.8
-		build_cost_ic = 0.80
-		resources = {
-			steel = 5
-		}
-	}
-
-	# Advanced weapons  ~623
-	infantry_equipment_5 = {
-		year = 623
-	
-		archetype = infantry_equipment
-		parent = infantry_equipment_2
-		priority = 10
-		visual_level = 3
-		
-		#Defensive Abilities
-		defense = 42
-		breakthrough = 7
-
-		#Offensive Abilities
-		soft_attack = 18
-		hard_attack = 3
-		ap_attack = 14
-		air_attack = 0
-		
-		reliability = 0.8
-		build_cost_ic = 1.1
-		resources = {
-			steel = 6
 		}
 	}
 }

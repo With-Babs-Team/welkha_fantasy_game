@@ -1,0 +1,9 @@
+#Aland - annexation_ENG_CONQ
+can_release_england = {
+	state = 126 #Greater London Area
+	NOT = { is_claimed_by = ROOT }
+}
+can_release_cornwall = {
+	state = 147 #Truro
+	NOT = { is_claimed_by = ROOT }
+}

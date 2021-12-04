@@ -1,0 +1,51 @@
+characters = {
+		RUS_Dmitriy_Sergeevich={
+		name= "Dmitry III"
+		desc = "POLITICS_DMITRIY_SERGEEVICH_DESC"
+		portraits={
+			civilian={
+				large="gfx/leaders/RUS/Portrait_Dmitriy_Sergeevich.tga"
+			}
+		}
+		country_leader={
+			ideology=conservatism_subtype
+			traits={  }
+			expire="1965.1.1"
+			id=-1
+		}
+	}
+		RUS_Alexander_Vasilevsky={
+		name= "Alexander Vasilevsky"
+		portraits={
+			army={
+				large="gfx/leaders/RUS/Portrait_Alexander_Vasilevsky.tga"
+				small="gfx/interface/ideas/Ministers/russianTsardom/marshals/Alexander_Vasilevsky.dds"
+			}
+		}
+		advisor={
+			slot = high_command
+			idea_token = Alexander_Vasilevsky
+			ledger = army
+			allowed = {
+				original_tag = RUS
+			}
+			traits = {
+				army_armored_3
+			}
+			cost = 200
+			ai_will_do = {
+				factor = 8.000
+			}
+		}
+		corps_commander={
+			traits = { infantry_officer }
+			skill = 2
+			attack_skill = 2
+			defense_skill = 2
+			planning_skill = 2
+			logistics_skill = 2
+			id = 421
+		}
+	}
+}
+

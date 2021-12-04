@@ -1,0 +1,199 @@
+# renaming events trigger
+is_hungarian_tag = {
+	OR = {
+		tag = RHG
+		tag = HUN
+		tag = SLK
+	}
+}
+is_arab_tag = {
+	OR = {
+	}
+}
+is_south_slavic_tag = {
+	OR = {
+		tag = SER
+	}
+}
+is_arabian_tag = {
+	OR = {
+	}
+}
+is_brz_portuguese = { 
+	OR = {
+		tag = POR
+		is_brazilian_tag = yes
+	}
+}
+is_brazilian_tag = {
+	OR = {
+	}
+}
+is_han_chinese_tag = {
+	OR = {
+	}
+}
+is_non_han_chinese_tag = {
+	OR = {
+	}
+}
+is_chinese_tag = {
+	OR = {
+		is_han_chinese_tag = yes
+		is_non_han_chinese_tag = yes
+	}
+}
+is_dutch_tag = {
+	OR = {
+		tag = HOL
+	}
+}
+is_english_tag = {
+	OR = {
+		is_american_tag = yes
+		is_british_isles_tag = yes
+		is_CANZACAF_tag = yes
+	}
+}
+is_CANZACAF_tag = {
+	OR = {
+	}
+}
+is_british_tag = {
+	OR = {
+		tag = ENG
+	}
+}
+is_british_isles_tag = {
+	OR = {
+		tag = ENG
+		tag = WLS
+		tag = SCO
+	}
+}
+is_catholic_tag = {
+	OR = {
+		is_italian_tag = yes
+		is_polish_tag = yes
+		is_spanish_speaking_tag = yes
+		is_brz_portuguese = yes
+		is_french_tag = yes
+	}
+}
+is_french_tag = {
+	OR = {
+		tag = FRA
+	}
+}
+is_french_africa_tag = {
+	OR = {
+	}
+}
+is_french_speaking_tag = {
+	OR = {
+		is_french_tag = YES
+		is_french_africa_tag = yes
+	}
+}
+is_german_tag = {
+	OR = {
+		tag = AUS
+		tag = BRA
+		tag = BAN
+		tag = BAV
+		tag = WUR
+		tag = SDD		
+		tag = BAD
+		tag = KRF
+		tag = WRZ
+		tag = ANS
+		tag = THU
+		tag = SAX
+		tag = HAN
+		tag = TRI
+		tag = HES
+		tag = MUN
+		tag = JUL
+		tag = MCL
+		tag = LUB
+		tag = TEU
+		tag = BLT
+		tag = SWI
+		tag = TYR		
+	}
+}
+is_germany_or_splinter_tag = {
+	OR = {
+		tag = GER
+	}
+}
+is_italian_tag = {
+	OR = {
+		tag = ITE
+		tag = PIE
+		tag = SIC
+		tag = POP
+		tag = VEN
+		tag = TUS
+		tag = ISR
+	}
+}
+is_polish_tag = {
+	OR = {
+		tag = WRS
+	}
+}
+is_russian_tag = {
+	OR = {
+		tag = RUS
+	}
+}
+is_south_slav_tag = {
+	OR = {
+		tag = SER
+		tag = CRO
+	}
+}
+is_turkic_tag = {
+	OR = {
+		is_oghuz_turkic_tag = yes
+		is_kipchak_turkic_tag = yes
+	}
+}
+is_oghuz_turkic_tag = {
+	OR = {
+	}
+}
+is_kipchak_turkic_tag = {
+	OR = {
+	}
+}
+is_spanish_speaking_tag = {
+	OR = {
+		is_central_american_tag = yes
+		is_spanish_tag = yes
+		is_spanish_south_american_tag = yes
+	}
+}
+is_central_american_tag = {
+	OR = {
+	}
+}
+is_spanish_tag = {
+	OR = {
+	}
+}
+is_spanish_south_american_tag = {
+	OR = {
+	}
+}
+is_indian_tag = {
+	OR = {
+	}
+}
+is_farsi_speaking_tag = {
+	OR = {
+		tag = PER
+	}
+}
+
